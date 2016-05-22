@@ -1,0 +1,6 @@
+update MAL_NEHEMIAH_SMPL_TOKEN T
+  set T.PAL_KURUMBA_TOKEN = (
+          select U.TOKEN_PAL_KURUMBA
+            from MAL_NEHEMIAH_SMPL_UNI_TOKEN U
+            where U.TOKEN_MALAYALAM = T.TOKEN
+       );

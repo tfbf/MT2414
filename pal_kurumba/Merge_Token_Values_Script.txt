@@ -1,0 +1,13 @@
+Declare
+lv_count number;
+lv_value varchar2(4000);
+begin
+select  max (v_id)  into lv_count from MAL_NEHEMIAH_SMPL_TOKEN;
+for i in 1 .. lv_count  loop
+lv_value:=null;
+SELECT LISTAGG(PAL_KURUMBA_TOKEN, ' ') WITHIN GROUP (ORDER BY PK_MAL_NEH_T_ID) into lv_value
+FROM MAL_NEHEMIAH_SMPL_TOKEN where V_ID=i;
+insert into MAL_NEHEMIAH_SMPL_CSD_EC(V_ID,TOKEN_VERSE) values (i, lv_value);
+end loop;
+commit;
+end;

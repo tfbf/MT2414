@@ -1,0 +1,25 @@
+SET ServerOutput ON;
+DECLARE
+  CURSOR lc1
+  IS
+    SELECT V_ID,TOKEN_VERSE FROM MAL_NEHEMIAH_SMPL Order By V_Id asc;
+  CURSOR lc2 (TOKEN_VERSE VARCHAR2)
+  IS
+    SELECT column_value AS temp FROM TABLE (Split_Token (TOKEN_VERSE,' '));
+    i number :=0;
+BEGIN
+  --OPEN LV1;
+  FOR LV1 IN lc1
+  LOOP
+    i:=i+1;
+    FOR LV2 IN lc2(LV1.TOKEN_VERSE)
+    LOOP
+      Insert Into MAL_NEHEMIAH_SMPL_TOKEN(V_ID,TOKEN) values  (LV1.V_ID,LV2.temp);
+    END LOOP;
+  END LOOP;
+EXCEPTION
+WHEN OTHERS THEN
+  dbms_output.put_line (dbms_utility.format_error_backtrace||dbms_utility.format_error_stack);
+END;
+commit;
+/
