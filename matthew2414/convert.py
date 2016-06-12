@@ -33,7 +33,7 @@ def write_output(gw_file_path, dest_file_path, tokens):
         line_words = nltk.word_tokenize(line.decode('utf8'))
         new_line_words = []
         for word in line_words:
-            new_line_words.append(tokens[word])
+            new_line_words.append(tokens.get(word, word))
         out_line = " ".join(new_line_words)
         out_text_lines.append(out_line)
 

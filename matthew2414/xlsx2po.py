@@ -1,9 +1,7 @@
-import os
 import sys
 
-import nltk
 import polib
-
+from openpyxl import load_workbook
 
 PO_METADATA = {
     'Project-Id-Version': '1.0',
@@ -17,20 +15,19 @@ PO_METADATA = {
     'Content-Transfer-Encoding': '8bit',
 }
 
-def tokenize(file_path):
-    input_text = open(file_path).read()
-    tokens = nltk.word_tokenize(input_text.decode('utf8'))
-    return set([x.encode('utf-8') for x in tokens])
-
 def main():
     po = polib.POFile("", encoding="utf-8")
     po.metadata = PO_METADATA
     file_path = sys.argv[1]
-    tokens = tokenize(file_path)
-    for t in tokens:
+    wb = load_workbook(filename=file_path)
+    ws = wb.worksheets[0]
+    for row in ws.rows:
         entry = polib.POEntry(
-            msgid=unicode(t, 'utf-8'),
-            msgstr=u'',
+            msgid=unicode(row[0].value),
+            msgstr=unicode(row[1].value)
             )
         po.append(entry)
+
+    import pdb;pdb.set_trace()
     po.save(file_path+".po")
+

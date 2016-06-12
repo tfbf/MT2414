@@ -7,6 +7,7 @@ setup(name="matthew2414",
         "console_scripts": [
             "matthew2414-extract = matthew2414.convert:main",
             "matthew2414-convert = matthew2414.convert:main",
+            "matthew2414-xlsx2po = matthew2414.xlsx2po:main",
             ]
         }
     )
