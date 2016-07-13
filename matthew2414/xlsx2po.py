@@ -28,6 +28,5 @@ def main():
             )
         po.append(entry)
 
-    import pdb;pdb.set_trace()
     po.save(file_path+".po")
 
