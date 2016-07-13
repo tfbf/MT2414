@@ -1,0 +1,6258 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: tfbfgroup@googlegroups.com\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2007-10-18 14:00+0100\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "मरम्‍मत"
+msgstr ""
+
+msgid "करूँगा।"
+msgstr ""
+
+msgid "जलफाटक"
+msgstr ""
+
+msgid "नहूम"
+msgstr ""
+
+msgid "अम्‍सी"
+msgstr ""
+
+msgid "पलत्‍याह"
+msgstr ""
+
+msgid "खुली"
+msgstr ""
+
+msgid "मरायाह"
+msgstr ""
+
+msgid "खुले"
+msgstr ""
+
+msgid "नाके"
+msgstr ""
+
+msgid "चुकी।"
+msgstr ""
+
+msgid "पिछले"
+msgstr ""
+
+msgid "कोठरी"
+msgstr ""
+
+msgid "सीआ"
+msgstr ""
+
+msgid "को।"
+msgstr ""
+
+msgid "है**"
+msgstr ""
+
+msgid "कोनेवाले"
+msgstr ""
+
+msgid "करता"
+msgstr ""
+
+msgid "गाकर"
+msgstr ""
+
+msgid "लोटेगा"
+msgstr ""
+
+msgid "आराधना"
+msgstr ""
+
+msgid "कोलहोजे"
+msgstr ""
+
+msgid "सामने"
+msgstr ""
+
+msgid "लेवियों"
+msgstr ""
+
+msgid "बल"
+msgstr ""
+
+msgid "मे"
+msgstr ""
+
+msgid "बातें"
+msgstr ""
+
+msgid "बसा"
+msgstr ""
+
+msgid "उठे"
+msgstr ""
+
+msgid "बच"
+msgstr ""
+
+msgid "अनुग्रहकारी"
+msgstr ""
+
+msgid "बकबुक्‍याह"
+msgstr ""
+
+msgid "बैठी"
+msgstr ""
+
+msgid "प्राण"
+msgstr ""
+
+msgid "उपज"
+msgstr ""
+
+msgid "बहत्‍तर"
+msgstr ""
+
+msgid "“वे"
+msgstr ""
+
+msgid "सीसरा"
+msgstr ""
+
+msgid "रहकर"
+msgstr ""
+
+msgid "योनातान"
+msgstr ""
+
+msgid "वालों"
+msgstr ""
+
+msgid "तुल्‍य"
+msgstr ""
+
+msgid "जाना"
+msgstr ""
+
+msgid "धर्मी"
+msgstr ""
+
+msgid "किया"
+msgstr ""
+
+msgid "मासेयाह"
+msgstr ""
+
+msgid "बरेक्‍याह"
+msgstr ""
+
+msgid "दल"
+msgstr ""
+
+msgid "भीड़"
+msgstr ""
+
+msgid "मिटा"
+msgstr ""
+
+msgid "देखा"
+msgstr ""
+
+msgid "कमर"
+msgstr ""
+
+msgid "बेर्शेबा"
+msgstr ""
+
+msgid "स्‍त्री"
+msgstr ""
+
+msgid "विधियाँ"
+msgstr ""
+
+msgid "जिन्‍होंने"
+msgstr ""
+
+msgid "खेती"
+msgstr ""
+
+msgid "मचान"
+msgstr ""
+
+msgid "दामाद"
+msgstr ""
+
+msgid "आज"
+msgstr ""
+
+msgid "मल्‍लूकी"
+msgstr ""
+
+msgid "बेत्‍पेलेत"
+msgstr ""
+
+msgid "लगाए।"
+msgstr ""
+
+msgid "चान्‍दी"
+msgstr ""
+
+msgid "ऊरिय्‍याह"
+msgstr ""
+
+msgid "रपायाह"
+msgstr ""
+
+msgid "आशिर्वाद"
+msgstr ""
+
+msgid "प्रायश्‍चित्‍त"
+msgstr ""
+
+msgid "रेकाब"
+msgstr ""
+
+msgid "देनेवाला"
+msgstr ""
+
+msgid "लकड़ी"
+msgstr ""
+
+msgid "रखी"
+msgstr ""
+
+msgid "की।"
+msgstr ""
+
+msgid "शपत्‍याह"
+msgstr ""
+
+msgid "माद्याह"
+msgstr ""
+
+msgid "मीशाएल"
+msgstr ""
+
+msgid "43"
+msgstr ""
+
+msgid "यहूदी"
+msgstr ""
+
+msgid "यहोनातान।"
+msgstr ""
+
+msgid "नबी"
+msgstr ""
+
+msgid "फाटकों"
+msgstr ""
+
+msgid "यहोशू"
+msgstr ""
+
+msgid "नबो"
+msgstr ""
+
+msgid "माँगता"
+msgstr ""
+
+msgid "चौक"
+msgstr ""
+
+msgid "गदहों"
+msgstr ""
+
+msgid "अन्दर"
+msgstr ""
+
+msgid "ओपेल"
+msgstr ""
+
+msgid "बेंड़े"
+msgstr ""
+
+msgid "रहनेवाले"
+msgstr ""
+
+msgid "सुधार"
+msgstr ""
+
+msgid "पदायाह"
+msgstr ""
+
+msgid "विलाप"
+msgstr ""
+
+msgid "गिबोनी"
+msgstr ""
+
+msgid "प्रेम"
+msgstr ""
+
+msgid "भूमि"
+msgstr ""
+
+msgid "ऊँचाई"
+msgstr ""
+
+msgid "पुत्र"
+msgstr ""
+
+msgid "मत्‍तनै"
+msgstr ""
+
+msgid "प्रचार"
+msgstr ""
+
+msgid "जाकर"
+msgstr ""
+
+msgid "अवसर"
+msgstr ""
+
+msgid "लड़केबालों"
+msgstr ""
+
+msgid "भेजो"
+msgstr ""
+
+msgid "हशब्‍ना"
+msgstr ""
+
+msgid "चलना"
+msgstr ""
+
+msgid "अम्‍मोनियों"
+msgstr ""
+
+msgid "भेजी"
+msgstr ""
+
+msgid "हारून"
+msgstr ""
+
+msgid "कहो।"
+msgstr ""
+
+msgid "भेजे"
+msgstr ""
+
+msgid "सफल"
+msgstr ""
+
+msgid "चाहते"
+msgstr ""
+
+msgid "भेड़"
+msgstr ""
+
+msgid "अभिमान"
+msgstr ""
+
+msgid "दिया।"
+msgstr ""
+
+msgid "तुझ"
+msgstr ""
+
+msgid "पाप"
+msgstr ""
+
+msgid "पाठ"
+msgstr ""
+
+msgid "हानि"
+msgstr ""
+
+msgid "लड़ें"
+msgstr ""
+
+msgid "पास"
+msgstr ""
+
+msgid "पार"
+msgstr ""
+
+msgid "पाए"
+msgstr ""
+
+msgid "प्रयोजन"
+msgstr ""
+
+msgid "योसादाक"
+msgstr ""
+
+msgid "द्वारपालों"
+msgstr ""
+
+msgid "धन्‍य"
+msgstr ""
+
+msgid "करेंगे।”"
+msgstr ""
+
+msgid "रोगी"
+msgstr ""
+
+msgid "हक्‍कोस"
+msgstr ""
+
+msgid "तुम"
+msgstr ""
+
+msgid "“फिर"
+msgstr ""
+
+msgid "सीधे"
+msgstr ""
+
+msgid "कूड़ाफाटक"
+msgstr ""
+
+msgid "बनवा"
+msgstr ""
+
+msgid "जलाने"
+msgstr ""
+
+msgid "समेत"
+msgstr ""
+
+msgid "तिहाई"
+msgstr ""
+
+msgid "घरानों"
+msgstr ""
+
+msgid ","
+msgstr ""
+
+msgid "नसीह"
+msgstr ""
+
+msgid "ध्‍वनि"
+msgstr ""
+
+msgid "आकर"
+msgstr ""
+
+msgid "गढ़"
+msgstr ""
+
+msgid "यहूदियों"
+msgstr ""
+
+msgid "कोई"
+msgstr ""
+
+msgid "9"
+msgstr ""
+
+msgid "ओनो"
+msgstr ""
+
+msgid "बीस"
+msgstr ""
+
+msgid "गिलादी"
+msgstr ""
+
+msgid "छाप"
+msgstr ""
+
+msgid "छोड़कर"
+msgstr ""
+
+msgid "चढ़ाई"
+msgstr ""
+
+msgid "हुआ।"
+msgstr ""
+
+msgid "चढ़ाए"
+msgstr ""
+
+msgid "उपाय"
+msgstr ""
+
+msgid "बताया"
+msgstr ""
+
+msgid "कमाई"
+msgstr ""
+
+msgid "बेटी"
+msgstr ""
+
+msgid "गढ़ता"
+msgstr ""
+
+msgid "खाई"
+msgstr ""
+
+msgid "कोप"
+msgstr ""
+
+msgid "कोठरियों"
+msgstr ""
+
+msgid "खाए"
+msgstr ""
+
+msgid "बीच"
+msgstr ""
+
+msgid "बाल"
+msgstr ""
+
+msgid "बार"
+msgstr ""
+
+msgid "तुम्‍हें"
+msgstr ""
+
+msgid "लम्‍बे"
+msgstr ""
+
+msgid "बकरियाँ"
+msgstr ""
+
+msgid "दिन"
+msgstr ""
+
+msgid "बाद"
+msgstr ""
+
+msgid "बात"
+msgstr ""
+
+msgid "महासभा"
+msgstr ""
+
+msgid "उनका"
+msgstr ""
+
+msgid "था"
+msgstr ""
+
+msgid "कहते"
+msgstr ""
+
+msgid "बाई"
+msgstr ""
+
+msgid "गिललै"
+msgstr ""
+
+msgid "पहुँचाएँगे।"
+msgstr ""
+
+msgid "दिए"
+msgstr ""
+
+msgid "कोठे"
+msgstr ""
+
+msgid "दाहिनी"
+msgstr ""
+
+msgid "लाते"
+msgstr ""
+
+msgid "देश"
+msgstr ""
+
+msgid "ईश्‍वर"
+msgstr ""
+
+msgid "बेचते"
+msgstr ""
+
+msgid "शुद्धता"
+msgstr ""
+
+msgid "तराई"
+msgstr ""
+
+msgid "देख"
+msgstr ""
+
+msgid "गन्‍धियों"
+msgstr ""
+
+msgid "आमने-सामने"
+msgstr ""
+
+msgid "मत"
+msgstr ""
+
+msgid "कितने"
+msgstr ""
+
+msgid "मन"
+msgstr ""
+
+msgid "विश्राम"
+msgstr ""
+
+msgid "बेटियाँ"
+msgstr ""
+
+msgid "करके"
+msgstr ""
+
+msgid "महीदा"
+msgstr ""
+
+msgid "पड़ेगा"
+msgstr ""
+
+msgid "ऊजै"
+msgstr ""
+
+msgid "इकट्ठे"
+msgstr ""
+
+msgid "सुनी।"
+msgstr ""
+
+msgid "प्रतिष्‍ठा"
+msgstr ""
+
+msgid "होगा"
+msgstr ""
+
+msgid "सेताफाटक"
+msgstr ""
+
+msgid "चाहता"
+msgstr ""
+
+msgid "हेनादाद"
+msgstr ""
+
+msgid "“तू"
+msgstr ""
+
+msgid "यदपि"
+msgstr ""
+
+msgid "बयालीस"
+msgstr ""
+
+msgid "समझाए"
+msgstr ""
+
+msgid "जा"
+msgstr ""
+
+msgid "जल"
+msgstr ""
+
+msgid "ॠण"
+msgstr ""
+
+msgid "सुकर्म"
+msgstr ""
+
+msgid "विरोध"
+msgstr ""
+
+msgid "जब"
+msgstr ""
+
+msgid "“जाति"
+msgstr ""
+
+msgid "सुनाता"
+msgstr ""
+
+msgid "यहोहानान।"
+msgstr ""
+
+msgid "देंगे।"
+msgstr ""
+
+msgid "देखता"
+msgstr ""
+
+msgid "होदिय्‍याह"
+msgstr ""
+
+msgid "नामधराई"
+msgstr ""
+
+msgid "दबाया"
+msgstr ""
+
+msgid "चट्टान"
+msgstr ""
+
+msgid "शबन्‍याह"
+msgstr ""
+
+msgid "पचास"
+msgstr ""
+
+msgid "बैठा"
+msgstr ""
+
+msgid "बिग्‍वै"
+msgstr ""
+
+msgid "स्‍थानों"
+msgstr ""
+
+msgid "आपस"
+msgstr ""
+
+msgid "उठा"
+msgstr ""
+
+msgid "उसी"
+msgstr ""
+
+msgid "उसे"
+msgstr ""
+
+msgid "धूमधाम"
+msgstr ""
+
+msgid "जब्‍दीएल"
+msgstr ""
+
+msgid "हगावा"
+msgstr ""
+
+msgid "जाएँ।"
+msgstr ""
+
+msgid "हसर्शूआल"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "जैतून"
+msgstr ""
+
+msgid "द्वार"
+msgstr ""
+
+msgid "देखकर"
+msgstr ""
+
+msgid "भड़काते"
+msgstr ""
+
+msgid "चन्‍दे"
+msgstr ""
+
+msgid "तेरे"
+msgstr ""
+
+msgid "गालाल"
+msgstr ""
+
+msgid "छुड़ाता"
+msgstr ""
+
+msgid "तेरी"
+msgstr ""
+
+msgid "ऐसा"
+msgstr ""
+
+msgid "भेजा"
+msgstr ""
+
+msgid "हतीपा"
+msgstr ""
+
+msgid "इकट्ठा"
+msgstr ""
+
+msgid "चलने"
+msgstr ""
+
+msgid "ठहराने"
+msgstr ""
+
+msgid "वैसा"
+msgstr ""
+
+msgid "धारण"
+msgstr ""
+
+msgid "चढ़"
+msgstr ""
+
+msgid "तितर"
+msgstr ""
+
+msgid "दे।"
+msgstr ""
+
+msgid "महाजलराशि"
+msgstr ""
+
+msgid "लोटने"
+msgstr ""
+
+msgid "कनानियों"
+msgstr ""
+
+msgid "हैं"
+msgstr ""
+
+msgid "सेवा"
+msgstr ""
+
+msgid "इनकार"
+msgstr ""
+
+msgid "मैदान"
+msgstr ""
+
+msgid "मेलबलि"
+msgstr ""
+
+msgid "बर्कोस"
+msgstr ""
+
+msgid "गए**"
+msgstr ""
+
+msgid "सेवक"
+msgstr ""
+
+msgid "दास-दासियाँ"
+msgstr ""
+
+msgid "सैंतीस"
+msgstr ""
+
+msgid "सपत्‍याह"
+msgstr ""
+
+msgid "मोल"
+msgstr ""
+
+msgid "पाटा"
+msgstr ""
+
+msgid "कडी"
+msgstr ""
+
+msgid "महानद"
+msgstr ""
+
+msgid "एलूल"
+msgstr ""
+
+msgid "लेवीय"
+msgstr ""
+
+msgid "13"
+msgstr ""
+
+msgid "बाँधी"
+msgstr ""
+
+msgid "घुसे"
+msgstr ""
+
+msgid "थोड़े"
+msgstr ""
+
+msgid "यादोन"
+msgstr ""
+
+msgid "रीति"
+msgstr ""
+
+msgid "उधार"
+msgstr ""
+
+msgid "तुम्‍मीम"
+msgstr ""
+
+msgid "लेता"
+msgstr ""
+
+msgid "प्रान्‍तों"
+msgstr ""
+
+msgid "उठाते"
+msgstr ""
+
+msgid "मोर्दकै"
+msgstr ""
+
+msgid "19"
+msgstr ""
+
+msgid "सम्‍बन्‍धी"
+msgstr ""
+
+msgid "लगाया"
+msgstr ""
+
+msgid "उतरे"
+msgstr ""
+
+msgid "जाता"
+msgstr ""
+
+msgid "जाति"
+msgstr ""
+
+msgid "बातो"
+msgstr ""
+
+msgid "यकब्‍सेल"
+msgstr ""
+
+msgid "वहाँ"
+msgstr ""
+
+msgid "चिताते"
+msgstr ""
+
+msgid "घरेलू"
+msgstr ""
+
+msgid "गुम्‍मट"
+msgstr ""
+
+msgid "यहूदा"
+msgstr ""
+
+msgid "सम्मानके"
+msgstr ""
+
+msgid "यदायाह।"
+msgstr ""
+
+msgid "गण"
+msgstr ""
+
+msgid "किया।"
+msgstr ""
+
+msgid "\\id"
+msgstr ""
+
+msgid "ओग"
+msgstr ""
+
+msgid "उनकी"
+msgstr ""
+
+msgid "उनके"
+msgstr ""
+
+msgid "कृपादृष्‍टि**"
+msgstr ""
+
+msgid "अहीतूब"
+msgstr ""
+
+msgid "गई"
+msgstr ""
+
+msgid "गए"
+msgstr ""
+
+msgid "लम्‍बा"
+msgstr ""
+
+msgid "उत्‍पन्न"
+msgstr ""
+
+msgid "झाड़ा"
+msgstr ""
+
+msgid "मशुल्‍लाम।"
+msgstr ""
+
+msgid "अबिय्‍याह"
+msgstr ""
+
+msgid "साथ"
+msgstr ""
+
+msgid "सात"
+msgstr ""
+
+msgid "दुर्दशा"
+msgstr ""
+
+msgid "सिरे"
+msgstr ""
+
+msgid "बोझ"
+msgstr ""
+
+msgid "खड़े"
+msgstr ""
+
+msgid "वैसे"
+msgstr ""
+
+msgid "छुड़ाते"
+msgstr ""
+
+msgid "लेंगे।"
+msgstr ""
+
+msgid "लीं।"
+msgstr ""
+
+msgid "ऐसे"
+msgstr ""
+
+msgid "बांधा"
+msgstr ""
+
+msgid "पोकेरेत"
+msgstr ""
+
+msgid "आएँगे"
+msgstr ""
+
+msgid "पूर्वजों"
+msgstr ""
+
+msgid "बोल"
+msgstr ""
+
+msgid "ऊर"
+msgstr ""
+
+msgid "भगा"
+msgstr ""
+
+msgid "जिन्होने"
+msgstr ""
+
+msgid "कष्‍ट"
+msgstr ""
+
+msgid "करूब"
+msgstr ""
+
+msgid "कदमीएल"
+msgstr ""
+
+msgid "रखवाले"
+msgstr ""
+
+msgid "रखवाली"
+msgstr ""
+
+msgid "नोअद्याह"
+msgstr ""
+
+msgid "“आमीन"
+msgstr ""
+
+msgid "हाकिम"
+msgstr ""
+
+msgid "यदायाह"
+msgstr ""
+
+msgid "कोल्‍होजे"
+msgstr ""
+
+msgid "करूँ"
+msgstr ""
+
+msgid "याजकपद"
+msgstr ""
+
+msgid "ध्‍यान"
+msgstr ""
+
+msgid "सादोक"
+msgstr ""
+
+msgid "आग"
+msgstr ""
+
+msgid "आओ"
+msgstr ""
+
+msgid "मुँह"
+msgstr ""
+
+msgid "आए"
+msgstr ""
+
+msgid "निकले"
+msgstr ""
+
+msgid "राम्‍याह"
+msgstr ""
+
+msgid "नहमानी"
+msgstr ""
+
+msgid "पहुँचाए"
+msgstr ""
+
+msgid "कृपादृष्‍टि"
+msgstr ""
+
+msgid "आस"
+msgstr ""
+
+msgid "भेड़फाटक"
+msgstr ""
+
+msgid "बारूक"
+msgstr ""
+
+msgid "ख्‍च्‍चर"
+msgstr ""
+
+msgid "आप"
+msgstr ""
+
+msgid "शेकेल"
+msgstr ""
+
+msgid "आठ"
+msgstr ""
+
+msgid "योयादा"
+msgstr ""
+
+msgid "टटके"
+msgstr ""
+
+msgid "उन्‍हें"
+msgstr ""
+
+msgid "शबन्‍याह।"
+msgstr ""
+
+msgid "“जैसा"
+msgstr ""
+
+msgid "सातवें"
+msgstr ""
+
+msgid "आना"
+msgstr ""
+
+msgid "सारे"
+msgstr ""
+
+msgid "बहुतेरी"
+msgstr ""
+
+msgid "कर्मचारी"
+msgstr ""
+
+msgid "सारी"
+msgstr ""
+
+msgid "डालियाँ"
+msgstr ""
+
+msgid "हिन्नोम"
+msgstr ""
+
+msgid "जाए।"
+msgstr ""
+
+msgid "अदना"
+msgstr ""
+
+msgid "प्रभु"
+msgstr ""
+
+msgid "यद्ध"
+msgstr ""
+
+msgid "एक"
+msgstr ""
+
+msgid "सम्मान"
+msgstr ""
+
+msgid "बनना"
+msgstr ""
+
+msgid "बनानेवालों"
+msgstr ""
+
+msgid "चिट्ठयाँ"
+msgstr ""
+
+msgid "कूड़ाफाटक"
+msgstr ""
+
+msgid "शकम्‍याह"
+msgstr ""
+
+msgid "जिन्‍हों"
+msgstr ""
+
+msgid "आतेर"
+msgstr ""
+
+msgid "कड़ियाँ"
+msgstr ""
+
+msgid "खोल"
+msgstr ""
+
+msgid "लगाते"
+msgstr ""
+
+msgid "मल्‍किय्‍याह"
+msgstr ""
+
+msgid "छुड़ाए"
+msgstr ""
+
+msgid "यरोहाम"
+msgstr ""
+
+msgid "फेर"
+msgstr ""
+
+msgid "बिन्नई"
+msgstr ""
+
+msgid "हेलकै।"
+msgstr ""
+
+msgid "निस्वार्थ"
+msgstr ""
+
+msgid "निज"
+msgstr ""
+
+msgid "पिल्‍हा"
+msgstr ""
+
+msgid "यहाँ"
+msgstr ""
+
+msgid "“परन्‍तु"
+msgstr ""
+
+msgid "अर्थात्"
+msgstr ""
+
+msgid "है।"
+msgstr ""
+
+msgid "59"
+msgstr ""
+
+msgid "58"
+msgstr ""
+
+msgid "55"
+msgstr ""
+
+msgid "ऊरियाह"
+msgstr ""
+
+msgid "57"
+msgstr ""
+
+msgid "56"
+msgstr ""
+
+msgid "51"
+msgstr ""
+
+msgid "बड़े"
+msgstr ""
+
+msgid "53"
+msgstr ""
+
+msgid "52"
+msgstr ""
+
+msgid "पहुँचाया"
+msgstr ""
+
+msgid "नित"
+msgstr ""
+
+msgid "हादीद"
+msgstr ""
+
+msgid "54"
+msgstr ""
+
+msgid "बड़ी"
+msgstr ""
+
+msgid "सेनापति"
+msgstr ""
+
+msgid "डेरे"
+msgstr ""
+
+msgid "50"
+msgstr ""
+
+msgid "झाड़कर"
+msgstr ""
+
+msgid "बोली"
+msgstr ""
+
+msgid "बोलते"
+msgstr ""
+
+msgid "उपासना"
+msgstr ""
+
+msgid "येशु"
+msgstr ""
+
+msgid "येशू"
+msgstr ""
+
+msgid "अन्न"
+msgstr ""
+
+msgid "अन्य"
+msgstr ""
+
+msgid "जो"
+msgstr ""
+
+msgid "शाप"
+msgstr ""
+
+msgid "यों"
+msgstr ""
+
+msgid "उज्‍जा"
+msgstr ""
+
+msgid "नबियो"
+msgstr ""
+
+msgid "हरुमप"
+msgstr ""
+
+msgid "अज्‍माबेत"
+msgstr ""
+
+msgid "रोते"
+msgstr ""
+
+msgid "बेटियों"
+msgstr ""
+
+msgid "चिताता"
+msgstr ""
+
+msgid "सरकारी"
+msgstr ""
+
+msgid "सौदे"
+msgstr ""
+
+msgid "डालीं"
+msgstr ""
+
+msgid "सवायीम"
+msgstr ""
+
+msgid "जाते"
+msgstr ""
+
+msgid "जाती"
+msgstr ""
+
+msgid "किए"
+msgstr ""
+
+msgid "मिकमश"
+msgstr ""
+
+msgid "पहत्‍मोआब"
+msgstr ""
+
+msgid "बुन्नी"
+msgstr ""
+
+msgid "इनमें"
+msgstr ""
+
+msgid "घरों"
+msgstr ""
+
+msgid "उसका"
+msgstr ""
+
+msgid "ओबेल"
+msgstr ""
+
+msgid "जलपाई"
+msgstr ""
+
+msgid "दासी"
+msgstr ""
+
+msgid "जाएँ"
+msgstr ""
+
+msgid "रखनेवाले"
+msgstr ""
+
+msgid "टटका"
+msgstr ""
+
+msgid "अड़सठ"
+msgstr ""
+
+msgid "करेगा"
+msgstr ""
+
+msgid "देगा।”"
+msgstr ""
+
+msgid "मरेमोत"
+msgstr ""
+
+msgid "बैतलेहेम"
+msgstr ""
+
+msgid "यहोवा"
+msgstr ""
+
+msgid "बनाऊँ।”"
+msgstr ""
+
+msgid "हश्‍बद्दाना"
+msgstr ""
+
+msgid "गहर"
+msgstr ""
+
+msgid "रहें"
+msgstr ""
+
+msgid "करना।”"
+msgstr ""
+
+msgid "तक"
+msgstr ""
+
+msgid "तट"
+msgstr ""
+
+msgid "योएद"
+msgstr ""
+
+msgid "सुनता"
+msgstr ""
+
+msgid "“परमेश्‍वर"
+msgstr ""
+
+msgid "सबोईम"
+msgstr ""
+
+msgid "कर।”"
+msgstr ""
+
+msgid "मालूम"
+msgstr ""
+
+msgid "तन"
+msgstr ""
+
+msgid "बेथक्‍केरेम"
+msgstr ""
+
+msgid "अशदोदी"
+msgstr ""
+
+msgid "तब"
+msgstr ""
+
+msgid "रहने"
+msgstr ""
+
+msgid "देखते"
+msgstr ""
+
+msgid "इनका"
+msgstr ""
+
+msgid "इम्‍मेर"
+msgstr ""
+
+msgid "होमबलि"
+msgstr ""
+
+msgid "आ"
+msgstr ""
+
+msgid "कौन"
+msgstr ""
+
+msgid "बता"
+msgstr ""
+
+msgid "चिताकर"
+msgstr ""
+
+msgid "दिए।"
+msgstr ""
+
+msgid "अंश"
+msgstr ""
+
+msgid "लेते"
+msgstr ""
+
+msgid "ऐ"
+msgstr ""
+
+msgid "दयालु"
+msgstr ""
+
+msgid "भर"
+msgstr ""
+
+msgid "तिहत्‍तर।"
+msgstr ""
+
+msgid "जब्‍दी"
+msgstr ""
+
+msgid "अदायाह"
+msgstr ""
+
+msgid "परमपवित्र"
+msgstr ""
+
+msgid "भाए"
+msgstr ""
+
+msgid "व"
+msgstr ""
+
+msgid "यद्दू"
+msgstr ""
+
+msgid "उन्‍होने"
+msgstr ""
+
+msgid "विग्‍वै"
+msgstr ""
+
+msgid "रहा।"
+msgstr ""
+
+msgid "उजाड़"
+msgstr ""
+
+msgid "सच्‍ची"
+msgstr ""
+
+msgid "चलनेवालों"
+msgstr ""
+
+msgid "बुझाने"
+msgstr ""
+
+msgid "स्‍वर"
+msgstr ""
+
+msgid "नहेम्याह"
+msgstr ""
+
+msgid "अट्ठानवे।"
+msgstr ""
+
+msgid "प्रति"
+msgstr ""
+
+msgid "बहत्तर"
+msgstr ""
+
+msgid "लादते"
+msgstr ""
+
+msgid "आ।"
+msgstr ""
+
+msgid "वेदी"
+msgstr ""
+
+msgid "पादोन"
+msgstr ""
+
+msgid "आदीन"
+msgstr ""
+
+msgid "खेतों"
+msgstr ""
+
+msgid "रुपया"
+msgstr ""
+
+msgid "फलवाले"
+msgstr ""
+
+msgid "जिन्‍हें"
+msgstr ""
+
+msgid "उज्‍जियाह"
+msgstr ""
+
+msgid "बाँध"
+msgstr ""
+
+msgid "बिन्‍यामीनियों"
+msgstr ""
+
+msgid "औरों"
+msgstr ""
+
+msgid "मशिल्‍लेमोत"
+msgstr ""
+
+msgid "पहर"
+msgstr ""
+
+msgid "भेज"
+msgstr ""
+
+msgid "पहल"
+msgstr ""
+
+msgid "गड़बड़ी"
+msgstr ""
+
+msgid "लिख"
+msgstr ""
+
+msgid "कामों"
+msgstr ""
+
+msgid "घूमकर"
+msgstr ""
+
+msgid "पढ़ते"
+msgstr ""
+
+msgid "राज्‍य"
+msgstr ""
+
+msgid "अज्‍जूर"
+msgstr ""
+
+msgid "वस्‍त्र"
+msgstr ""
+
+msgid "बेरेक्‍याह"
+msgstr ""
+
+msgid "दृढ़"
+msgstr ""
+
+msgid "राजमिस्त्री"
+msgstr ""
+
+msgid "गिबोन"
+msgstr ""
+
+msgid "लिखी"
+msgstr ""
+
+msgid "रईसों"
+msgstr ""
+
+msgid "आदोनीकाम"
+msgstr ""
+
+msgid "लिखे"
+msgstr ""
+
+msgid "सन्‍तान"
+msgstr ""
+
+msgid "शब्‍बत"
+msgstr ""
+
+msgid "इनसे"
+msgstr ""
+
+msgid "याजकों"
+msgstr ""
+
+msgid "“यह"
+msgstr ""
+
+msgid "पलायाह"
+msgstr ""
+
+msgid "बाना।"
+msgstr ""
+
+msgid "कितनों"
+msgstr ""
+
+msgid "उड़ाने"
+msgstr ""
+
+msgid "पश्‍चाताप"
+msgstr ""
+
+msgid "शस्‍त्रों"
+msgstr ""
+
+msgid "सकें।"
+msgstr ""
+
+msgid "गाते"
+msgstr ""
+
+msgid "एत्तिम्माद"
+msgstr ""
+
+msgid "बर्छियें"
+msgstr ""
+
+msgid "हाकिमों"
+msgstr ""
+
+msgid "क्‍यों"
+msgstr ""
+
+msgid "रहो"
+msgstr ""
+
+msgid "सवार"
+msgstr ""
+
+msgid "चौहत्‍तर।"
+msgstr ""
+
+msgid "रहें।”"
+msgstr ""
+
+msgid "चढ़ाकर"
+msgstr ""
+
+msgid "सामान"
+msgstr ""
+
+msgid "रहता"
+msgstr ""
+
+msgid "आनन्‍दित"
+msgstr ""
+
+msgid "तीस"
+msgstr ""
+
+msgid "दाऊदपुर"
+msgstr ""
+
+msgid "तीन"
+msgstr ""
+
+msgid "कंगाल"
+msgstr ""
+
+msgid "अरबी"
+msgstr ""
+
+msgid "गढ़वाले"
+msgstr ""
+
+msgid "सच्‍चा"
+msgstr ""
+
+msgid "नीचे"
+msgstr ""
+
+msgid "विलम्‍ब"
+msgstr ""
+
+msgid "खाकर"
+msgstr ""
+
+msgid "चिट्ठियाँ"
+msgstr ""
+
+msgid "लगाने"
+msgstr ""
+
+msgid "सोपेरेत"
+msgstr ""
+
+msgid "झोपड़ियो"
+msgstr ""
+
+msgid "ये"
+msgstr ""
+
+msgid "डालें।"
+msgstr ""
+
+msgid "बनाएँगे"
+msgstr ""
+
+msgid "राजाओं"
+msgstr ""
+
+msgid "भणडारों"
+msgstr ""
+
+msgid "लाया"
+msgstr ""
+
+msgid "उसको"
+msgstr ""
+
+msgid "बदल"
+msgstr ""
+
+msgid "दी"
+msgstr ""
+
+msgid "उसकी"
+msgstr ""
+
+msgid "उसके"
+msgstr ""
+
+msgid "बाँट"
+msgstr ""
+
+msgid "कोठरियाँ"
+msgstr ""
+
+msgid "मत्‍तित्‍याह"
+msgstr ""
+
+msgid "विचार"
+msgstr ""
+
+msgid "कब्रिस्‍तान"
+msgstr ""
+
+msgid "रहे।"
+msgstr ""
+
+msgid "आए।"
+msgstr ""
+
+msgid "लाने"
+msgstr ""
+
+msgid "अन्‍यजातियों"
+msgstr ""
+
+msgid "जत्‍तू"
+msgstr ""
+
+msgid "प्रिय"
+msgstr ""
+
+msgid "मिलाकर"
+msgstr ""
+
+msgid "हनन्‍याह।"
+msgstr ""
+
+msgid "खिलाना"
+msgstr ""
+
+msgid "सुना"
+msgstr ""
+
+msgid "अहजै"
+msgstr ""
+
+msgid "ढालकर"
+msgstr ""
+
+msgid "बड़ा"
+msgstr ""
+
+msgid "ज्ञान"
+msgstr ""
+
+msgid "भाइयों"
+msgstr ""
+
+msgid "हिजकिय्‍याह"
+msgstr ""
+
+msgid "पशुओं"
+msgstr ""
+
+msgid "जिनका"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "शूरवीर"
+msgstr ""
+
+msgid "चौवन।"
+msgstr ""
+
+msgid "अधिकारिन"
+msgstr ""
+
+msgid "छुट्टी"
+msgstr ""
+
+msgid "स्‍मारक"
+msgstr ""
+
+msgid "बेटें-बेटियों"
+msgstr ""
+
+msgid "भले"
+msgstr ""
+
+msgid "समुद्र"
+msgstr ""
+
+msgid "प्रजा"
+msgstr ""
+
+msgid "निवासियों"
+msgstr ""
+
+msgid "भलाई"
+msgstr ""
+
+msgid "योयारीब"
+msgstr ""
+
+msgid "मरेयोत"
+msgstr ""
+
+msgid "अक्‍कूब"
+msgstr ""
+
+msgid "जातियों"
+msgstr ""
+
+msgid "जुली"
+msgstr ""
+
+msgid "खिलाई"
+msgstr ""
+
+msgid "बव्‍वै"
+msgstr ""
+
+msgid "कोलायाह"
+msgstr ""
+
+msgid "पैंतालीस"
+msgstr ""
+
+msgid "रात"
+msgstr ""
+
+msgid "बिक"
+msgstr ""
+
+msgid "अब"
+msgstr ""
+
+msgid "बिग्वै"
+msgstr ""
+
+msgid "साठ।"
+msgstr ""
+
+msgid "मिकपास"
+msgstr ""
+
+msgid "अत"
+msgstr ""
+
+msgid "बयालीस।"
+msgstr ""
+
+msgid "अपवित्र"
+msgstr ""
+
+msgid "बाँटना"
+msgstr ""
+
+msgid "पढ़कर"
+msgstr ""
+
+msgid "द्वारा"
+msgstr ""
+
+msgid "अपवाद"
+msgstr ""
+
+msgid "“यदि"
+msgstr ""
+
+msgid "पानी"
+msgstr ""
+
+msgid "घोड़ाफाटक"
+msgstr ""
+
+msgid "धनुषों"
+msgstr ""
+
+msgid "मल्‍लूक"
+msgstr ""
+
+msgid "मिले।”"
+msgstr ""
+
+msgid "बतलाया"
+msgstr ""
+
+msgid "‘तुम्‍हारा"
+msgstr ""
+
+msgid "स्‍त्रियों"
+msgstr ""
+
+msgid "हानून"
+msgstr ""
+
+msgid "प्रस्थान"
+msgstr ""
+
+msgid "आस-पास"
+msgstr ""
+
+msgid "तेरा"
+msgstr ""
+
+msgid "बनाते"
+msgstr ""
+
+msgid "मग्‍पीआश"
+msgstr ""
+
+msgid "करेंगे।"
+msgstr ""
+
+msgid "किर्यत्‍यारीम"
+msgstr ""
+
+msgid "चलेंगे"
+msgstr ""
+
+msgid "था**"
+msgstr ""
+
+msgid "कुण्ड"
+msgstr ""
+
+msgid "चाँदी"
+msgstr ""
+
+msgid "इनके"
+msgstr ""
+
+msgid "तू"
+msgstr ""
+
+msgid "तो"
+msgstr ""
+
+msgid "इनको"
+msgstr ""
+
+msgid "तलवार"
+msgstr ""
+
+msgid "खाएँ"
+msgstr ""
+
+msgid "बनाएँ"
+msgstr ""
+
+msgid "रहेगा"
+msgstr ""
+
+msgid "भीतर"
+msgstr ""
+
+msgid "आने"
+msgstr ""
+
+msgid "महेतबेल"
+msgstr ""
+
+msgid "खोले"
+msgstr ""
+
+msgid "वचन।"
+msgstr ""
+
+msgid "दाखमधु"
+msgstr ""
+
+msgid "सुनते"
+msgstr ""
+
+msgid "पक्ष"
+msgstr ""
+
+msgid "बजाकर"
+msgstr ""
+
+msgid "दस"
+msgstr ""
+
+msgid "उतरकर"
+msgstr ""
+
+msgid "मन्ना"
+msgstr ""
+
+msgid "मिट्टी"
+msgstr ""
+
+msgid "शहरपनाह"
+msgstr ""
+
+msgid "बिनती"
+msgstr ""
+
+msgid "पुरुष"
+msgstr ""
+
+msgid "करना"
+msgstr ""
+
+msgid "बीता"
+msgstr ""
+
+msgid "निमित्‍त"
+msgstr ""
+
+msgid "एल्‍याशीब"
+msgstr ""
+
+msgid "नीसान"
+msgstr ""
+
+msgid "बन"
+msgstr ""
+
+msgid "धुप"
+msgstr ""
+
+msgid "बलियों"
+msgstr ""
+
+msgid "बीसवें"
+msgstr ""
+
+msgid "सौवाँ"
+msgstr ""
+
+msgid "जरुब्‍बाबेल"
+msgstr ""
+
+msgid "चुनकर"
+msgstr ""
+
+msgid "सैंतालीस।"
+msgstr ""
+
+msgid "खजूर"
+msgstr ""
+
+msgid "और"
+msgstr ""
+
+msgid "शरीरों"
+msgstr ""
+
+msgid "इतिहास"
+msgstr ""
+
+msgid "भाँति"
+msgstr ""
+
+msgid "होबायाह"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "भला"
+msgstr ""
+
+msgid "समझाने"
+msgstr ""
+
+msgid "यह"
+msgstr ""
+
+msgid "या"
+msgstr ""
+
+msgid "बावन।"
+msgstr ""
+
+msgid "हुएः"
+msgstr ""
+
+msgid "बाँधते"
+msgstr ""
+
+msgid "रामा"
+msgstr ""
+
+msgid "गवैये"
+msgstr ""
+
+msgid "सब"
+msgstr ""
+
+msgid "11"
+msgstr ""
+
+msgid "10"
+msgstr ""
+
+msgid "होरोनी"
+msgstr ""
+
+msgid "12"
+msgstr ""
+
+msgid "15"
+msgstr ""
+
+msgid "14"
+msgstr ""
+
+msgid "17"
+msgstr ""
+
+msgid "16"
+msgstr ""
+
+msgid "लोगों"
+msgstr ""
+
+msgid "18"
+msgstr ""
+
+msgid "लगा।"
+msgstr ""
+
+msgid "जानता"
+msgstr ""
+
+msgid "मँहगी"
+msgstr ""
+
+msgid "जताते"
+msgstr ""
+
+msgid "मेरी"
+msgstr ""
+
+msgid "आठवें"
+msgstr ""
+
+msgid "मेरे"
+msgstr ""
+
+msgid "लिखा"
+msgstr ""
+
+msgid "चिट्ठी"
+msgstr ""
+
+msgid "समान"
+msgstr ""
+
+msgid "मछली"
+msgstr ""
+
+msgid "कभी"
+msgstr ""
+
+msgid "सम्‍बल्‍लत"
+msgstr ""
+
+msgid "आधे"
+msgstr ""
+
+msgid "जानकर"
+msgstr ""
+
+msgid "सामर्थ"
+msgstr ""
+
+msgid "क्षमा"
+msgstr ""
+
+msgid "शल्‍मै"
+msgstr ""
+
+msgid "चिता"
+msgstr ""
+
+msgid "प्राचीनकाल"
+msgstr ""
+
+msgid "पर"
+msgstr ""
+
+msgid "दीं।"
+msgstr ""
+
+msgid "पासेह"
+msgstr ""
+
+msgid "“हे"
+msgstr ""
+
+msgid "फैला"
+msgstr ""
+
+msgid "टिके।"
+msgstr ""
+
+msgid "घने"
+msgstr ""
+
+msgid "समाज"
+msgstr ""
+
+msgid "योएल"
+msgstr ""
+
+msgid "हसूपा"
+msgstr ""
+
+msgid "बेटे-बेटियों"
+msgstr ""
+
+msgid "शोबै"
+msgstr ""
+
+msgid "अनुसार"
+msgstr ""
+
+msgid "चौबीस।"
+msgstr ""
+
+msgid "उधर"
+msgstr ""
+
+msgid "केरोस"
+msgstr ""
+
+msgid "नतोपा"
+msgstr ""
+
+msgid "सना"
+msgstr ""
+
+msgid "जिनको"
+msgstr ""
+
+msgid "जिनके"
+msgstr ""
+
+msgid "भरे"
+msgstr ""
+
+msgid "अन्‍यजाति"
+msgstr ""
+
+msgid "फिर"
+msgstr ""
+
+msgid "गदहे"
+msgstr ""
+
+msgid "टहल"
+msgstr ""
+
+msgid "बुरा"
+msgstr ""
+
+msgid "पकड़े"
+msgstr ""
+
+msgid "व्‍यापारी"
+msgstr ""
+
+msgid "हशब्‍याह"
+msgstr ""
+
+msgid "थोड़ा"
+msgstr ""
+
+msgid "सुलैमान"
+msgstr ""
+
+msgid "उनमें"
+msgstr ""
+
+msgid "दो"
+msgstr ""
+
+msgid "हृष्‍ट-पुष्‍ट"
+msgstr ""
+
+msgid "हटाते"
+msgstr ""
+
+msgid "समाचार"
+msgstr ""
+
+msgid "तेल"
+msgstr ""
+
+msgid "बन्‍धुआई"
+msgstr ""
+
+msgid "विश्रामदिनों"
+msgstr ""
+
+msgid "चर्चा"
+msgstr ""
+
+msgid "दे"
+msgstr ""
+
+msgid "समझने"
+msgstr ""
+
+msgid "बन्‍धक"
+msgstr ""
+
+msgid "चिकना"
+msgstr ""
+
+msgid "गवैयों"
+msgstr ""
+
+msgid "गहिरे"
+msgstr ""
+
+msgid "आश्‍चर्यकर्म"
+msgstr ""
+
+msgid "इब्राहीम"
+msgstr ""
+
+msgid "लज्‍जित"
+msgstr ""
+
+msgid "खम्‍भा"
+msgstr ""
+
+msgid "भेड़फाटक"
+msgstr ""
+
+msgid "नतनेल।"
+msgstr ""
+
+msgid "इसरालियों"
+msgstr ""
+
+msgid "सवारी"
+msgstr ""
+
+msgid "नबूकदनेस्‍सर"
+msgstr ""
+
+msgid "देखा।"
+msgstr ""
+
+msgid "पड़ेगा।”"
+msgstr ""
+
+msgid "जाना।"
+msgstr ""
+
+msgid "अजबूक"
+msgstr ""
+
+msgid "अधीन"
+msgstr ""
+
+msgid "बस"
+msgstr ""
+
+msgid "नामक"
+msgstr ""
+
+msgid "बाशान"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "सिंहासन"
+msgstr ""
+
+msgid "व्‍यापारियों"
+msgstr ""
+
+msgid "याजक"
+msgstr ""
+
+msgid "पतह्माह"
+msgstr ""
+
+msgid "मिले।"
+msgstr ""
+
+msgid "लाकीश"
+msgstr ""
+
+msgid "ऊँचे"
+msgstr ""
+
+msgid "अलंग"
+msgstr ""
+
+msgid "प्रसन्न"
+msgstr ""
+
+msgid "राजा"
+msgstr ""
+
+msgid "यिर्मयाह"
+msgstr ""
+
+msgid "पिलतै।"
+msgstr ""
+
+msgid "हर्हयाह"
+msgstr ""
+
+msgid "परपोता"
+msgstr ""
+
+msgid "सातवाँ"
+msgstr ""
+
+msgid "प्रकार"
+msgstr ""
+
+msgid "बन्‍धुआ"
+msgstr ""
+
+msgid "कीला"
+msgstr ""
+
+msgid "कल्‍याण"
+msgstr ""
+
+msgid "उदासी"
+msgstr ""
+
+msgid "60"
+msgstr ""
+
+msgid "61"
+msgstr ""
+
+msgid "62"
+msgstr ""
+
+msgid "63"
+msgstr ""
+
+msgid "64"
+msgstr ""
+
+msgid "65"
+msgstr ""
+
+msgid "66"
+msgstr ""
+
+msgid "67"
+msgstr ""
+
+msgid "68"
+msgstr ""
+
+msgid "69"
+msgstr ""
+
+msgid "सकते"
+msgstr ""
+
+msgid "शोमरोन"
+msgstr ""
+
+msgid "झोपडि़यां"
+msgstr ""
+
+msgid "बेचने"
+msgstr ""
+
+msgid "करनेवाला"
+msgstr ""
+
+msgid "“हम"
+msgstr ""
+
+msgid "मिय्‍यामीन"
+msgstr ""
+
+msgid "हस्‍सनूआ"
+msgstr ""
+
+msgid "मिन्‍यामीन"
+msgstr ""
+
+msgid "आज्ञाएँ"
+msgstr ""
+
+msgid "खम्‍भा।"
+msgstr ""
+
+msgid "अलग"
+msgstr ""
+
+msgid "आमोन"
+msgstr ""
+
+msgid "थीं।"
+msgstr ""
+
+msgid "ठीक"
+msgstr ""
+
+msgid "स्‍वर्ग"
+msgstr ""
+
+msgid "आमोक"
+msgstr ""
+
+msgid "छुड़ा"
+msgstr ""
+
+msgid "दोहाई"
+msgstr ""
+
+msgid "पृथ्‍वी"
+msgstr ""
+
+msgid "उन्‍हों"
+msgstr ""
+
+msgid "मान"
+msgstr ""
+
+msgid "ठहराए"
+msgstr ""
+
+msgid "हत्‍तील"
+msgstr ""
+
+msgid "निन्‍दा"
+msgstr ""
+
+msgid "ठहरूं"
+msgstr ""
+
+msgid "गिद्देल"
+msgstr ""
+
+msgid "विवाह"
+msgstr ""
+
+msgid "लेवी"
+msgstr ""
+
+msgid "लोग"
+msgstr ""
+
+msgid "घराने"
+msgstr ""
+
+msgid "उतरा"
+msgstr ""
+
+msgid "करो"
+msgstr ""
+
+msgid "योयाकीम"
+msgstr ""
+
+msgid "बातों"
+msgstr ""
+
+msgid "डाँटकर"
+msgstr ""
+
+msgid "निर्बल"
+msgstr ""
+
+msgid "‘यदि"
+msgstr ""
+
+msgid "अकेला"
+msgstr ""
+
+msgid "न"
+msgstr ""
+
+msgid "बेचा"
+msgstr ""
+
+msgid "लोद"
+msgstr ""
+
+msgid "पल्‍लों"
+msgstr ""
+
+msgid "हो।"
+msgstr ""
+
+msgid "शत्रु"
+msgstr ""
+
+msgid "पहुँचा"
+msgstr ""
+
+msgid "ओबघाह"
+msgstr ""
+
+msgid "पत्‍थर"
+msgstr ""
+
+msgid "चला"
+msgstr ""
+
+msgid "आमीन"
+msgstr ""
+
+msgid "आनन्‍द"
+msgstr ""
+
+msgid "अधिपति"
+msgstr ""
+
+msgid "छठवें"
+msgstr ""
+
+msgid "चलता"
+msgstr ""
+
+msgid "हाथ"
+msgstr ""
+
+msgid "जूआ"
+msgstr ""
+
+msgid "शरीर"
+msgstr ""
+
+msgid "माननेवाले"
+msgstr ""
+
+msgid "बुलवाया"
+msgstr ""
+
+msgid "उन्‍हीं"
+msgstr ""
+
+msgid "विषय"
+msgstr ""
+
+msgid "ऊँचा"
+msgstr ""
+
+msgid "करोगे"
+msgstr ""
+
+msgid "जाए।”"
+msgstr ""
+
+msgid "हित्‍तियों"
+msgstr ""
+
+msgid "आते"
+msgstr ""
+
+msgid "विश्‍वासघात"
+msgstr ""
+
+msgid "करे"
+msgstr ""
+
+msgid "यिज्रह्माह"
+msgstr ""
+
+msgid "परोश"
+msgstr ""
+
+msgid "टूटी"
+msgstr ""
+
+msgid "इच्‍छा"
+msgstr ""
+
+msgid "फँसा"
+msgstr ""
+
+msgid "शामायह"
+msgstr ""
+
+msgid "मीय्‍यामीन"
+msgstr ""
+
+msgid "\\v"
+msgstr ""
+
+msgid "करनेवालों"
+msgstr ""
+
+msgid "\\s"
+msgstr ""
+
+msgid "\\p"
+msgstr ""
+
+msgid "फारसी"
+msgstr ""
+
+msgid "Revised"
+msgstr ""
+
+msgid "चाहें"
+msgstr ""
+
+msgid "काम"
+msgstr ""
+
+msgid "नबल्‍लत"
+msgstr ""
+
+msgid "\\c"
+msgstr ""
+
+msgid "कान"
+msgstr ""
+
+msgid "बहुत"
+msgstr ""
+
+msgid "होशायाह"
+msgstr ""
+
+msgid "काठ"
+msgstr ""
+
+msgid "निकला"
+msgstr ""
+
+msgid "आएँगे।”"
+msgstr ""
+
+msgid "पहुँच"
+msgstr ""
+
+msgid "सुनारों"
+msgstr ""
+
+msgid "उत्‍तम"
+msgstr ""
+
+msgid "उत्‍तर"
+msgstr ""
+
+msgid "हूँ"
+msgstr ""
+
+msgid "सोताफाटक"
+msgstr ""
+
+msgid "करें।”"
+msgstr ""
+
+msgid "हूर"
+msgstr ""
+
+msgid "जानते"
+msgstr ""
+
+msgid "“तुम"
+msgstr ""
+
+msgid "निकाल"
+msgstr ""
+
+msgid "से"
+msgstr ""
+
+msgid "घोड़े"
+msgstr ""
+
+msgid "हुए।"
+msgstr ""
+
+msgid "सौ"
+msgstr ""
+
+msgid "माना।"
+msgstr ""
+
+msgid "चुन"
+msgstr ""
+
+msgid "चुप"
+msgstr ""
+
+msgid "प्रार्थना"
+msgstr ""
+
+msgid "चिल्‍लाहट"
+msgstr ""
+
+msgid "कडि़यों"
+msgstr ""
+
+msgid "मेम्‍नों"
+msgstr ""
+
+msgid "दुष्‍टता"
+msgstr ""
+
+msgid "भययोग्‍य"
+msgstr ""
+
+msgid "लाल"
+msgstr ""
+
+msgid "छूट"
+msgstr ""
+
+msgid "छत्‍तीस"
+msgstr ""
+
+msgid "पियाऊ"
+msgstr ""
+
+msgid "पहुँचे"
+msgstr ""
+
+msgid "“उन"
+msgstr ""
+
+msgid "लगे"
+msgstr ""
+
+msgid "स्‍थल"
+msgstr ""
+
+msgid "हों"
+msgstr ""
+
+msgid "हैं।"
+msgstr ""
+
+msgid "भागे"
+msgstr ""
+
+msgid "प्रान्‍त"
+msgstr ""
+
+msgid "टिकते"
+msgstr ""
+
+msgid "पहिला"
+msgstr ""
+
+msgid "निपटा"
+msgstr ""
+
+msgid "मलत्‍याह"
+msgstr ""
+
+msgid "भोर"
+msgstr ""
+
+msgid "भेंटे"
+msgstr ""
+
+msgid "अतिदयालु"
+msgstr ""
+
+msgid "चैन"
+msgstr ""
+
+msgid "विपत्‍ति"
+msgstr ""
+
+msgid "“अब"
+msgstr ""
+
+msgid "हत्‍तूश"
+msgstr ""
+
+msgid "वीरों"
+msgstr ""
+
+msgid "करनेवाले"
+msgstr ""
+
+msgid "इससे"
+msgstr ""
+
+msgid "मारे"
+msgstr ""
+
+msgid "तब्‍बाओत"
+msgstr ""
+
+msgid "अशदोदियों"
+msgstr ""
+
+msgid "मनसा"
+msgstr ""
+
+msgid "बेचनेवाले"
+msgstr ""
+
+msgid "क्रोध"
+msgstr ""
+
+msgid "सकता"
+msgstr ""
+
+msgid "जिले"
+msgstr ""
+
+msgid "एलीआजर"
+msgstr ""
+
+msgid "थोड़ा"
+msgstr ""
+
+msgid "ऊपर"
+msgstr ""
+
+msgid "आदि"
+msgstr ""
+
+msgid "तुझे"
+msgstr ""
+
+msgid "तेईस।"
+msgstr ""
+
+msgid "तुझी"
+msgstr ""
+
+msgid "जले"
+msgstr ""
+
+msgid "बुरे"
+msgstr ""
+
+msgid "संग"
+msgstr ""
+
+msgid "मूसा"
+msgstr ""
+
+msgid "सुनाई"
+msgstr ""
+
+msgid "खम्‍भे"
+msgstr ""
+
+msgid "खज़ानों"
+msgstr ""
+
+msgid "परमेश्‍वर"
+msgstr ""
+
+msgid "ग्रहण"
+msgstr ""
+
+msgid "बाँधकर"
+msgstr ""
+
+msgid "सुनार"
+msgstr ""
+
+msgid "खोला"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "एल्‍याकीम"
+msgstr ""
+
+msgid "दूसरे"
+msgstr ""
+
+msgid "पोखरे"
+msgstr ""
+
+msgid "सीनै"
+msgstr ""
+
+msgid "आशय"
+msgstr ""
+
+msgid "बनाया"
+msgstr ""
+
+msgid "पालन"
+msgstr ""
+
+msgid "जेरह"
+msgstr ""
+
+msgid "गिश्‍पा"
+msgstr ""
+
+msgid "अपमान"
+msgstr ""
+
+msgid "चलकर"
+msgstr ""
+
+msgid "मुख्‍य"
+msgstr ""
+
+msgid "धनुष"
+msgstr ""
+
+msgid "विश्रामदिन"
+msgstr ""
+
+msgid "दिलाया"
+msgstr ""
+
+msgid "देनेवाले"
+msgstr ""
+
+msgid "जागते"
+msgstr ""
+
+msgid "हुई।"
+msgstr ""
+
+msgid "रहे।”"
+msgstr ""
+
+msgid "आशीष"
+msgstr ""
+
+msgid "दिशा"
+msgstr ""
+
+msgid "संकट"
+msgstr ""
+
+msgid "करें।"
+msgstr ""
+
+msgid "इसका"
+msgstr ""
+
+msgid "रखवाल"
+msgstr ""
+
+msgid "बैल"
+msgstr ""
+
+msgid "गोष्‍ठी"
+msgstr ""
+
+msgid "अधिकार"
+msgstr ""
+
+msgid "मिटाया"
+msgstr ""
+
+msgid "पहली-पहली"
+msgstr ""
+
+msgid "मल्‍कियाह"
+msgstr ""
+
+msgid "अन्नबलि"
+msgstr ""
+
+msgid "माननेवाला"
+msgstr ""
+
+msgid "निकाले"
+msgstr ""
+
+msgid "चलते"
+msgstr ""
+
+msgid "विनती"
+msgstr ""
+
+msgid "क्‍योंकि"
+msgstr ""
+
+msgid "--"
+msgstr ""
+
+msgid "युद्ध"
+msgstr ""
+
+msgid "समझा"
+msgstr ""
+
+msgid "चलो"
+msgstr ""
+
+msgid "द्वारपाल"
+msgstr ""
+
+msgid "चले"
+msgstr ""
+
+msgid "पीने"
+msgstr ""
+
+msgid "ठहराया"
+msgstr ""
+
+msgid "योआब"
+msgstr ""
+
+msgid "पाँच"
+msgstr ""
+
+msgid "पड़"
+msgstr ""
+
+msgid "बालबच्‍चों"
+msgstr ""
+
+msgid "पाँव"
+msgstr ""
+
+msgid "“उनके"
+msgstr ""
+
+msgid "तकोइयों"
+msgstr ""
+
+msgid "किसी"
+msgstr ""
+
+msgid "कहाँ"
+msgstr ""
+
+msgid "उजीएल"
+msgstr ""
+
+msgid "मुखिया"
+msgstr ""
+
+msgid "“खड़े"
+msgstr ""
+
+msgid "राजभवन"
+msgstr ""
+
+msgid "दिलाई"
+msgstr ""
+
+msgid "अन्धेरा"
+msgstr ""
+
+msgid "शेमा"
+msgstr ""
+
+msgid "सुनकर"
+msgstr ""
+
+msgid "हटा"
+msgstr ""
+
+msgid "“पहाड़"
+msgstr ""
+
+msgid "चिडि़यें"
+msgstr ""
+
+msgid "रौंदते"
+msgstr ""
+
+msgid "मेंहदी"
+msgstr ""
+
+msgid "सौदा"
+msgstr ""
+
+msgid "गिनती"
+msgstr ""
+
+msgid "कनानी"
+msgstr ""
+
+msgid "दारा"
+msgstr ""
+
+msgid "बावन"
+msgstr ""
+
+msgid "परे"
+msgstr ""
+
+msgid "चालीस"
+msgstr ""
+
+msgid "चौबीसवें"
+msgstr ""
+
+msgid "किर्यतर्बा"
+msgstr ""
+
+msgid "गाए"
+msgstr ""
+
+msgid "देकर"
+msgstr ""
+
+msgid "अतायाह"
+msgstr ""
+
+msgid "दूसरा"
+msgstr ""
+
+msgid "रोने"
+msgstr ""
+
+msgid "डालते"
+msgstr ""
+
+msgid "निदान"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "रानी"
+msgstr ""
+
+msgid "सल्‍लै"
+msgstr ""
+
+msgid "भेंटों"
+msgstr ""
+
+msgid "लौट"
+msgstr ""
+
+msgid "बाहर"
+msgstr ""
+
+msgid "सल्‍लू"
+msgstr ""
+
+msgid "लबाना"
+msgstr ""
+
+msgid "भाई"
+msgstr ""
+
+msgid "भोजन"
+msgstr ""
+
+msgid "भाग"
+msgstr ""
+
+msgid "सिकलग"
+msgstr ""
+
+msgid "पहिले"
+msgstr ""
+
+msgid "पहिली"
+msgstr ""
+
+msgid "रसीन"
+msgstr ""
+
+msgid "सके।"
+msgstr ""
+
+msgid "हारीम"
+msgstr ""
+
+msgid "ठट्ठों"
+msgstr ""
+
+msgid "हारीफ"
+msgstr ""
+
+msgid "हारीप"
+msgstr ""
+
+msgid "लगा"
+msgstr ""
+
+msgid "भार"
+msgstr ""
+
+msgid "में"
+msgstr ""
+
+msgid "त्‍यागा"
+msgstr ""
+
+msgid "समझाते"
+msgstr ""
+
+msgid "रहे"
+msgstr ""
+
+msgid "दरार"
+msgstr ""
+
+msgid "दिनों"
+msgstr ""
+
+msgid "मिलने"
+msgstr ""
+
+msgid "हतीता"
+msgstr ""
+
+msgid "जितने"
+msgstr ""
+
+msgid "हग्‍गदोलीम"
+msgstr ""
+
+msgid "पीछे"
+msgstr ""
+
+msgid "होशे"
+msgstr ""
+
+msgid "बाजे"
+msgstr ""
+
+msgid "!"
+msgstr ""
+
+msgid "छः"
+msgstr ""
+
+msgid "थेः"
+msgstr ""
+
+msgid "विरुद्ध"
+msgstr ""
+
+msgid "बुनी"
+msgstr ""
+
+msgid "मानता"
+msgstr ""
+
+msgid "सकती।”"
+msgstr ""
+
+msgid "हनन्‍याह"
+msgstr ""
+
+msgid "पचपन।"
+msgstr ""
+
+msgid "कबरों"
+msgstr ""
+
+msgid "समयाह"
+msgstr ""
+
+msgid "बारियों"
+msgstr ""
+
+msgid "शुद्ध"
+msgstr ""
+
+msgid "बिन्‍यामीन"
+msgstr ""
+
+msgid "“जब"
+msgstr ""
+
+msgid "को"
+msgstr ""
+
+msgid "आधी"
+msgstr ""
+
+msgid "की"
+msgstr ""
+
+msgid "के"
+msgstr ""
+
+msgid "बढ़कर"
+msgstr ""
+
+msgid "लिये।"
+msgstr ""
+
+msgid "सुधारा"
+msgstr ""
+
+msgid "तेलमेलह"
+msgstr ""
+
+msgid "पोता"
+msgstr ""
+
+msgid "फूँकनेवाला"
+msgstr ""
+
+msgid "पुरखा"
+msgstr ""
+
+msgid "सेवकों"
+msgstr ""
+
+msgid "पैंतीस"
+msgstr ""
+
+msgid "बेरोत"
+msgstr ""
+
+msgid "24"
+msgstr ""
+
+msgid "25"
+msgstr ""
+
+msgid "26"
+msgstr ""
+
+msgid "27"
+msgstr ""
+
+msgid "20"
+msgstr ""
+
+msgid "21"
+msgstr ""
+
+msgid "22"
+msgstr ""
+
+msgid "23"
+msgstr ""
+
+msgid "28"
+msgstr ""
+
+msgid "29"
+msgstr ""
+
+msgid "भवन"
+msgstr ""
+
+msgid "ओनों"
+msgstr ""
+
+msgid "तैंतालीस।"
+msgstr ""
+
+msgid "स्‍तुति"
+msgstr ""
+
+msgid "इसके"
+msgstr ""
+
+msgid "अब्राम"
+msgstr ""
+
+msgid "हननेल"
+msgstr ""
+
+msgid "इसकी"
+msgstr ""
+
+msgid "होकर"
+msgstr ""
+
+msgid "वर्ष"
+msgstr ""
+
+msgid "भेड़ें"
+msgstr ""
+
+msgid "अहिय्‍याह"
+msgstr ""
+
+msgid "इम्री"
+msgstr ""
+
+msgid "प्रबन्‍ध"
+msgstr ""
+
+msgid "बेबीलोन"
+msgstr ""
+
+msgid "भेजता"
+msgstr ""
+
+msgid "लोबान"
+msgstr ""
+
+msgid "अमर्याह"
+msgstr ""
+
+msgid "हो"
+msgstr ""
+
+msgid "है"
+msgstr ""
+
+msgid "पाया"
+msgstr ""
+
+msgid "हे"
+msgstr ""
+
+msgid "सहता"
+msgstr ""
+
+msgid "ही"
+msgstr ""
+
+msgid "दाऊद"
+msgstr ""
+
+msgid "भण्डारों"
+msgstr ""
+
+msgid "स्‍मरण"
+msgstr ""
+
+msgid "ओबद्याह"
+msgstr ""
+
+msgid "बानवे"
+msgstr ""
+
+msgid "डर"
+msgstr ""
+
+msgid "दिया"
+msgstr ""
+
+msgid "उन्नो"
+msgstr ""
+
+msgid "था।"
+msgstr ""
+
+msgid "बादल"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "चितौनियों"
+msgstr ""
+
+msgid "आजन्‍याह"
+msgstr ""
+
+msgid "अच्‍छी"
+msgstr ""
+
+msgid "चिन्‍ह"
+msgstr ""
+
+msgid "हर्हूर"
+msgstr ""
+
+msgid "मुझ"
+msgstr ""
+
+msgid "बना"
+msgstr ""
+
+msgid "उज्‍जी।"
+msgstr ""
+
+msgid "घटी"
+msgstr ""
+
+msgid "पहूँचे।"
+msgstr ""
+
+msgid "जाऊँ"
+msgstr ""
+
+msgid "इन्‍हों"
+msgstr ""
+
+msgid "भोजनवस्‍तु"
+msgstr ""
+
+msgid "सुनाया"
+msgstr ""
+
+msgid "मेज"
+msgstr ""
+
+msgid "अजेका"
+msgstr ""
+
+msgid "ठहराये"
+msgstr ""
+
+msgid "तरस"
+msgstr ""
+
+msgid "यबूसियों"
+msgstr ""
+
+msgid "सारंगी"
+msgstr ""
+
+msgid "कब"
+msgstr ""
+
+msgid "नोब"
+msgstr ""
+
+msgid "मोअद्याह"
+msgstr ""
+
+msgid "बेसै"
+msgstr ""
+
+msgid "कह"
+msgstr ""
+
+msgid "कि"
+msgstr ""
+
+msgid "का"
+msgstr ""
+
+msgid "रख"
+msgstr ""
+
+msgid "कर"
+msgstr ""
+
+msgid "कल"
+msgstr ""
+
+msgid "कई"
+msgstr ""
+
+msgid "पशहूर"
+msgstr ""
+
+msgid "माँगी"
+msgstr ""
+
+msgid "पितरों"
+msgstr ""
+
+msgid "पूलियों"
+msgstr ""
+
+msgid "हुआ"
+msgstr ""
+
+msgid "आँगन"
+msgstr ""
+
+msgid "रह"
+msgstr ""
+
+msgid "हुए"
+msgstr ""
+
+msgid "हुई"
+msgstr ""
+
+msgid "एजेर"
+msgstr ""
+
+msgid "ने"
+msgstr ""
+
+msgid "रस"
+msgstr ""
+
+msgid "नौ"
+msgstr ""
+
+msgid "“जो"
+msgstr ""
+
+msgid "दिखानेवाला"
+msgstr ""
+
+msgid "झाँझ"
+msgstr ""
+
+msgid "अति"
+msgstr ""
+
+msgid "जाएगा।"
+msgstr ""
+
+msgid "बनाई"
+msgstr ""
+
+msgid "बनाए"
+msgstr ""
+
+msgid "लेंगे"
+msgstr ""
+
+msgid "हस्‍सना"
+msgstr ""
+
+msgid "फिरकर"
+msgstr ""
+
+msgid "अंजीर"
+msgstr ""
+
+msgid "चढ़े"
+msgstr ""
+
+msgid "हाशम"
+msgstr ""
+
+msgid "जमा"
+msgstr ""
+
+msgid "कोने"
+msgstr ""
+
+msgid "बिन्नूई"
+msgstr ""
+
+msgid "मनाने"
+msgstr ""
+
+msgid "वंशावलीपत्रों"
+msgstr ""
+
+msgid "बनाओे"
+msgstr ""
+
+msgid "यशायाह"
+msgstr ""
+
+msgid "गिन्नतोई"
+msgstr ""
+
+msgid "दर्कोन"
+msgstr ""
+
+msgid "भोगते"
+msgstr ""
+
+msgid "चमत्‍कार"
+msgstr ""
+
+msgid "आकाश"
+msgstr ""
+
+msgid "गिन्नतोन"
+msgstr ""
+
+msgid "नबियों"
+msgstr ""
+
+msgid "छुड़ाया"
+msgstr ""
+
+msgid "क्रोधीत"
+msgstr ""
+
+msgid "72"
+msgstr ""
+
+msgid "71"
+msgstr ""
+
+msgid "70"
+msgstr ""
+
+msgid "दकोदा"
+msgstr ""
+
+msgid "हतूश"
+msgstr ""
+
+msgid "मध्‍य"
+msgstr ""
+
+msgid "कहन"
+msgstr ""
+
+msgid "नतोपातियों"
+msgstr ""
+
+msgid "एबेर।"
+msgstr ""
+
+msgid "पात्र"
+msgstr ""
+
+msgid "कहा"
+msgstr ""
+
+msgid "योहानान"
+msgstr ""
+
+msgid "फेंक"
+msgstr ""
+
+msgid "झोंपडि़याँ"
+msgstr ""
+
+msgid "मानते"
+msgstr ""
+
+msgid "परन्‍तु"
+msgstr ""
+
+msgid "मची।"
+msgstr ""
+
+msgid "वर्तमान"
+msgstr ""
+
+msgid "खड़ा"
+msgstr ""
+
+msgid "सीहा"
+msgstr ""
+
+msgid "नून"
+msgstr ""
+
+msgid "पहरुओं"
+msgstr ""
+
+msgid "बने"
+msgstr ""
+
+msgid "गएः"
+msgstr ""
+
+msgid "दानिय्‍येल"
+msgstr ""
+
+msgid "अच्‍छा"
+msgstr ""
+
+msgid "भट्ठों"
+msgstr ""
+
+msgid "जुड़"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "रिसियाकर"
+msgstr ""
+
+msgid "नियम"
+msgstr ""
+
+msgid "सिदकिय्‍याह"
+msgstr ""
+
+msgid "हो।”"
+msgstr ""
+
+msgid "नियत"
+msgstr ""
+
+msgid "ओर"
+msgstr ""
+
+msgid "हल्‍लोहेश"
+msgstr ""
+
+msgid "रखता"
+msgstr ""
+
+msgid "चौकसी"
+msgstr ""
+
+msgid "डाल"
+msgstr ""
+
+msgid "झोपडि़यों"
+msgstr ""
+
+msgid "रहा"
+msgstr ""
+
+msgid "पुस्‍तक"
+msgstr ""
+
+msgid "मिलना"
+msgstr ""
+
+msgid "राया"
+msgstr ""
+
+msgid "बजाते"
+msgstr ""
+
+msgid "विशेष"
+msgstr ""
+
+msgid "पद"
+msgstr ""
+
+msgid "पैंतालीस।"
+msgstr ""
+
+msgid "देता"
+msgstr ""
+
+msgid "हित"
+msgstr ""
+
+msgid "उज्‍जी"
+msgstr ""
+
+msgid "गिने"
+msgstr ""
+
+msgid "प्रधान"
+msgstr ""
+
+msgid "विश्‍वासयोग्‍य"
+msgstr ""
+
+msgid "खा।"
+msgstr ""
+
+msgid "पड़कर"
+msgstr ""
+
+msgid "बैना"
+msgstr ""
+
+msgid "ले"
+msgstr ""
+
+msgid "जक्कै"
+msgstr ""
+
+msgid "मन्‍दिर"
+msgstr ""
+
+msgid "शेष"
+msgstr ""
+
+msgid "ब्‍याह"
+msgstr ""
+
+msgid "ली"
+msgstr ""
+
+msgid "आरह"
+msgstr ""
+
+msgid "फेरने"
+msgstr ""
+
+msgid "सुख"
+msgstr ""
+
+msgid "तक।"
+msgstr ""
+
+msgid "हक"
+msgstr ""
+
+msgid "त्‍याग"
+msgstr ""
+
+msgid "अट्ठाईस"
+msgstr ""
+
+msgid "हम"
+msgstr ""
+
+msgid "दोनों"
+msgstr ""
+
+msgid "अनाज"
+msgstr ""
+
+msgid "यज्ञ"
+msgstr ""
+
+msgid "सम्‍मुख"
+msgstr ""
+
+msgid "बसलीत"
+msgstr ""
+
+msgid "सीहोन"
+msgstr ""
+
+msgid "तेलहर्शा"
+msgstr ""
+
+msgid "किसलवे"
+msgstr ""
+
+msgid "सम्‍मति"
+msgstr ""
+
+msgid "कही"
+msgstr ""
+
+msgid "चुकना"
+msgstr ""
+
+msgid "निकाला"
+msgstr ""
+
+msgid "का।”"
+msgstr ""
+
+msgid "हुओं"
+msgstr ""
+
+msgid "मूनीम"
+msgstr ""
+
+msgid "इद्दो"
+msgstr ""
+
+msgid "हकल्‍याह"
+msgstr ""
+
+msgid "नतनेल"
+msgstr ""
+
+msgid "अद्दोन"
+msgstr ""
+
+msgid "बेतेल"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "निवास"
+msgstr ""
+
+msgid "उस"
+msgstr ""
+
+msgid "हठीले"
+msgstr ""
+
+msgid "कपीर"
+msgstr ""
+
+msgid "फटने"
+msgstr ""
+
+msgid "गीदड़"
+msgstr ""
+
+msgid "उन"
+msgstr ""
+
+msgid "लिया"
+msgstr ""
+
+msgid "तुच्‍छ"
+msgstr ""
+
+msgid "उठ"
+msgstr ""
+
+msgid "लौटे।"
+msgstr ""
+
+msgid "निवासी"
+msgstr ""
+
+msgid "है।”"
+msgstr ""
+
+msgid "है।’"
+msgstr ""
+
+msgid "सोते"
+msgstr ""
+
+msgid "दिखाए"
+msgstr ""
+
+msgid "सोतै"
+msgstr ""
+
+msgid "भण्डार"
+msgstr ""
+
+msgid "एल्‍योएनै"
+msgstr ""
+
+msgid "पड़े"
+msgstr ""
+
+msgid "पड़ी"
+msgstr ""
+
+msgid "छोर"
+msgstr ""
+
+msgid "यदि"
+msgstr ""
+
+msgid "कर।"
+msgstr ""
+
+msgid "नपूशस"
+msgstr ""
+
+msgid "शेरेब्‍याह"
+msgstr ""
+
+msgid "मेरोनोती"
+msgstr ""
+
+msgid "बचे"
+msgstr ""
+
+msgid "पूछा"
+msgstr ""
+
+msgid "सभा"
+msgstr ""
+
+msgid "मशेजबेल"
+msgstr ""
+
+msgid "बाना"
+msgstr ""
+
+msgid "जिसके"
+msgstr ""
+
+msgid "एलाम"
+msgstr ""
+
+msgid "अर्थ"
+msgstr ""
+
+msgid "एमोरियों"
+msgstr ""
+
+msgid "बेतगिलगाल"
+msgstr ""
+
+msgid "थे।"
+msgstr ""
+
+msgid "ताले"
+msgstr ""
+
+msgid "करने"
+msgstr ""
+
+msgid "पूर्वी"
+msgstr ""
+
+msgid "फि़रौन"
+msgstr ""
+
+msgid "दण्डवत"
+msgstr ""
+
+msgid "बाहरी"
+msgstr ""
+
+msgid "अंगीकार"
+msgstr ""
+
+msgid "मेरा"
+msgstr ""
+
+msgid "होने"
+msgstr ""
+
+msgid "आएँगे।"
+msgstr ""
+
+msgid "जाँघ"
+msgstr ""
+
+msgid "“जाकर"
+msgstr ""
+
+msgid "सुनने"
+msgstr ""
+
+msgid "भेजने"
+msgstr ""
+
+msgid "बहुतेरों"
+msgstr ""
+
+msgid "बिलशान"
+msgstr ""
+
+msgid "तोड़"
+msgstr ""
+
+msgid "\\rem"
+msgstr ""
+
+msgid "सदा"
+msgstr ""
+
+msgid "हमें"
+msgstr ""
+
+msgid "माशेयाह"
+msgstr ""
+
+msgid "होती"
+msgstr ""
+
+msgid "बच्चे"
+msgstr ""
+
+msgid "यदूतून"
+msgstr ""
+
+msgid "अट्ठासी।"
+msgstr ""
+
+msgid "मछलीफाटक"
+msgstr ""
+
+msgid "अधिक"
+msgstr ""
+
+msgid "गए।"
+msgstr ""
+
+msgid "तीस।"
+msgstr ""
+
+msgid "तैयार"
+msgstr ""
+
+msgid "अनायाह"
+msgstr ""
+
+msgid "तुम्‍हारी"
+msgstr ""
+
+msgid "रखवा"
+msgstr ""
+
+msgid "दुःख"
+msgstr ""
+
+msgid "बत्‍तीसवें"
+msgstr ""
+
+msgid "“चुप"
+msgstr ""
+
+msgid "पाए।"
+msgstr ""
+
+msgid "कैसी"
+msgstr ""
+
+msgid "वृक्षों"
+msgstr ""
+
+msgid "माज्‍याह"
+msgstr ""
+
+msgid "अनातोत"
+msgstr ""
+
+msgid "चारों"
+msgstr ""
+
+msgid "अय्‍या"
+msgstr ""
+
+msgid "बनाने"
+msgstr ""
+
+msgid "येरेस"
+msgstr ""
+
+msgid "धूल"
+msgstr ""
+
+msgid "अड़तालीस।"
+msgstr ""
+
+msgid "बेतसूर"
+msgstr ""
+
+msgid "नरसिंगा"
+msgstr ""
+
+msgid "मीकायाह"
+msgstr ""
+
+msgid "माथा"
+msgstr ""
+
+msgid "भूख"
+msgstr ""
+
+msgid "अट्ठाईस।"
+msgstr ""
+
+msgid "ढाँप"
+msgstr ""
+
+msgid "पाँचवी"
+msgstr ""
+
+msgid "पत्‍थरों"
+msgstr ""
+
+msgid "ठहरे।"
+msgstr ""
+
+msgid "पौ"
+msgstr ""
+
+msgid "धन्‍यवाद"
+msgstr ""
+
+msgid "73"
+msgstr ""
+
+msgid "देते"
+msgstr ""
+
+msgid "टाट"
+msgstr ""
+
+msgid "देंगे"
+msgstr ""
+
+msgid "NEH"
+msgstr ""
+
+msgid "राजगढ़"
+msgstr ""
+
+msgid "चौवन"
+msgstr ""
+
+msgid "बिकेंगे"
+msgstr ""
+
+msgid "लगाई"
+msgstr ""
+
+msgid "बनीन"
+msgstr ""
+
+msgid "नगर"
+msgstr ""
+
+msgid "लगाए"
+msgstr ""
+
+msgid "तौभी"
+msgstr ""
+
+msgid "बैठकर"
+msgstr ""
+
+msgid "हजायाह"
+msgstr ""
+
+msgid "बर्छियां"
+msgstr ""
+
+msgid "यहोहानान"
+msgstr ""
+
+msgid "शकन्‍याह"
+msgstr ""
+
+msgid "दशमांशों"
+msgstr ""
+
+msgid "बसोदयाह"
+msgstr ""
+
+msgid "अजगाद"
+msgstr ""
+
+msgid ":"
+msgstr ""
+
+msgid "सड़सठ।"
+msgstr ""
+
+msgid "जिसे"
+msgstr ""
+
+msgid "दिखाई"
+msgstr ""
+
+msgid "यामीन"
+msgstr ""
+
+msgid "पिटवा"
+msgstr ""
+
+msgid "सभों"
+msgstr ""
+
+msgid "बेंड़े"
+msgstr ""
+
+msgid "जकर्याह"
+msgstr ""
+
+msgid "बारियाँ"
+msgstr ""
+
+msgid "जाए"
+msgstr ""
+
+msgid "बन्‍दीगृह"
+msgstr ""
+
+msgid "पराक्रमी"
+msgstr ""
+
+msgid "“क्‍या"
+msgstr ""
+
+msgid "पाओगे।"
+msgstr ""
+
+msgid "बढ़ाकर"
+msgstr ""
+
+msgid "प्रभुता"
+msgstr ""
+
+msgid "बर्जिल्‍लै"
+msgstr ""
+
+msgid "गिर्गाशियों"
+msgstr ""
+
+msgid "पलल्‍याह"
+msgstr ""
+
+msgid "जान"
+msgstr ""
+
+msgid "अरबियों"
+msgstr ""
+
+msgid "रोटी"
+msgstr ""
+
+msgid "रखते"
+msgstr ""
+
+msgid "वंश"
+msgstr ""
+
+msgid "मत्तन्‍याह"
+msgstr ""
+
+msgid "हासोर"
+msgstr ""
+
+msgid "बानी"
+msgstr ""
+
+msgid "उसने"
+msgstr ""
+
+msgid "अधिपति**"
+msgstr ""
+
+msgid "इस्राएली"
+msgstr ""
+
+msgid "उजियाला"
+msgstr ""
+
+msgid "मुझे"
+msgstr ""
+
+msgid "करा"
+msgstr ""
+
+msgid "सोरा"
+msgstr ""
+
+msgid "पहरुए"
+msgstr ""
+
+msgid "हमारे"
+msgstr ""
+
+msgid "हमारी"
+msgstr ""
+
+msgid "गेशेम"
+msgstr ""
+
+msgid "हेजीर"
+msgstr ""
+
+msgid "तुम्‍हारा"
+msgstr ""
+
+msgid "बिलाम"
+msgstr ""
+
+msgid "पड़ा"
+msgstr ""
+
+msgid "बन्‍द"
+msgstr ""
+
+msgid "बारह"
+msgstr ""
+
+msgid "हौदों"
+msgstr ""
+
+msgid "सेवकाई"
+msgstr ""
+
+msgid "झिलमों"
+msgstr ""
+
+msgid "लगे।"
+msgstr ""
+
+msgid "शेलेम्‍याह"
+msgstr ""
+
+msgid "गाँवों"
+msgstr ""
+
+msgid "हश्‍शूब"
+msgstr ""
+
+msgid "नगरो"
+msgstr ""
+
+msgid "लें"
+msgstr ""
+
+msgid "“स्‍वर्ग"
+msgstr ""
+
+msgid "आँगनों"
+msgstr ""
+
+msgid "ढोनेवाले"
+msgstr ""
+
+msgid "ढेरों"
+msgstr ""
+
+msgid "वही"
+msgstr ""
+
+msgid "अनुचर"
+msgstr ""
+
+msgid "चान्‍द"
+msgstr ""
+
+msgid "मकोना"
+msgstr ""
+
+msgid "इस"
+msgstr ""
+
+msgid "छःसौ"
+msgstr ""
+
+msgid "बुलाकर"
+msgstr ""
+
+msgid "मार्ग"
+msgstr ""
+
+msgid "पिता"
+msgstr ""
+
+msgid "अजर्याह"
+msgstr ""
+
+msgid "इन"
+msgstr ""
+
+msgid "दीबोन"
+msgstr ""
+
+msgid "सो"
+msgstr ""
+
+msgid "आज्ञाओं"
+msgstr ""
+
+msgid "तोबिय्‍याह"
+msgstr ""
+
+msgid "मिटाने"
+msgstr ""
+
+msgid "सीढ़ी"
+msgstr ""
+
+msgid "फँसाया।"
+msgstr ""
+
+msgid "लड़ेगा।”"
+msgstr ""
+
+msgid "समझनेवाले"
+msgstr ""
+
+msgid "तारों"
+msgstr ""
+
+msgid "लेकर"
+msgstr ""
+
+msgid "पढ़"
+msgstr ""
+
+msgid "कटोरे"
+msgstr ""
+
+msgid "लिये"
+msgstr ""
+
+msgid "शूशन"
+msgstr ""
+
+msgid "सच्‍चाई"
+msgstr ""
+
+msgid "गब्‍बै"
+msgstr ""
+
+msgid "उन्‍हे"
+msgstr ""
+
+msgid "मिली"
+msgstr ""
+
+msgid "गाँव"
+msgstr ""
+
+msgid ";"
+msgstr ""
+
+msgid "गित्‍तैम"
+msgstr ""
+
+msgid "मिले"
+msgstr ""
+
+msgid "करते"
+msgstr ""
+
+msgid "नरसिंगे"
+msgstr ""
+
+msgid "अब्‍दा"
+msgstr ""
+
+msgid "वे"
+msgstr ""
+
+msgid "जिक्री"
+msgstr ""
+
+msgid "गई।"
+msgstr ""
+
+msgid "उठाई"
+msgstr ""
+
+msgid "39"
+msgstr ""
+
+msgid "38"
+msgstr ""
+
+msgid "33"
+msgstr ""
+
+msgid "32"
+msgstr ""
+
+msgid "31"
+msgstr ""
+
+msgid "30"
+msgstr ""
+
+msgid "37"
+msgstr ""
+
+msgid "36"
+msgstr ""
+
+msgid "35"
+msgstr ""
+
+msgid "34"
+msgstr ""
+
+msgid "सुन"
+msgstr ""
+
+msgid "फाटक"
+msgstr ""
+
+msgid "चौरासी"
+msgstr ""
+
+msgid "गर्दन"
+msgstr ""
+
+msgid "बारी"
+msgstr ""
+
+msgid "कहला"
+msgstr ""
+
+msgid "दे।”"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
+
+msgid "तुम्‍हारे"
+msgstr ""
+
+msgid "जंगल"
+msgstr ""
+
+msgid "बितर"
+msgstr ""
+
+msgid "हमारा"
+msgstr ""
+
+msgid "होगी।”"
+msgstr ""
+
+msgid "सोरी"
+msgstr ""
+
+msgid "नाले"
+msgstr ""
+
+msgid "रक्षा"
+msgstr ""
+
+msgid "चुकी"
+msgstr ""
+
+msgid "याकीन।"
+msgstr ""
+
+msgid "गानेवालियाँ"
+msgstr ""
+
+msgid "अम्‍मोनी"
+msgstr ""
+
+msgid "अमशै"
+msgstr ""
+
+msgid "दान"
+msgstr ""
+
+msgid "दशमांश"
+msgstr ""
+
+msgid "बेबै"
+msgstr ""
+
+msgid "बेड़े"
+msgstr ""
+
+msgid "दाम"
+msgstr ""
+
+msgid "नायब"
+msgstr ""
+
+msgid "वस्तुएँ"
+msgstr ""
+
+msgid "अनन्‍याह"
+msgstr ""
+
+msgid "दास"
+msgstr ""
+
+msgid "उससे"
+msgstr ""
+
+msgid "शक्ति"
+msgstr ""
+
+msgid "शरायाह"
+msgstr ""
+
+msgid "टेक"
+msgstr ""
+
+msgid "ठहरकर"
+msgstr ""
+
+msgid "कलीता"
+msgstr ""
+
+msgid "वरन"
+msgstr ""
+
+msgid "मानकर"
+msgstr ""
+
+msgid "दाख"
+msgstr ""
+
+msgid "भी"
+msgstr ""
+
+msgid "घट"
+msgstr ""
+
+msgid "उतारते"
+msgstr ""
+
+msgid "खाते"
+msgstr ""
+
+msgid "दासों"
+msgstr ""
+
+msgid "घर"
+msgstr ""
+
+msgid "नये"
+msgstr ""
+
+msgid "आयेंगे"
+msgstr ""
+
+msgid "नगरों"
+msgstr ""
+
+msgid "लौटा"
+msgstr ""
+
+msgid "भक्‍त"
+msgstr ""
+
+msgid "अन्‍त"
+msgstr ""
+
+msgid "हथियार"
+msgstr ""
+
+msgid "सोना"
+msgstr ""
+
+msgid "आज्ञा"
+msgstr ""
+
+msgid "शपथ"
+msgstr ""
+
+msgid "थीं"
+msgstr ""
+
+msgid "तोड़ा"
+msgstr ""
+
+msgid "“आज"
+msgstr ""
+
+msgid "गेबा"
+msgstr ""
+
+msgid "ठहरे"
+msgstr ""
+
+msgid "इक्‍कीस।"
+msgstr ""
+
+msgid "पूरे"
+msgstr ""
+
+msgid "पूरी"
+msgstr ""
+
+msgid "इतीएह"
+msgstr ""
+
+msgid "तिरस्‍कार"
+msgstr ""
+
+msgid "हैं।”"
+msgstr ""
+
+msgid "खाने"
+msgstr ""
+
+msgid "दलायाह"
+msgstr ""
+
+msgid "चिताया"
+msgstr ""
+
+msgid "पुरखाओं"
+msgstr ""
+
+msgid "यरूशलेम"
+msgstr ""
+
+msgid "फैल"
+msgstr ""
+
+msgid "बकबूक"
+msgstr ""
+
+msgid "चाहिये।”"
+msgstr ""
+
+msgid "वह"
+msgstr ""
+
+msgid "प्रतिदिन"
+msgstr ""
+
+msgid "खानेवाले"
+msgstr ""
+
+msgid "सुधि"
+msgstr ""
+
+msgid "वश"
+msgstr ""
+
+msgid "बछड़ों"
+msgstr ""
+
+msgid "जैसे"
+msgstr ""
+
+msgid "वचन"
+msgstr ""
+
+msgid "परिज्‍जियों"
+msgstr ""
+
+msgid "दी।"
+msgstr ""
+
+msgid "विश्रामवार"
+msgstr ""
+
+msgid "“इसी"
+msgstr ""
+
+msgid "बिलगै"
+msgstr ""
+
+msgid "अदूल्‍लाम"
+msgstr ""
+
+msgid "भट्टों"
+msgstr ""
+
+msgid "छूटकर"
+msgstr ""
+
+msgid "पहुँचूँ"
+msgstr ""
+
+msgid "ले।"
+msgstr ""
+
+msgid "जीवित"
+msgstr ""
+
+msgid "“एक"
+msgstr ""
+
+msgid "बचाने"
+msgstr ""
+
+msgid "शालतीएल"
+msgstr ""
+
+msgid "door43.org"
+msgstr ""
+
+msgid "अपने"
+msgstr ""
+
+msgid "सन्‍तान।"
+msgstr ""
+
+msgid "अपनी"
+msgstr ""
+
+msgid "इसी"
+msgstr ""
+
+msgid "याला"
+msgstr ""
+
+msgid "इसे"
+msgstr ""
+
+msgid "बलवा"
+msgstr ""
+
+msgid "महायाजक"
+msgstr ""
+
+msgid "भोज"
+msgstr ""
+
+msgid "ताकि"
+msgstr ""
+
+msgid "दासत्‍व"
+msgstr ""
+
+msgid "मत्‍तन्‍याह"
+msgstr ""
+
+msgid "बिलगा"
+msgstr ""
+
+msgid "जाओ।"
+msgstr ""
+
+msgid "शोबेक"
+msgstr ""
+
+msgid "डाँटा"
+msgstr ""
+
+msgid "मिला"
+msgstr ""
+
+msgid "स्‍थान"
+msgstr ""
+
+msgid "सत्रह।"
+msgstr ""
+
+msgid "पल्‍ले"
+msgstr ""
+
+msgid "मीठा"
+msgstr ""
+
+msgid "उठाकर"
+msgstr ""
+
+msgid "सके"
+msgstr ""
+
+msgid "कहने"
+msgstr ""
+
+msgid "आया।"
+msgstr ""
+
+msgid "बनवाता"
+msgstr ""
+
+msgid "सेना"
+msgstr ""
+
+msgid "भेंट"
+msgstr ""
+
+msgid "पर्वत"
+msgstr ""
+
+msgid "लटकाए"
+msgstr ""
+
+msgid "पुराने"
+msgstr ""
+
+msgid "गज्‍जाम"
+msgstr ""
+
+msgid "जब्‍बै"
+msgstr ""
+
+msgid "योजाबाद"
+msgstr ""
+
+msgid "थी।"
+msgstr ""
+
+msgid "बनाया।"
+msgstr ""
+
+msgid "अधर्म"
+msgstr ""
+
+msgid "बैसै"
+msgstr ""
+
+msgid "प्‍यास"
+msgstr ""
+
+msgid "शब्‍बतै"
+msgstr ""
+
+msgid "शत्रुओं"
+msgstr ""
+
+msgid "डराने"
+msgstr ""
+
+msgid "बिताया"
+msgstr ""
+
+msgid "मनुष्‍यों"
+msgstr ""
+
+msgid "सुनाया।"
+msgstr ""
+
+msgid "चुका"
+msgstr ""
+
+msgid "पालाल"
+msgstr ""
+
+msgid "ढूँढ़ा"
+msgstr ""
+
+msgid "हकूपा"
+msgstr ""
+
+msgid "दूतों"
+msgstr ""
+
+msgid "सोचकर"
+msgstr ""
+
+msgid "चाहे"
+msgstr ""
+
+msgid "बाईस"
+msgstr ""
+
+msgid "घात"
+msgstr ""
+
+msgid "योसेप।"
+msgstr ""
+
+msgid "तल्‍मोन"
+msgstr ""
+
+msgid "निकट"
+msgstr ""
+
+msgid "हशब्‍नयाह"
+msgstr ""
+
+msgid "Edition"
+msgstr ""
+
+msgid "ठहरा"
+msgstr ""
+
+msgid "बेर"
+msgstr ""
+
+msgid "शल्‍लूम"
+msgstr ""
+
+msgid "अँगरखे"
+msgstr ""
+
+msgid "दाक्षिण"
+msgstr ""
+
+msgid "बुराई"
+msgstr ""
+
+msgid "“राजा"
+msgstr ""
+
+msgid "आसाप"
+msgstr ""
+
+msgid "पेरेस"
+msgstr ""
+
+msgid "बान्‍धा"
+msgstr ""
+
+msgid "वंशावली"
+msgstr ""
+
+msgid "कुरीतियों"
+msgstr ""
+
+msgid "महीना"
+msgstr ""
+
+msgid "तुरहियाँ"
+msgstr ""
+
+msgid "वाचा"
+msgstr ""
+
+msgid "हाशूम"
+msgstr ""
+
+msgid "रहो।”"
+msgstr ""
+
+msgid "गूँधा"
+msgstr ""
+
+msgid "अदोनिय्‍याह"
+msgstr ""
+
+msgid "लेना"
+msgstr ""
+
+msgid "दशा"
+msgstr ""
+
+msgid "बढ़ाऊँगा।”"
+msgstr ""
+
+msgid "**"
+msgstr ""
+
+msgid "नया"
+msgstr ""
+
+msgid "बलिदानों"
+msgstr ""
+
+msgid "हेशबोन"
+msgstr ""
+
+msgid "भय"
+msgstr ""
+
+msgid "पुरुषों"
+msgstr ""
+
+msgid "उतारता"
+msgstr ""
+
+msgid "“आओ"
+msgstr ""
+
+msgid "खेत"
+msgstr ""
+
+msgid "शमायाह"
+msgstr ""
+
+msgid "आनान"
+msgstr ""
+
+msgid "पापी"
+msgstr ""
+
+msgid "उनसे"
+msgstr ""
+
+msgid "मशुल्‍लाम"
+msgstr ""
+
+msgid "पहले"
+msgstr ""
+
+msgid "कबरें"
+msgstr ""
+
+msgid "पहली"
+msgstr ""
+
+msgid "गीत"
+msgstr ""
+
+msgid "शेलह"
+msgstr ""
+
+msgid "पालता"
+msgstr ""
+
+msgid "वीणा"
+msgstr ""
+
+msgid "निष्‍फल"
+msgstr ""
+
+msgid "लेविय"
+msgstr ""
+
+msgid "फल"
+msgstr ""
+
+msgid "तलवारें"
+msgstr ""
+
+msgid "("
+msgstr ""
+
+msgid "उपजाऊ"
+msgstr ""
+
+msgid "छुड़ानेवाले"
+msgstr ""
+
+msgid "जाने"
+msgstr ""
+
+msgid "अतिकरुणामय"
+msgstr ""
+
+msgid "मुंशी"
+msgstr ""
+
+msgid "बलवन्‍त"
+msgstr ""
+
+msgid "करेंगे"
+msgstr ""
+
+msgid "यारूशलेम"
+msgstr ""
+
+msgid "पशु"
+msgstr ""
+
+msgid "डाली"
+msgstr ""
+
+msgid "पाकर"
+msgstr ""
+
+msgid "डाले"
+msgstr ""
+
+msgid "साधारण"
+msgstr ""
+
+msgid "बेटों"
+msgstr ""
+
+msgid "हिल्‍किय्‍याह"
+msgstr ""
+
+msgid "चौड़ा"
+msgstr ""
+
+msgid "भारी"
+msgstr ""
+
+msgid "मिलकर"
+msgstr ""
+
+msgid "तलवारों"
+msgstr ""
+
+msgid "सालाप"
+msgstr ""
+
+msgid "पूरब"
+msgstr ""
+
+msgid "डाल।"
+msgstr ""
+
+msgid "कोसा"
+msgstr ""
+
+msgid "महललेल"
+msgstr ""
+
+msgid "पूरा"
+msgstr ""
+
+msgid "हानान"
+msgstr ""
+
+msgid "धन"
+msgstr ""
+
+msgid "बीस।"
+msgstr ""
+
+msgid "वंशावलीपत्र"
+msgstr ""
+
+msgid "छोड़ा"
+msgstr ""
+
+msgid "“आ"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "भोगना"
+msgstr ""
+
+msgid "मिस्‍पेरेत"
+msgstr ""
+
+msgid "सड़सठ"
+msgstr ""
+
+msgid "इस्राएलियों"
+msgstr ""
+
+msgid "वसूली"
+msgstr ""
+
+msgid "हर्शा"
+msgstr ""
+
+msgid "अजरेल"
+msgstr ""
+
+msgid "अज्रीकाम"
+msgstr ""
+
+msgid "मानना"
+msgstr ""
+
+msgid "खा"
+msgstr ""
+
+msgid "कन्‍धा"
+msgstr ""
+
+msgid "मैं"
+msgstr ""
+
+msgid "व्‍यवस्‍था"
+msgstr ""
+
+msgid "मिलता"
+msgstr ""
+
+msgid "पहरा"
+msgstr ""
+
+msgid "अश्‍शूर"
+msgstr ""
+
+msgid "मोलादा"
+msgstr ""
+
+msgid "लुटवा"
+msgstr ""
+
+msgid "मनुष्‍य"
+msgstr ""
+
+msgid "एप्रैम"
+msgstr ""
+
+msgid "मोड़"
+msgstr ""
+
+msgid "उनको"
+msgstr ""
+
+msgid "बनानेवाले"
+msgstr ""
+
+msgid "मोआबी"
+msgstr ""
+
+msgid "छत"
+msgstr ""
+
+msgid "अपना"
+msgstr ""
+
+msgid "समापन"
+msgstr ""
+
+msgid "पंचानवे।"
+msgstr ""
+
+msgid "मिललै"
+msgstr ""
+
+msgid "जहा"
+msgstr ""
+
+msgid "जानोह"
+msgstr ""
+
+msgid "उदास"
+msgstr ""
+
+msgid "चला।"
+msgstr ""
+
+msgid "“मैं"
+msgstr ""
+
+msgid "योआरीब"
+msgstr ""
+
+msgid "यर्मूत"
+msgstr ""
+
+msgid "रोओ।”"
+msgstr ""
+
+msgid "तैलवृक्ष"
+msgstr ""
+
+msgid "यही"
+msgstr ""
+
+msgid "देना"
+msgstr ""
+
+msgid "करें"
+msgstr ""
+
+msgid "रहूँगा"
+msgstr ""
+
+msgid "कार्य"
+msgstr ""
+
+msgid "माना"
+msgstr ""
+
+msgid "निर्माण"
+msgstr ""
+
+msgid "रहूम"
+msgstr ""
+
+msgid "नतिनों"
+msgstr ""
+
+msgid "वा"
+msgstr ""
+
+msgid "त्‍यागा।"
+msgstr ""
+
+msgid "उन्‍होंने"
+msgstr ""
+
+msgid "पियो"
+msgstr ""
+
+msgid "डराना"
+msgstr ""
+
+msgid "तृप्‍त"
+msgstr ""
+
+msgid "इस्राएल"
+msgstr ""
+
+msgid "ब्‍याज"
+msgstr ""
+
+msgid "लगें।”"
+msgstr ""
+
+msgid "नहीं"
+msgstr ""
+
+msgid "बारह।"
+msgstr ""
+
+msgid "पहिलौठे"
+msgstr ""
+
+msgid "अशुद्ध"
+msgstr ""
+
+msgid "पूछा।"
+msgstr ""
+
+msgid "लिपटा"
+msgstr ""
+
+msgid "हठ"
+msgstr ""
+
+msgid "करुणा"
+msgstr ""
+
+msgid "स्‍त्रियां"
+msgstr ""
+
+msgid "स्‍त्रियाँ"
+msgstr ""
+
+msgid "लिया।"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "रखा"
+msgstr ""
+
+msgid "खुदे"
+msgstr ""
+
+msgid "चाहिये"
+msgstr ""
+
+msgid "कुछ"
+msgstr ""
+
+msgid "कल्‍लै"
+msgstr ""
+
+msgid "जैसा"
+msgstr ""
+
+msgid "कसदियों"
+msgstr ""
+
+msgid "जाया"
+msgstr ""
+
+msgid "याने"
+msgstr ""
+
+msgid "चौड़े"
+msgstr ""
+
+msgid "समझ"
+msgstr ""
+
+msgid "छोड़ेंगे।"
+msgstr ""
+
+msgid "महीने"
+msgstr ""
+
+msgid "बाईस।"
+msgstr ""
+
+msgid "भविष्‍य"
+msgstr ""
+
+msgid "चौड़ी"
+msgstr ""
+
+msgid "गया"
+msgstr ""
+
+msgid "हर"
+msgstr ""
+
+msgid "सिर"
+msgstr ""
+
+msgid "मिस्र"
+msgstr ""
+
+msgid "मण्डली"
+msgstr ""
+
+msgid "समय"
+msgstr ""
+
+msgid "अर्तक्षत्र"
+msgstr ""
+
+msgid "बिकाऊ"
+msgstr ""
+
+msgid "44"
+msgstr ""
+
+msgid "महिमायुक्‍त"
+msgstr ""
+
+msgid "अड़तीस"
+msgstr ""
+
+msgid "फिरो"
+msgstr ""
+
+msgid "“काम"
+msgstr ""
+
+msgid "होदवा"
+msgstr ""
+
+msgid "डरो"
+msgstr ""
+
+msgid "बसें।"
+msgstr ""
+
+msgid "नहेमायाह"
+msgstr ""
+
+msgid "साठ"
+msgstr ""
+
+msgid "शीलोई"
+msgstr ""
+
+msgid "मरायोत"
+msgstr ""
+
+msgid "माऐ"
+msgstr ""
+
+msgid "पहिने"
+msgstr ""
+
+msgid "बिन्‍यामीनी"
+msgstr ""
+
+msgid "जाएँगे।"
+msgstr ""
+
+msgid "मिस्‍पा"
+msgstr ""
+
+msgid "बेचोगे"
+msgstr ""
+
+msgid "दर्कमोन"
+msgstr ""
+
+msgid "तोबियाह"
+msgstr ""
+
+msgid "दण्ड"
+msgstr ""
+
+msgid "दूँगा"
+msgstr ""
+
+msgid "उसमें"
+msgstr ""
+
+msgid "हक्‍क"
+msgstr ""
+
+msgid "महान"
+msgstr ""
+
+msgid "अधिपतियों"
+msgstr ""
+
+msgid "सुची"
+msgstr ""
+
+msgid "झुकाकर"
+msgstr ""
+
+msgid "अनन्‍तकाल"
+msgstr ""
+
+msgid "कारीगरों"
+msgstr ""
+
+msgid "वस्‍तुओं"
+msgstr ""
+
+msgid "उपवास"
+msgstr ""
+
+msgid "चाहा"
+msgstr ""
+
+msgid "गया।"
+msgstr ""
+
+msgid "आत्‍मा"
+msgstr ""
+
+msgid "ढूँढ़े"
+msgstr ""
+
+msgid "?"
+msgstr ""
+
+msgid "निकलने"
+msgstr ""
+
+msgid "मानने"
+msgstr ""
+
+msgid "उपस्थित"
+msgstr ""
+
+msgid "हियाव"
+msgstr ""
+
+msgid "करती"
+msgstr ""
+
+msgid "जक्‍कूर"
+msgstr ""
+
+msgid "सारा"
+msgstr ""
+
+msgid "नुचवाए"
+msgstr ""
+
+msgid "गानेवाले"
+msgstr ""
+
+msgid "नाम"
+msgstr ""
+
+msgid "दें।"
+msgstr ""
+
+msgid "सूजन"
+msgstr ""
+
+msgid "नियुक्‍त"
+msgstr ""
+
+msgid "आया"
+msgstr ""
+
+msgid "कारण"
+msgstr ""
+
+msgid "रहते"
+msgstr ""
+
+msgid "अजगर"
+msgstr ""
+
+msgid "हनानी"
+msgstr ""
+
+msgid "समस्‍त"
+msgstr ""
+
+msgid "चार"
+msgstr ""
+
+msgid "दृष्‍टि"
+msgstr ""
+
+msgid "नकोदा"
+msgstr ""
+
+msgid "अनादिकाल"
+msgstr ""
+
+msgid "उतरनेवाली"
+msgstr ""
+
+msgid "कपड़े"
+msgstr ""
+
+msgid "नोबै"
+msgstr ""
+
+msgid "उपजाया"
+msgstr ""
+
+msgid "पर्व"
+msgstr ""
+
+msgid "पवित्र"
+msgstr ""
+
+msgid "पहुँचाऊँगा"
+msgstr ""
+
+msgid "“ढोनेवालों"
+msgstr ""
+
+msgid "मानी"
+msgstr ""
+
+msgid "माने"
+msgstr ""
+
+msgid "ऐसी"
+msgstr ""
+
+msgid "वास"
+msgstr ""
+
+msgid "मानो"
+msgstr ""
+
+msgid "आटा"
+msgstr ""
+
+msgid "बछड़ा"
+msgstr ""
+
+msgid "देने"
+msgstr ""
+
+msgid "कहता"
+msgstr ""
+
+msgid "अगुआई"
+msgstr ""
+
+msgid "ढीले"
+msgstr ""
+
+msgid "तेमेह"
+msgstr ""
+
+msgid "एज्रा"
+msgstr ""
+
+msgid "पचीसवें"
+msgstr ""
+
+msgid "थी"
+msgstr ""
+
+msgid "थे"
+msgstr ""
+
+msgid "दूर"
+msgstr ""
+
+msgid "देशों"
+msgstr ""
+
+msgid "सोच"
+msgstr ""
+
+msgid "सरायाह"
+msgstr ""
+
+msgid "नतीन"
+msgstr ""
+
+msgid "आँखें"
+msgstr ""
+
+msgid "डालेंगे"
+msgstr ""
+
+msgid "हजार"
+msgstr ""
+
+msgid "”"
+msgstr ""
+
+msgid "हूँ।"
+msgstr ""
+
+msgid "हुशब्‍याह"
+msgstr ""
+
+msgid "पोषण"
+msgstr ""
+
+msgid "शास्‍त्री"
+msgstr ""
+
+msgid "अन्‍धेर"
+msgstr ""
+
+msgid "एज़ेर"
+msgstr ""
+
+msgid "48"
+msgstr ""
+
+msgid "49"
+msgstr ""
+
+msgid "46"
+msgstr ""
+
+msgid "47"
+msgstr ""
+
+msgid "छोड़"
+msgstr ""
+
+msgid "45"
+msgstr ""
+
+msgid "42"
+msgstr ""
+
+msgid "ऊरीम"
+msgstr ""
+
+msgid "40"
+msgstr ""
+
+msgid "41"
+msgstr ""
+
+msgid "कहकर"
+msgstr ""
+
+msgid "डाला"
+msgstr ""
+
+msgid "क्‍या"
+msgstr ""
+
+msgid "रहोब"
+msgstr ""
+
+msgid "वस्‍तु"
+msgstr ""
+
+msgid "इसलिये"
+msgstr ""
+
+msgid "रख।"
+msgstr ""
+
+msgid "यात्रा"
+msgstr ""
+
+msgid "बेतजमावत"
+msgstr ""
+
+msgid "अठारह।"
+msgstr ""
+
+msgid "शम्‍मू"
+msgstr ""
+
+msgid "हम्‍मेआ"
+msgstr ""
+
+msgid "मीका"
+msgstr ""
+
+msgid "आगे"
+msgstr ""
+
+msgid "क्रोधित"
+msgstr ""
+
+msgid "परीदा"
+msgstr ""
+
+msgid "’"
+msgstr ""
+
+msgid "यरीहो"
+msgstr ""
+
+msgid "पापों"
+msgstr ""
+
+msgid "जिस"
+msgstr ""
+
+msgid "अधिकारी"
+msgstr ""
+
+msgid "नित्‍य"
+msgstr ""
+
+msgid "ऊँट"
+msgstr ""
+
+msgid "समयों"
+msgstr ""
+
+msgid "जिन"
+msgstr ""
