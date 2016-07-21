@@ -360,7 +360,7 @@ msgid "दिया।"
 msgstr "दिला/दिवा/बत्ती"
 
 msgid "तुझ"
-msgstr ""
+msgstr "तुझ"
 
 msgid "पाप"
 msgstr "पाप"
@@ -378,7 +378,7 @@ msgid "पास"
 msgstr "जवळ"
 
 msgid "पार"
-msgstr ""
+msgstr "पार"
 
 msgid "पाए"
 msgstr "मिळवा"
@@ -417,7 +417,7 @@ msgid "कूड़ाफाटक"
 msgstr "उकिरडावेस"
 
 msgid "बनवा"
-msgstr ""
+msgstr "बनवा"
 
 msgid "जलाने"
 msgstr "जाळणे"
@@ -432,7 +432,7 @@ msgid "घरानों"
 msgstr "घराणी"
 
 msgid ","
-msgstr ""
+msgstr ","
 
 msgid "नसीह"
 msgstr "नसीह"
@@ -456,7 +456,7 @@ msgid "9"
 msgstr "९"
 
 msgid "ओनो"
-msgstr ""
+msgstr "ओनो"
 
 msgid "बीस"
 msgstr "वीस"
@@ -492,7 +492,7 @@ msgid "बेटी"
 msgstr "मुलगी"
 
 msgid "गढ़ता"
-msgstr ""
+msgstr "गढ़ता"
 
 msgid "खाई"
 msgstr "दरी/खाल्ली"
@@ -513,7 +513,7 @@ msgid "बाल"
 msgstr "केस"
 
 msgid "बार"
-msgstr ""
+msgstr "बार"
 
 msgid "तुम्‍हें"
 msgstr "तुम्हाला"
@@ -630,7 +630,7 @@ msgid "होगा"
 msgstr "होईल"
 
 msgid "सेताफाटक"
-msgstr ""
+msgstr "सेताफाटक"
 
 msgid "चाहता"
 msgstr "इच्छा करतो"
@@ -738,7 +738,7 @@ msgid "हसर्शूआल"
 msgstr "हसर्शुआल"
 
 msgid "-"
-msgstr ""
+msgstr "-"
 
 msgid "जैतून"
 msgstr "जैतून"
@@ -774,7 +774,7 @@ msgid "भेजा"
 msgstr "पाठवले"
 
 msgid "हतीपा"
-msgstr ""
+msgstr "हतीपा"
 
 msgid "इकट्ठा"
 msgstr "एकत्र"
@@ -783,7 +783,7 @@ msgid "चलने"
 msgstr "चालू"
 
 msgid "ठहराने"
-msgstr ""
+msgstr "ठहराने"
 
 msgid "वैसा"
 msgstr "तसे"
@@ -795,7 +795,7 @@ msgid "चढ़"
 msgstr "चढ"
 
 msgid "तितर"
-msgstr ""
+msgstr "तितर"
 
 msgid "दे।"
 msgstr "दे"
@@ -804,7 +804,7 @@ msgid "महाजलराशि"
 msgstr "खूप पाणी"
 
 msgid "लोटने"
-msgstr ""
+msgstr "लोटने"
 
 msgid "कनानियों"
 msgstr "कनानी"
@@ -822,10 +822,10 @@ msgid "मैदान"
 msgstr "मैदान"
 
 msgid "मेलबलि"
-msgstr ""
+msgstr "मेलबलि"
 
 msgid "बर्कोस"
-msgstr ""
+msgstr "बर्कोस"
 
 msgid "गए**"
 msgstr "गेले"
@@ -846,7 +846,7 @@ msgid "मोल"
 msgstr "मोल/ किंमत"
 
 msgid "पाटा"
-msgstr ""
+msgstr "पाटा"
 
 msgid "कडी"
 msgstr "कडी"
@@ -948,7 +948,7 @@ msgid "किया।"
 msgstr "केले"
 
 msgid "\id"
-msgstr ""
+msgstr "\id"
 
 msgid "ओग"
 msgstr "ओग"
@@ -996,7 +996,7 @@ msgid "दुर्दशा"
 msgstr "दुर्दशा/वाईट अवस्था"
 
 msgid "सिरे"
-msgstr ""
+msgstr "सिरे"
 
 msgid "बोझ"
 msgstr "ओझे"
@@ -1038,7 +1038,7 @@ msgid "ऊर"
 msgstr "ऊर"
 
 msgid "भगा"
-msgstr ""
+msgstr "भगा"
 
 msgid "जिन्होने"
 msgstr "ज्यांनी"
@@ -1077,16 +1077,16 @@ msgid "करूँ"
 msgstr "करु"
 
 msgid "याजकपद"
-msgstr ""
+msgstr "याजकपद"
 
 msgid "ध्‍यान"
 msgstr "लक्ष/ध्यान"
 
 msgid "सादोक"
-msgstr ""
+msgstr "सादोक"
 
 msgid "आग"
-msgstr ""
+msgstr "आग"
 
 msgid "आओ"
 msgstr "या"
@@ -1104,7 +1104,7 @@ msgid "राम्‍याह"
 msgstr "रामा"
 
 msgid "नहमानी"
-msgstr ""
+msgstr "नहमानी"
 
 msgid "पहुँचाए"
 msgstr "पोहोंचवा"
@@ -1143,7 +1143,7 @@ msgid "उन्‍हें"
 msgstr "त्यांना"
 
 msgid "शबन्‍याह।"
-msgstr ""
+msgstr "शबन्‍याह।"
 
 msgid "“जैसा"
 msgstr "जसे"
@@ -1176,7 +1176,7 @@ msgid "जाए।"
 msgstr "जावे"
 
 msgid "अदना"
-msgstr ""
+msgstr "अदना"
 
 msgid "प्रभु"
 msgstr "प्रभु"
@@ -1191,7 +1191,7 @@ msgid "सम्मान"
 msgstr "सन्मान"
 
 msgid "बनना"
-msgstr ""
+msgstr "बनना"
 
 msgid "बनानेवालों"
 msgstr "बनवणारे"
@@ -1203,13 +1203,13 @@ msgid "कूड़ाफाटक"
 msgstr "उकिरडावेस"
 
 msgid "शकम्‍याह"
-msgstr ""
+msgstr "शकम्‍याह"
 
 msgid "जिन्‍हों"
-msgstr ""
+msgstr "जिन्‍हों"
 
 msgid "आतेर"
-msgstr ""
+msgstr "आतेर"
 
 msgid "कड़ियाँ"
 msgstr "कड्या"
@@ -1236,7 +1236,7 @@ msgid "बिन्नई"
 msgstr "बिन्नइ"
 
 msgid "हेलकै।"
-msgstr ""
+msgstr "हेलकै।"
 
 msgid "निस्वार्थ"
 msgstr "निस्वार्थ"
@@ -1245,7 +1245,7 @@ msgid "निज"
 msgstr "स्वतःचे"
 
 msgid "पिल्‍हा"
-msgstr ""
+msgstr "पिल्‍हा"
 
 msgid "यहाँ"
 msgstr "इथे"
@@ -1269,7 +1269,7 @@ msgid "55"
 msgstr "५५"
 
 msgid "ऊरियाह"
-msgstr ""
+msgstr "ऊरियाह"
 
 msgid "57"
 msgstr "५७"
@@ -1293,10 +1293,10 @@ msgid "पहुँचाया"
 msgstr "पोहोचवले"
 
 msgid "नित"
-msgstr ""
+msgstr "नित"
 
 msgid "हादीद"
-msgstr ""
+msgstr "हादीद"
 
 msgid "54"
 msgstr "५४"
@@ -1314,7 +1314,7 @@ msgid "50"
 msgstr "५०"
 
 msgid "झाड़कर"
-msgstr ""
+msgstr "झाड़कर"
 
 msgid "बोली"
 msgstr "भाषा/बोली"
@@ -1344,19 +1344,19 @@ msgid "शाप"
 msgstr "शाप"
 
 msgid "यों"
-msgstr ""
+msgstr "यों"
 
 msgid "उज्‍जा"
-msgstr ""
+msgstr "उज्‍जा"
 
 msgid "नबियो"
 msgstr "संदेष्टये"
 
 msgid "हरुमप"
-msgstr ""
+msgstr "हरुमप"
 
 msgid "अज्‍माबेत"
-msgstr ""
+msgstr "अज्‍माबेत"
 
 msgid "रोते"
 msgstr "रडत"
@@ -1377,7 +1377,7 @@ msgid "डालीं"
 msgstr "फांदी/डहाळी"
 
 msgid "सवायीम"
-msgstr ""
+msgstr "सवायीम"
 
 msgid "जाते"
 msgstr "जाते"
@@ -1389,13 +1389,13 @@ msgid "किए"
 msgstr "केले"
 
 msgid "मिकमश"
-msgstr ""
+msgstr "मिकमश"
 
 msgid "पहत्‍मोआब"
-msgstr ""
+msgstr "पहत्‍मोआब"
 
 msgid "बुन्नी"
-msgstr ""
+msgstr "बुन्नी"
 
 msgid "इनमें"
 msgstr "यांच्यात"
@@ -1407,10 +1407,10 @@ msgid "उसका"
 msgstr "त्याचे"
 
 msgid "ओबेल"
-msgstr ""
+msgstr "ओबेल"
 
 msgid "जलपाई"
-msgstr ""
+msgstr "जलपाई"
 
 msgid "दासी"
 msgstr "दासी"
@@ -1422,7 +1422,7 @@ msgid "रखनेवाले"
 msgstr "ठेवणारे"
 
 msgid "टटका"
-msgstr ""
+msgstr "टटका"
 
 msgid "अड़सठ"
 msgstr "अडुसष्ट"
@@ -1434,7 +1434,7 @@ msgid "देगा।”"
 msgstr "देईल"
 
 msgid "मरेमोत"
-msgstr ""
+msgstr "मरेमोत"
 
 msgid "बैतलेहेम"
 msgstr "बेथलेहेम"
@@ -1446,10 +1446,10 @@ msgid "बनाऊँ।”"
 msgstr "बनवू"
 
 msgid "हश्‍बद्दाना"
-msgstr ""
+msgstr "हश्‍बद्दाना"
 
 msgid "गहर"
-msgstr ""
+msgstr "गहर"
 
 msgid "रहें"
 msgstr "राहा"
@@ -1464,7 +1464,7 @@ msgid "तट"
 msgstr "तट"
 
 msgid "योएद"
-msgstr ""
+msgstr "योएद"
 
 msgid "सुनता"
 msgstr "ऐकतो"
@@ -1473,7 +1473,7 @@ msgid "“परमेश्‍वर"
 msgstr "परमेश्वर"
 
 msgid "सबोईम"
-msgstr ""
+msgstr "सबोईम"
 
 msgid "कर।”"
 msgstr "कर"
@@ -1485,10 +1485,10 @@ msgid "तन"
 msgstr "शरीर"
 
 msgid "बेथक्‍केरेम"
-msgstr ""
+msgstr "बेथक्‍केरेम"
 
 msgid "अशदोदी"
-msgstr ""
+msgstr "अशदोदी"
 
 msgid "तब"
 msgstr "तेंव्हा"
@@ -1506,7 +1506,7 @@ msgid "इम्‍मेर"
 msgstr "इम्मेर"
 
 msgid "होमबलि"
-msgstr ""
+msgstr "होमबलि"
 
 msgid "आ"
 msgstr "ये"
@@ -1518,7 +1518,7 @@ msgid "बता"
 msgstr "सांग"
 
 msgid "चिताकर"
-msgstr ""
+msgstr "चिताकर"
 
 msgid "दिए।"
 msgstr "दिले"
@@ -1536,7 +1536,7 @@ msgid "दयालु"
 msgstr "दयाळू"
 
 msgid "भर"
-msgstr ""
+msgstr "भर"
 
 msgid "तिहत्‍तर।"
 msgstr "त्र्याहत्तर"
@@ -1545,7 +1545,7 @@ msgid "जब्‍दी"
 msgstr "जब्दी"
 
 msgid "अदायाह"
-msgstr ""
+msgstr "अदायाह"
 
 msgid "परमपवित्र"
 msgstr "परमपवित्र"
@@ -1557,7 +1557,7 @@ msgid "व"
 msgstr "व"
 
 msgid "यद्दू"
-msgstr ""
+msgstr "यद्दू"
 
 msgid "उन्‍होने"
 msgstr "त्यांनी"
@@ -1590,7 +1590,7 @@ msgid "अट्ठानवे।"
 msgstr "अठ्याण्णव"
 
 msgid "प्रति"
-msgstr ""
+msgstr "प्रति"
 
 msgid "बहत्तर"
 msgstr "बाहत्तर"
@@ -1605,10 +1605,10 @@ msgid "वेदी"
 msgstr "वेदी"
 
 msgid "पादोन"
-msgstr ""
+msgstr "पादोन"
 
 msgid "आदीन"
-msgstr ""
+msgstr "आदीन"
 
 msgid "खेतों"
 msgstr "शेती"
@@ -1623,7 +1623,7 @@ msgid "जिन्‍हें"
 msgstr "ज्यांना"
 
 msgid "उज्‍जियाह"
-msgstr ""
+msgstr "उज्‍जियाह"
 
 msgid "बाँध"
 msgstr "बांध"
@@ -1635,7 +1635,7 @@ msgid "औरों"
 msgstr "दुसरे"
 
 msgid "मशिल्‍लेमोत"
-msgstr ""
+msgstr "मशिल्‍लेमोत"
 
 msgid "पहर"
 msgstr "प्रहर"
@@ -1644,7 +1644,7 @@ msgid "भेज"
 msgstr "पाठव"
 
 msgid "पहल"
-msgstr ""
+msgstr "पहल"
 
 msgid "गड़बड़ी"
 msgstr "गडबड"
@@ -1671,13 +1671,13 @@ msgid "वस्‍त्र"
 msgstr "वस्त्र/कपडे"
 
 msgid "बेरेक्‍याह"
-msgstr ""
+msgstr "बेरेक्‍याह"
 
 msgid "दृढ़"
 msgstr "दृढ/स्थ्रिर"
 
 msgid "राजमिस्त्री"
-msgstr ""
+msgstr "राजमिस्त्री"
 
 msgid "गिबोन"
 msgstr "गिबोन"
@@ -1689,7 +1689,7 @@ msgid "रईसों"
 msgstr "श्रीमंत"
 
 msgid "आदोनीकाम"
-msgstr ""
+msgstr "आदोनीकाम"
 
 msgid "लिखे"
 msgstr "लिहावे"
@@ -1710,16 +1710,16 @@ msgid "“यह"
 msgstr "हे"
 
 msgid "पलायाह"
-msgstr ""
+msgstr "पलायाह"
 
 msgid "बाना।"
-msgstr ""
+msgstr "बाना।"
 
 msgid "कितनों"
 msgstr "किती"
 
 msgid "उड़ाने"
-msgstr ""
+msgstr "उड़ाने"
 
 msgid "पश्‍चाताप"
 msgstr "पश्चात्ताप "
@@ -1734,10 +1734,10 @@ msgid "गाते"
 msgstr "गातो"
 
 msgid "एत्तिम्माद"
-msgstr ""
+msgstr "एत्तिम्माद"
 
 msgid "बर्छियें"
-msgstr ""
+msgstr "बर्छियें"
 
 msgid "हाकिमों"
 msgstr "अधिपती"
@@ -1758,7 +1758,7 @@ msgid "रहें।”"
 msgstr "राहो"
 
 msgid "चढ़ाकर"
-msgstr ""
+msgstr "चढ़ाकर"
 
 msgid "सामान"
 msgstr "सामान"
@@ -1785,7 +1785,7 @@ msgid "अरबी"
 msgstr "अरबी"
 
 msgid "गढ़वाले"
-msgstr ""
+msgstr "गढ़वाले"
 
 msgid "सच्‍चा"
 msgstr "खरा"
@@ -1803,10 +1803,10 @@ msgid "चिट्ठियाँ"
 msgstr "चिठ्या"
 
 msgid "लगाने"
-msgstr ""
+msgstr "लगाने"
 
 msgid "सोपेरेत"
-msgstr ""
+msgstr "सोपेरेत"
 
 msgid "झोपड़ियो"
 msgstr "झोपड्या"
@@ -1845,13 +1845,13 @@ msgid "उसके"
 msgstr "त्याचे"
 
 msgid "बाँट"
-msgstr ""
+msgstr "बाँट"
 
 msgid "कोठरियाँ"
 msgstr "कोठड्या"
 
 msgid "मत्‍तित्‍याह"
-msgstr ""
+msgstr "मत्‍तित्‍याह"
 
 msgid "विचार"
 msgstr "विचार"
@@ -1872,7 +1872,7 @@ msgid "अन्‍यजातियों"
 msgstr "अन्यजाती"
 
 msgid "जत्‍तू"
-msgstr ""
+msgstr "जत्‍तू"
 
 msgid "प्रिय"
 msgstr "प्रिय"
@@ -1881,7 +1881,7 @@ msgid "मिलाकर"
 msgstr "मिसळून"
 
 msgid "हनन्‍याह।"
-msgstr ""
+msgstr "हनन्‍याह।"
 
 msgid "खिलाना"
 msgstr "खाऊ घालणे"
@@ -1890,10 +1890,10 @@ msgid "सुना"
 msgstr "ऐकव"
 
 msgid "अहजै"
-msgstr ""
+msgstr "अहजै"
 
 msgid "ढालकर"
-msgstr ""
+msgstr "ढालकर"
 
 msgid "बड़ा"
 msgstr "मोठा"
@@ -1905,7 +1905,7 @@ msgid "भाइयों"
 msgstr "भावांनो"
 
 msgid "हिजकिय्‍याह"
-msgstr ""
+msgstr "हिजकिय्‍याह"
 
 msgid "पशुओं"
 msgstr "पशू"
@@ -1950,28 +1950,28 @@ msgid "भलाई"
 msgstr "चांगुलपण"
 
 msgid "योयारीब"
-msgstr ""
+msgstr "योयारीब"
 
 msgid "मरेयोत"
-msgstr ""
+msgstr "मरेयोत"
 
 msgid "अक्‍कूब"
-msgstr ""
+msgstr "अक्‍कूब"
 
 msgid "जातियों"
 msgstr "जाती"
 
 msgid "जुली"
-msgstr ""
+msgstr "जुली"
 
 msgid "खिलाई"
 msgstr "चारली"
 
 msgid "बव्‍वै"
-msgstr ""
+msgstr "बव्‍वै"
 
 msgid "कोलायाह"
-msgstr ""
+msgstr "कोलायाह"
 
 msgid "पैंतालीस"
 msgstr "पंचेचाळीस"
@@ -1992,10 +1992,10 @@ msgid "साठ।"
 msgstr "साठ"
 
 msgid "मिकपास"
-msgstr ""
+msgstr "मिकपास"
 
 msgid "अत"
-msgstr ""
+msgstr "अत"
 
 msgid "बयालीस।"
 msgstr "बेचाळीस"
@@ -2022,13 +2022,13 @@ msgid "पानी"
 msgstr "पाणी"
 
 msgid "घोड़ाफाटक"
-msgstr ""
+msgstr "घोड़ाफाटक"
 
 msgid "धनुषों"
 msgstr "धनुष्ये"
 
 msgid "मल्‍लूक"
-msgstr ""
+msgstr "मल्‍लूक"
 
 msgid "मिले।”"
 msgstr "मिळाले"
@@ -2043,7 +2043,7 @@ msgid "स्‍त्रियों"
 msgstr "स्त्रिया"
 
 msgid "हानून"
-msgstr ""
+msgstr "हानून"
 
 msgid "प्रस्थान"
 msgstr "प्रस्थान/निघणे"
@@ -2058,13 +2058,13 @@ msgid "बनाते"
 msgstr "बनवतो"
 
 msgid "मग्‍पीआश"
-msgstr ""
+msgstr "मग्‍पीआश"
 
 msgid "करेंगे।"
 msgstr "करु"
 
 msgid "किर्यत्‍यारीम"
-msgstr ""
+msgstr "किर्यत्‍यारीम"
 
 msgid "चलेंगे"
 msgstr "चला"
@@ -2085,7 +2085,7 @@ msgid "तू"
 msgstr "तू"
 
 msgid "तो"
-msgstr ""
+msgstr "तो"
 
 msgid "इनको"
 msgstr "ह्यांना"
@@ -2109,7 +2109,7 @@ msgid "आने"
 msgstr "येऊ"
 
 msgid "महेतबेल"
-msgstr ""
+msgstr "महेतबेल"
 
 msgid "खोले"
 msgstr "उघडा"
@@ -2124,7 +2124,7 @@ msgid "सुनते"
 msgstr "ऐकतात"
 
 msgid "पक्ष"
-msgstr ""
+msgstr "पक्ष"
 
 msgid "बजाकर"
 msgstr "वाजवून"
@@ -2154,25 +2154,25 @@ msgid "करना"
 msgstr "करा"
 
 msgid "बीता"
-msgstr ""
+msgstr "बीता"
 
 msgid "निमित्‍त"
 msgstr "निमीत्त/कारण"
 
 msgid "एल्‍याशीब"
-msgstr ""
+msgstr "एल्‍याशीब"
 
 msgid "नीसान"
 msgstr "नीसान"
 
 msgid "बन"
-msgstr ""
+msgstr "बन"
 
 msgid "धुप"
 msgstr "धूप"
 
 msgid "बलियों"
-msgstr ""
+msgstr "बलियों"
 
 msgid "बीसवें"
 msgstr "विसावे"
@@ -2181,7 +2181,7 @@ msgid "सौवाँ"
 msgstr "शंभरावा"
 
 msgid "जरुब्‍बाबेल"
-msgstr ""
+msgstr "जरुब्‍बाबेल"
 
 msgid "चुनकर"
 msgstr "निवडून"
@@ -2205,7 +2205,7 @@ msgid "भाँति"
 msgstr "प्रकार"
 
 msgid "होबायाह"
-msgstr ""
+msgstr "होबायाह"
 
 msgid "2"
 msgstr "२"
@@ -2247,7 +2247,7 @@ msgid "10"
 msgstr "१०"
 
 msgid "होरोनी"
-msgstr ""
+msgstr "होरोनी"
 
 msgid "12"
 msgstr "१२"
@@ -2322,10 +2322,10 @@ msgid "क्षमा"
 msgstr "क्षमा"
 
 msgid "शल्‍मै"
-msgstr ""
+msgstr "शल्‍मै"
 
 msgid "चिता"
-msgstr ""
+msgstr "चिता"
 
 msgid "प्राचीनकाल"
 msgstr "प्राचीनकाळ"
@@ -2337,10 +2337,10 @@ msgid "दीं।"
 msgstr "दिली"
 
 msgid "पासेह"
-msgstr ""
+msgstr "पासेह"
 
 msgid "“हे"
-msgstr ""
+msgstr "“हे"
 
 msgid "फैला"
 msgstr "पसरला"
@@ -2349,7 +2349,7 @@ msgid "टिके।"
 msgstr "टिकले"
 
 msgid "घने"
-msgstr ""
+msgstr "घने"
 
 msgid "समाज"
 msgstr "समाज"
@@ -2358,13 +2358,13 @@ msgid "योएल"
 msgstr "योएल"
 
 msgid "हसूपा"
-msgstr ""
+msgstr "हसूपा"
 
 msgid "बेटे-बेटियों"
 msgstr "मुलेमुली"
 
 msgid "शोबै"
-msgstr ""
+msgstr "शोबै"
 
 msgid "अनुसार"
 msgstr "प्रमाणे"
@@ -2376,13 +2376,13 @@ msgid "उधर"
 msgstr "तिकडे"
 
 msgid "केरोस"
-msgstr ""
+msgstr "केरोस"
 
 msgid "नतोपा"
-msgstr ""
+msgstr "नतोपा"
 
 msgid "सना"
-msgstr ""
+msgstr "सना"
 
 msgid "जिनको"
 msgstr "ज्यांना"
@@ -2391,7 +2391,7 @@ msgid "जिनके"
 msgstr "ज्यांचे"
 
 msgid "भरे"
-msgstr ""
+msgstr "भरे"
 
 msgid "अन्‍यजाति"
 msgstr "अन्य जाती/इतर जाती"
@@ -2505,19 +2505,19 @@ msgid "जाना।"
 msgstr "जाणे"
 
 msgid "अजबूक"
-msgstr ""
+msgstr "अजबूक"
 
 msgid "अधीन"
 msgstr "अधीन"
 
 msgid "बस"
-msgstr ""
+msgstr "बस"
 
 msgid "नामक"
 msgstr "नावाचे"
 
 msgid "बाशान"
-msgstr ""
+msgstr "बाशान"
 
 msgid "3"
 msgstr "३"
@@ -2532,19 +2532,19 @@ msgid "याजक"
 msgstr "याजक"
 
 msgid "पतह्माह"
-msgstr ""
+msgstr "पतह्माह"
 
 msgid "मिले।"
-msgstr ""
+msgstr "मिले।"
 
 msgid "लाकीश"
-msgstr ""
+msgstr "लाकीश"
 
 msgid "ऊँचे"
 msgstr "ऊंच"
 
 msgid "अलंग"
-msgstr ""
+msgstr "अलंग"
 
 msgid "प्रसन्न"
 msgstr "प्रसन्न"
@@ -2556,7 +2556,7 @@ msgid "यिर्मयाह"
 msgstr "यिर्मया"
 
 msgid "पिलतै।"
-msgstr ""
+msgstr "पिलतै।"
 
 msgid "हर्हयाह"
 msgstr "हर्हय"
@@ -2574,7 +2574,7 @@ msgid "बन्‍धुआ"
 msgstr "बंदिवास"
 
 msgid "कीला"
-msgstr ""
+msgstr "कीला"
 
 msgid "कल्‍याण"
 msgstr "कल्याण"
@@ -2673,7 +2673,7 @@ msgid "पृथ्‍वी"
 msgstr "पृथ्वी"
 
 msgid "उन्‍हों"
-msgstr ""
+msgstr "उन्‍हों"
 
 msgid "मान"
 msgstr "मान"
@@ -2682,7 +2682,7 @@ msgid "ठहराए"
 msgstr "ठरवले"
 
 msgid "हत्‍तील"
-msgstr ""
+msgstr "हत्‍तील"
 
 msgid "निन्‍दा"
 msgstr "निंदा"
@@ -2736,7 +2736,7 @@ msgid "बेचा"
 msgstr "विकले"
 
 msgid "लोद"
-msgstr ""
+msgstr "लोद"
 
 msgid "पल्‍लों"
 msgstr "दरवाजे"
@@ -2772,7 +2772,7 @@ msgid "छठवें"
 msgstr "सहावे"
 
 msgid "चलता"
-msgstr ""
+msgstr "चलता"
 
 msgid "हाथ"
 msgstr "हात"
@@ -2838,25 +2838,25 @@ msgid "मीय्‍यामीन"
 msgstr "मियामीन"
 
 msgid "\v"
-msgstr ""
+msgstr "\v"
 
 msgid "करनेवालों"
 msgstr "करणारे लोक"
 
 msgid "\s"
-msgstr ""
+msgstr "\s"
 
 msgid "\p"
-msgstr ""
+msgstr "\p"
 
 msgid "फारसी"
-msgstr ""
+msgstr "फारसी"
 
 msgid "Revised"
-msgstr ""
+msgstr "Revised"
 
 msgid "चाहें"
-msgstr ""
+msgstr "चाहें"
 
 msgid "काम"
 msgstr "काम"
@@ -2865,7 +2865,7 @@ msgid "नबल्‍लत"
 msgstr "सनबल्लत"
 
 msgid "\c"
-msgstr ""
+msgstr "\c"
 
 msgid "कान"
 msgstr "कान"
@@ -2919,7 +2919,7 @@ msgid "निकाल"
 msgstr "निकाल"
 
 msgid "से"
-msgstr ""
+msgstr "से"
 
 msgid "घोड़े"
 msgstr "घोडे"
@@ -2976,7 +2976,7 @@ msgid "“उन"
 msgstr "त्या"
 
 msgid "लगे"
-msgstr ""
+msgstr "लगे"
 
 msgid "स्‍थल"
 msgstr "जागा"
@@ -3036,16 +3036,16 @@ msgid "इससे"
 msgstr "ह्यामुळे"
 
 msgid "मारे"
-msgstr ""
+msgstr "मारे"
 
 msgid "तब्‍बाओत"
-msgstr ""
+msgstr "तब्‍बाओत"
 
 msgid "अशदोदियों"
 msgstr "अश्दोदी"
 
 msgid "मनसा"
-msgstr ""
+msgstr "मनसा"
 
 msgid "बेचनेवाले"
 msgstr "विकणारे"
@@ -3078,7 +3078,7 @@ msgid "तेईस।"
 msgstr "तेवीस"
 
 msgid "तुझी"
-msgstr ""
+msgstr "तुझी"
 
 msgid "जले"
 msgstr "जळाले"
@@ -3126,7 +3126,7 @@ msgid "दूसरे"
 msgstr "दुसरे"
 
 msgid "पोखरे"
-msgstr ""
+msgstr "पोखरे"
 
 msgid "सीनै"
 msgstr "सीनाय"
@@ -3207,13 +3207,13 @@ msgid "मिटाया"
 msgstr "पुसून"
 
 msgid "पहली-पहली"
-msgstr ""
+msgstr "पहली-पहली"
 
 msgid "मल्‍कियाह"
 msgstr "मल्किया"
 
 msgid "अन्नबलि"
-msgstr ""
+msgstr "अन्नबलि"
 
 msgid "माननेवाला"
 msgstr "मानणारा"
@@ -3222,7 +3222,7 @@ msgid "निकाले"
 msgstr "काढले"
 
 msgid "चलते"
-msgstr ""
+msgstr "चलते"
 
 msgid "विनती"
 msgstr "विनंती"
@@ -3231,7 +3231,7 @@ msgid "क्‍योंकि"
 msgstr "कारण की"
 
 msgid "--"
-msgstr ""
+msgstr "--"
 
 msgid "युद्ध"
 msgstr "युद्ध"
@@ -3261,7 +3261,7 @@ msgid "पाँच"
 msgstr "पांच"
 
 msgid "पड़"
-msgstr ""
+msgstr "पड़"
 
 msgid "बालबच्‍चों"
 msgstr "मुलेबाळे"
@@ -3321,7 +3321,7 @@ msgid "मेंहदी"
 msgstr "मेहंदी"
 
 msgid "सौदा"
-msgstr ""
+msgstr "सौदा"
 
 msgid "गिनती"
 msgstr "गणना"
@@ -3345,7 +3345,7 @@ msgid "चौबीसवें"
 msgstr "चोविसावे"
 
 msgid "किर्यतर्बा"
-msgstr ""
+msgstr "किर्यतर्बा"
 
 msgid "गाए"
 msgstr "गावे"
@@ -3375,7 +3375,7 @@ msgid "रानी"
 msgstr "राणी"
 
 msgid "सल्‍लै"
-msgstr ""
+msgstr "सल्‍लै"
 
 msgid "भेंटों"
 msgstr "बक्षिस"
@@ -3387,10 +3387,10 @@ msgid "बाहर"
 msgstr "बाहेर"
 
 msgid "सल्‍लू"
-msgstr ""
+msgstr "सल्‍लू"
 
 msgid "लबाना"
-msgstr ""
+msgstr "लबाना"
 
 msgid "भाई"
 msgstr "भाऊ"
@@ -3411,19 +3411,19 @@ msgid "पहिली"
 msgstr "पहिली"
 
 msgid "रसीन"
-msgstr ""
+msgstr "रसीन"
 
 msgid "सके।"
-msgstr ""
+msgstr "सके।"
 
 msgid "हारीम"
-msgstr ""
+msgstr "हारीम"
 
 msgid "ठट्ठों"
 msgstr "थट्टा"
 
 msgid "हारीफ"
-msgstr ""
+msgstr "हारीफ"
 
 msgid "हारीप"
 msgstr "हारीप"
@@ -3456,13 +3456,13 @@ msgid "मिलने"
 msgstr "भेटायला"
 
 msgid "हतीता"
-msgstr ""
+msgstr "हतीता"
 
 msgid "जितने"
 msgstr "जितके"
 
 msgid "हग्‍गदोलीम"
-msgstr ""
+msgstr "हग्‍गदोलीम"
 
 msgid "पीछे"
 msgstr "पाठीमागे"
@@ -3471,10 +3471,10 @@ msgid "होशे"
 msgstr "होशेय"
 
 msgid "बाजे"
-msgstr ""
+msgstr "बाजे"
 
 msgid "!"
-msgstr ""
+msgstr "!"
 
 msgid "छः"
 msgstr "सहा"
@@ -3486,13 +3486,13 @@ msgid "विरुद्ध"
 msgstr "विरुद्ध"
 
 msgid "बुनी"
-msgstr ""
+msgstr "बुनी"
 
 msgid "मानता"
 msgstr "मानतो"
 
 msgid "सकती।”"
-msgstr ""
+msgstr "सकती।”"
 
 msgid "हनन्‍याह"
 msgstr "हनन्या"
@@ -3522,7 +3522,7 @@ msgid "को"
 msgstr "ला"
 
 msgid "आधी"
-msgstr ""
+msgstr "आधी"
 
 msgid "की"
 msgstr "ची"
@@ -3540,7 +3540,7 @@ msgid "सुधारा"
 msgstr "सुधारले"
 
 msgid "तेलमेलह"
-msgstr ""
+msgstr "तेलमेलह"
 
 msgid "पोता"
 msgstr "नातू"
@@ -3558,7 +3558,7 @@ msgid "पैंतीस"
 msgstr "पस्तीस"
 
 msgid "बेरोत"
-msgstr ""
+msgstr "बेरोत"
 
 msgid "24"
 msgstr "२४"
@@ -3594,7 +3594,7 @@ msgid "भवन"
 msgstr "भवन/घर"
 
 msgid "ओनों"
-msgstr ""
+msgstr "ओनों"
 
 msgid "तैंतालीस।"
 msgstr "त्रेचाळीस"
@@ -3639,7 +3639,7 @@ msgid "भेजता"
 msgstr "पाठवतो"
 
 msgid "लोबान"
-msgstr ""
+msgstr "लोबान"
 
 msgid "अमर्याह"
 msgstr "अम-या"
@@ -3660,7 +3660,7 @@ msgid "सहता"
 msgstr "सहन केले"
 
 msgid "ही"
-msgstr ""
+msgstr "ही"
 
 msgid "दाऊद"
 msgstr "दाविद"
@@ -3684,7 +3684,7 @@ msgid "दिया"
 msgstr "दिला/दिवा/बत्ती"
 
 msgid "उन्नो"
-msgstr ""
+msgstr "उन्नो"
 
 msgid "था।"
 msgstr "होता"
@@ -3699,7 +3699,7 @@ msgid "चितौनियों"
 msgstr "संताप "
 
 msgid "आजन्‍याह"
-msgstr ""
+msgstr "आजन्‍याह"
 
 msgid "अच्‍छी"
 msgstr "चांगली"
@@ -3711,13 +3711,13 @@ msgid "हर्हूर"
 msgstr "हर्हर"
 
 msgid "मुझ"
-msgstr ""
+msgstr "मुझ"
 
 msgid "बना"
 msgstr "बनव"
 
 msgid "उज्‍जी।"
-msgstr ""
+msgstr "उज्‍जी।"
 
 msgid "घटी"
 msgstr "कमी/घटी"
@@ -3729,7 +3729,7 @@ msgid "जाऊँ"
 msgstr "जाऊ"
 
 msgid "इन्‍हों"
-msgstr ""
+msgstr "इन्‍हों"
 
 msgid "भोजनवस्‍तु"
 msgstr "भोजन वस्तु"
@@ -3765,7 +3765,7 @@ msgid "मोअद्याह"
 msgstr "मोअद्दया"
 
 msgid "बेसै"
-msgstr ""
+msgstr "बेसै"
 
 msgid "कह"
 msgstr "बोल"
@@ -3798,7 +3798,7 @@ msgid "पितरों"
 msgstr "पुर्वज"
 
 msgid "पूलियों"
-msgstr ""
+msgstr "पूलियों"
 
 msgid "हुआ"
 msgstr "झाले"
@@ -3816,7 +3816,7 @@ msgid "हुई"
 msgstr "झाली"
 
 msgid "एजेर"
-msgstr ""
+msgstr "एजेर"
 
 msgid "ने"
 msgstr "ने"
@@ -3852,7 +3852,7 @@ msgid "लेंगे"
 msgstr "घेऊ"
 
 msgid "हस्‍सना"
-msgstr ""
+msgstr "हस्‍सना"
 
 msgid "फिरकर"
 msgstr "फिरुन"
@@ -3864,7 +3864,7 @@ msgid "चढ़े"
 msgstr "चढले"
 
 msgid "हाशम"
-msgstr ""
+msgstr "हाशम"
 
 msgid "जमा"
 msgstr "जमा"
@@ -3888,13 +3888,13 @@ msgid "यशायाह"
 msgstr "यशया"
 
 msgid "गिन्नतोई"
-msgstr ""
+msgstr "गिन्नतोई"
 
 msgid "दर्कोन"
-msgstr ""
+msgstr "दर्कोन"
 
 msgid "भोगते"
-msgstr ""
+msgstr "भोगते"
 
 msgid "चमत्‍कार"
 msgstr "चमत्कार"
@@ -3903,7 +3903,7 @@ msgid "आकाश"
 msgstr "आकाश"
 
 msgid "गिन्नतोन"
-msgstr ""
+msgstr "गिन्नतोन"
 
 msgid "नबियों"
 msgstr "संदेष्ट्ये"
@@ -3924,19 +3924,19 @@ msgid "70"
 msgstr "७०"
 
 msgid "दकोदा"
-msgstr ""
+msgstr "दकोदा"
 
 msgid "हतूश"
-msgstr ""
+msgstr "हतूश"
 
 msgid "मध्‍य"
-msgstr ""
+msgstr "मध्‍य"
 
 msgid "कहन"
-msgstr ""
+msgstr "कहन"
 
 msgid "नतोपातियों"
-msgstr ""
+msgstr "नतोपातियों"
 
 msgid "एबेर।"
 msgstr "एबर"
@@ -3951,7 +3951,7 @@ msgid "योहानान"
 msgstr "योहानान"
 
 msgid "फेंक"
-msgstr ""
+msgstr "फेंक"
 
 msgid "झोंपडि़याँ"
 msgstr "झोपड्या"
@@ -3963,7 +3963,7 @@ msgid "परन्‍तु"
 msgstr "परंत/पण"
 
 msgid "मची।"
-msgstr ""
+msgstr "मची।"
 
 msgid "वर्तमान"
 msgstr "वर्तमान"
@@ -3972,7 +3972,7 @@ msgid "खड़ा"
 msgstr "उभा"
 
 msgid "सीहा"
-msgstr ""
+msgstr "सीहा"
 
 msgid "नून"
 msgstr "नून"
@@ -3993,16 +3993,16 @@ msgid "अच्‍छा"
 msgstr "चांगला"
 
 msgid "भट्ठों"
-msgstr ""
+msgstr "भट्ठों"
 
 msgid "जुड़"
-msgstr ""
+msgstr "जुड़"
 
 msgid "8"
 msgstr "८"
 
 msgid "रिसियाकर"
-msgstr ""
+msgstr "रिसियाकर"
 
 msgid "नियम"
 msgstr "नियम"
@@ -4014,7 +4014,7 @@ msgid "हो।”"
 msgstr "होवो"
 
 msgid "नियत"
-msgstr ""
+msgstr "नियत"
 
 msgid "ओर"
 msgstr "च्या बाजुला"
@@ -4083,13 +4083,13 @@ msgid "पड़कर"
 msgstr "वाचुन"
 
 msgid "बैना"
-msgstr ""
+msgstr "बैना"
 
 msgid "ले"
 msgstr "घे"
 
 msgid "जक्कै"
-msgstr ""
+msgstr "जक्कै"
 
 msgid "मन्‍दिर"
 msgstr "मंदिर"
@@ -4140,10 +4140,10 @@ msgid "सम्‍मुख"
 msgstr "समोर"
 
 msgid "बसलीत"
-msgstr ""
+msgstr "बसलीत"
 
 msgid "सीहोन"
-msgstr ""
+msgstr "सीहोन"
 
 msgid "तेलहर्शा"
 msgstr "तेलहर्शा"
@@ -4155,7 +4155,7 @@ msgid "सम्‍मति"
 msgstr "संमती/परवानगी"
 
 msgid "कही"
-msgstr ""
+msgstr "कही"
 
 msgid "चुकना"
 msgstr "चुकणे"
@@ -4167,10 +4167,10 @@ msgid "का।”"
 msgstr "चा"
 
 msgid "हुओं"
-msgstr ""
+msgstr "हुओं"
 
 msgid "मूनीम"
-msgstr ""
+msgstr "मूनीम"
 
 msgid "इद्दो"
 msgstr "इद्दो"
@@ -4188,7 +4188,7 @@ msgid "बेतेल"
 msgstr "बेथेल"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "निवास"
 msgstr "राहाणे/राहाण्याची जागा"
@@ -4200,7 +4200,7 @@ msgid "हठीले"
 msgstr "हट्टी"
 
 msgid "कपीर"
-msgstr ""
+msgstr "कपीर"
 
 msgid "फटने"
 msgstr "फाटणे"
@@ -4239,13 +4239,13 @@ msgid "दिखाए"
 msgstr "दाखवा"
 
 msgid "सोतै"
-msgstr ""
+msgstr "सोतै"
 
 msgid "भण्डार"
 msgstr "भांडार"
 
 msgid "एल्‍योएनै"
-msgstr ""
+msgstr "एल्‍योएनै"
 
 msgid "पड़े"
 msgstr "पडले"
@@ -4263,7 +4263,7 @@ msgid "कर।"
 msgstr "कर"
 
 msgid "नपूशस"
-msgstr ""
+msgstr "नपूशस"
 
 msgid "शेरेब्‍याह"
 msgstr "शेरेब्या"
@@ -4281,7 +4281,7 @@ msgid "सभा"
 msgstr "सभा"
 
 msgid "मशेजबेल"
-msgstr ""
+msgstr "मशेजबेल"
 
 msgid "बाना"
 msgstr "बाना"
@@ -4290,13 +4290,13 @@ msgid "जिसके"
 msgstr "ज्यांचे"
 
 msgid "एलाम"
-msgstr ""
+msgstr "एलाम"
 
 msgid "अर्थ"
-msgstr ""
+msgstr "अर्थ"
 
 msgid "एमोरियों"
-msgstr ""
+msgstr "एमोरियों"
 
 msgid "बेतगिलगाल"
 msgstr "बेथगिलगाल"
@@ -4356,7 +4356,7 @@ msgid "तोड़"
 msgstr "तोड"
 
 msgid "\rem"
-msgstr ""
+msgstr "\rem"
 
 msgid "सदा"
 msgstr "नेहमी"
@@ -4368,13 +4368,13 @@ msgid "माशेयाह"
 msgstr "मासेया"
 
 msgid "होती"
-msgstr ""
+msgstr "होती"
 
 msgid "बच्चे"
 msgstr "लहान मुले"
 
 msgid "यदूतून"
-msgstr ""
+msgstr "यदूतून"
 
 msgid "अट्ठासी।"
 msgstr "अठ्ठयाऐंशी"
@@ -4422,16 +4422,16 @@ msgid "वृक्षों"
 msgstr "झाडे"
 
 msgid "माज्‍याह"
-msgstr ""
+msgstr "माज्‍याह"
 
 msgid "अनातोत"
-msgstr ""
+msgstr "अनातोत"
 
 msgid "चारों"
 msgstr "चा-ही"
 
 msgid "अय्‍या"
-msgstr ""
+msgstr "अय्‍या"
 
 msgid "बनाने"
 msgstr "बनवायला"
@@ -4446,7 +4446,7 @@ msgid "अड़तालीस।"
 msgstr "अठ्ठेचाळीस"
 
 msgid "बेतसूर"
-msgstr ""
+msgstr "बेतसूर"
 
 msgid "नरसिंगा"
 msgstr "नरशिंगा"
@@ -4476,7 +4476,7 @@ msgid "ठहरे।"
 msgstr "ठरवले/थांबवले"
 
 msgid "पौ"
-msgstr ""
+msgstr "पौ"
 
 msgid "धन्‍यवाद"
 msgstr "धन्यवाद"
@@ -4494,7 +4494,7 @@ msgid "देंगे"
 msgstr "देतील"
 
 msgid "NEH"
-msgstr ""
+msgstr "NEH"
 
 msgid "राजगढ़"
 msgstr "राजवाडा"
@@ -4509,7 +4509,7 @@ msgid "लगाई"
 msgstr "लावली"
 
 msgid "बनीन"
-msgstr ""
+msgstr "बनीन"
 
 msgid "नगर"
 msgstr "नगर/शहर"
@@ -4542,10 +4542,10 @@ msgid "बसोदयाह"
 msgstr "बसोदया"
 
 msgid "अजगाद"
-msgstr ""
+msgstr "अजगाद"
 
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgid "सड़सठ।"
 msgstr "सदुसष्ठ"
@@ -4557,7 +4557,7 @@ msgid "दिखाई"
 msgstr "दिसली"
 
 msgid "यामीन"
-msgstr ""
+msgstr "यामीन"
 
 msgid "पिटवा"
 msgstr "मारले"
@@ -4602,7 +4602,7 @@ msgid "गिर्गाशियों"
 msgstr "गीर्गाशी"
 
 msgid "पलल्‍याह"
-msgstr ""
+msgstr "पलल्‍याह"
 
 msgid "जान"
 msgstr "जीव"
@@ -4647,7 +4647,7 @@ msgid "करा"
 msgstr "केले"
 
 msgid "सोरा"
-msgstr ""
+msgstr "सोरा"
 
 msgid "पहरुए"
 msgstr "पहारेकरी"
@@ -4662,7 +4662,7 @@ msgid "गेशेम"
 msgstr "गेशेम"
 
 msgid "हेजीर"
-msgstr ""
+msgstr "हेजीर"
 
 msgid "तुम्‍हारा"
 msgstr "तुमचे"
@@ -4689,7 +4689,7 @@ msgid "झिलमों"
 msgstr "चिलखत"
 
 msgid "लगे।"
-msgstr ""
+msgstr "लगे।"
 
 msgid "शेलेम्‍याह"
 msgstr "शेलेम्या"
@@ -4728,7 +4728,7 @@ msgid "चान्‍द"
 msgstr "चंद्र"
 
 msgid "मकोना"
-msgstr ""
+msgstr "मकोना"
 
 msgid "इस"
 msgstr "ही"
@@ -4752,10 +4752,10 @@ msgid "इन"
 msgstr "ह्या"
 
 msgid "दीबोन"
-msgstr ""
+msgstr "दीबोन"
 
 msgid "सो"
-msgstr ""
+msgstr "सो"
 
 msgid "आज्ञाओं"
 msgstr "आज्ञा"
@@ -4800,7 +4800,7 @@ msgid "सच्‍चाई"
 msgstr "खरेपणा"
 
 msgid "गब्‍बै"
-msgstr ""
+msgstr "गब्‍बै"
 
 msgid "उन्‍हे"
 msgstr "त्यांना"
@@ -4812,10 +4812,10 @@ msgid "गाँव"
 msgstr "गाव"
 
 msgid ";"
-msgstr ""
+msgstr ";"
 
 msgid "गित्‍तैम"
-msgstr ""
+msgstr "गित्‍तैम"
 
 msgid "मिले"
 msgstr "मिळाले"
@@ -4827,7 +4827,7 @@ msgid "नरसिंगे"
 msgstr "नरशिंगे"
 
 msgid "अब्‍दा"
-msgstr ""
+msgstr "अब्‍दा"
 
 msgid "वे"
 msgstr "ते"
@@ -4893,7 +4893,7 @@ msgid "दे।”"
 msgstr "द्या"
 
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 msgid "तुम्‍हारे"
 msgstr "तुमचे/तुझे"
@@ -4911,13 +4911,13 @@ msgid "होगी।”"
 msgstr "होईल"
 
 msgid "सोरी"
-msgstr ""
+msgstr "सोरी"
 
 msgid "नाले"
-msgstr ""
+msgstr "नाले"
 
 msgid "रक्षा"
-msgstr ""
+msgstr "रक्षा"
 
 msgid "हो चुकी"
 msgstr "होऊन गेले"
@@ -4929,10 +4929,10 @@ msgid "गानेवालियाँ"
 msgstr "गाणा-या"
 
 msgid "अम्‍मोनी"
-msgstr ""
+msgstr "अम्‍मोनी"
 
 msgid "अमशै"
-msgstr ""
+msgstr "अमशै"
 
 msgid "दान"
 msgstr "दान"
@@ -4968,10 +4968,10 @@ msgid "शक्ति"
 msgstr "शक्ती"
 
 msgid "शरायाह"
-msgstr ""
+msgstr "शरायाह"
 
 msgid "टेक"
-msgstr ""
+msgstr "टेक"
 
 msgid "ठहरकर"
 msgstr "थांबून"
@@ -4995,7 +4995,7 @@ msgid "घट"
 msgstr "कमी/घट"
 
 msgid "उतारते"
-msgstr ""
+msgstr "उतारते"
 
 msgid "खाते"
 msgstr "खातात"
@@ -5046,7 +5046,7 @@ msgid "“आज"
 msgstr "आज"
 
 msgid "गेबा"
-msgstr ""
+msgstr "गेबा"
 
 msgid "ठहरे"
 msgstr "थांबले"
@@ -5061,7 +5061,7 @@ msgid "पूरी"
 msgstr "सगळी/सर्व"
 
 msgid "इतीएह"
-msgstr ""
+msgstr "इतीएह"
 
 msgid "तिरस्‍कार"
 msgstr "तिरस्कार/तुच्छ"
@@ -5073,7 +5073,7 @@ msgid "खाने"
 msgstr "खायला"
 
 msgid "दलायाह"
-msgstr ""
+msgstr "दलायाह"
 
 msgid "चिताया"
 msgstr "संतापवले/राग आणला"
@@ -5136,7 +5136,7 @@ msgid "अदूल्‍लाम"
 msgstr "अदुल्लाम"
 
 msgid "भट्टों"
-msgstr ""
+msgstr "भट्टों"
 
 msgid "छूटकर"
 msgstr "सुटून"
@@ -5160,7 +5160,7 @@ msgid "शालतीएल"
 msgstr "शल्तीएल"
 
 msgid "door43.org"
-msgstr ""
+msgstr "door43.org"
 
 msgid "अपने"
 msgstr "आपले"
@@ -5175,7 +5175,7 @@ msgid "इसी"
 msgstr "ह्याच"
 
 msgid "याला"
-msgstr ""
+msgstr "याला"
 
 msgid "इसे"
 msgstr "ह्याला"
@@ -5199,13 +5199,13 @@ msgid "मत्‍तन्‍याह"
 msgstr "मत्तन्या"
 
 msgid "बिलगा"
-msgstr ""
+msgstr "बिलगा"
 
 msgid "जाओ।"
 msgstr "जा"
 
 msgid "शोबेक"
-msgstr ""
+msgstr "शोबेक"
 
 msgid "डाँटा"
 msgstr "धमकावले"
@@ -5256,13 +5256,13 @@ msgid "पुराने"
 msgstr "जुने"
 
 msgid "गज्‍जाम"
-msgstr ""
+msgstr "गज्‍जाम"
 
 msgid "जब्‍बै"
-msgstr ""
+msgstr "जब्‍बै"
 
 msgid "योजाबाद"
-msgstr ""
+msgstr "योजाबाद"
 
 msgid "थी।"
 msgstr "होती"
@@ -5274,7 +5274,7 @@ msgid "अधर्म"
 msgstr "अधर्म"
 
 msgid "बैसै"
-msgstr ""
+msgstr "बैसै"
 
 msgid "प्‍यास"
 msgstr "तहान"
@@ -5298,16 +5298,16 @@ msgid "सुनाया।"
 msgstr "ऐकवले"
 
 msgid "चुका"
-msgstr ""
+msgstr "चुका"
 
 msgid "पालाल"
-msgstr ""
+msgstr "पालाल"
 
 msgid "ढूँढ़ा"
 msgstr "शोधले"
 
 msgid "हकूपा"
-msgstr ""
+msgstr "हकूपा"
 
 msgid "दूतों"
 msgstr "दूत"
@@ -5334,16 +5334,16 @@ msgid "निकट"
 msgstr "जवळ"
 
 msgid "हशब्‍नयाह"
-msgstr ""
+msgstr "हशब्‍नयाह"
 
 msgid "Edition"
-msgstr ""
+msgstr "Edition"
 
 msgid "ठहरा"
 msgstr "थांबला"
 
 msgid "बेर"
-msgstr ""
+msgstr "बेर"
 
 msgid "शल्‍लूम"
 msgstr "शल्लूम"
@@ -5352,7 +5352,7 @@ msgid "अँगरखे"
 msgstr "अंगरखे"
 
 msgid "दाक्षिण"
-msgstr ""
+msgstr "दाक्षिण"
 
 msgid "बुराई"
 msgstr "वाईट"
@@ -5373,7 +5373,7 @@ msgid "वंशावली"
 msgstr "वंशावळ"
 
 msgid "कुरीतियों"
-msgstr ""
+msgstr "कुरीतियों"
 
 msgid "महीना"
 msgstr "महीना"
@@ -5388,7 +5388,7 @@ msgid "हाशूम"
 msgstr "हाशुम"
 
 msgid "रहो।”"
-msgstr ""
+msgstr "रहो।”"
 
 msgid "गूँधा"
 msgstr "मळलेले"
@@ -5406,7 +5406,7 @@ msgid "बढ़ाऊँगा।”"
 msgstr "वाढवेल"
 
 msgid "**"
-msgstr ""
+msgstr "**"
 
 msgid "नया"
 msgstr "नविन"
@@ -5415,7 +5415,7 @@ msgid "बलिदानों"
 msgstr "बलिदान"
 
 msgid "हेशबोन"
-msgstr ""
+msgstr "हेशबोन"
 
 msgid "भय"
 msgstr "भिती/भय"
@@ -5424,7 +5424,7 @@ msgid "पुरुषों"
 msgstr "पुरुष"
 
 msgid "उतारता"
-msgstr ""
+msgstr "उतारता"
 
 msgid "“आओ"
 msgstr "या"
@@ -5436,7 +5436,7 @@ msgid "शमायाह"
 msgstr "शमाया"
 
 msgid "आनान"
-msgstr ""
+msgstr "आनान"
 
 msgid "पापी"
 msgstr "पापी"
@@ -5454,7 +5454,7 @@ msgid "कबरें"
 msgstr "कबरा"
 
 msgid "पहली"
-msgstr ""
+msgstr "पहली"
 
 msgid "गीत"
 msgstr "गीत/गाणे"
@@ -5463,13 +5463,13 @@ msgid "शेलह"
 msgstr "शेलह"
 
 msgid "पालता"
-msgstr ""
+msgstr "पालता"
 
 msgid "वीणा"
 msgstr "वीणा"
 
 msgid "निष्‍फल"
-msgstr ""
+msgstr "निष्‍फल"
 
 msgid "लेविय"
 msgstr "लेवी"
@@ -5481,7 +5481,7 @@ msgid "तलवारें"
 msgstr "तलवारी"
 
 msgid "("
-msgstr ""
+msgstr "("
 
 msgid "उपजाऊ"
 msgstr "सुपीक"
@@ -5490,13 +5490,13 @@ msgid "छुड़ानेवाले"
 msgstr "सोडवणारे"
 
 msgid "जाने"
-msgstr ""
+msgstr "जाने"
 
 msgid "अतिकरुणामय"
 msgstr "फार दयाळू"
 
 msgid "मुंशी"
-msgstr ""
+msgstr "मुंशी"
 
 msgid "बलवन्‍त"
 msgstr "बलवान"
@@ -5514,10 +5514,10 @@ msgid "डाली"
 msgstr "फांदी/डहाळी"
 
 msgid "पाकर"
-msgstr ""
+msgstr "पाकर"
 
 msgid "डाले"
-msgstr ""
+msgstr "डाले"
 
 msgid "साधारण"
 msgstr "साधारण"
@@ -5541,7 +5541,7 @@ msgid "तलवारों"
 msgstr "तलवारी"
 
 msgid "सालाप"
-msgstr ""
+msgstr "सालाप"
 
 msgid "पूरब"
 msgstr "पूर्व"
@@ -5550,7 +5550,7 @@ msgid "डाल।"
 msgstr "टाक"
 
 msgid "कोसा"
-msgstr ""
+msgstr "कोसा"
 
 msgid "महललेल"
 msgstr "महलेल"
@@ -5577,13 +5577,13 @@ msgid "“आ"
 msgstr "ये"
 
 msgid "Source"
-msgstr ""
+msgstr "Source"
 
 msgid "भोगना"
-msgstr ""
+msgstr "भोगना"
 
 msgid "मिस्‍पेरेत"
-msgstr ""
+msgstr "मिस्‍पेरेत"
 
 msgid "सड़सठ"
 msgstr "सदुसष्ठ"
@@ -5598,10 +5598,10 @@ msgid "हर्शा"
 msgstr "हर्शा"
 
 msgid "अजरेल"
-msgstr ""
+msgstr "अजरेल"
 
 msgid "अज्रीकाम"
-msgstr ""
+msgstr "अज्रीकाम"
 
 msgid "मानना"
 msgstr "मान्य करणे"
@@ -5628,10 +5628,10 @@ msgid "अश्‍शूर"
 msgstr "अश्शूर"
 
 msgid "मोलादा"
-msgstr ""
+msgstr "मोलादा"
 
 msgid "लुटवा"
-msgstr ""
+msgstr "लुटवा"
 
 msgid "मनुष्‍य"
 msgstr "मनुष्य/माणूस"
@@ -5664,34 +5664,34 @@ msgid "पंचानवे।"
 msgstr "पंचाण्णव"
 
 msgid "मिललै"
-msgstr ""
+msgstr "मिललै"
 
 msgid "जहा"
 msgstr "जेथे"
 
 msgid "जानोह"
-msgstr ""
+msgstr "जानोह"
 
 msgid "उदास"
 msgstr "फदास"
 
 msgid "चला।"
-msgstr ""
+msgstr "चला।"
 
 msgid "“मैं"
 msgstr "मी"
 
 msgid "योआरीब"
-msgstr ""
+msgstr "योआरीब"
 
 msgid "यर्मूत"
-msgstr ""
+msgstr "यर्मूत"
 
 msgid "रोओ।”"
 msgstr "कडा"
 
 msgid "तैलवृक्ष"
-msgstr ""
+msgstr "तैलवृक्ष"
 
 msgid "यही"
 msgstr "इथेच"
@@ -5745,7 +5745,7 @@ msgid "ब्‍याज"
 msgstr "व्याज"
 
 msgid "लगें।”"
-msgstr ""
+msgstr "लगें।”"
 
 msgid "नहीं"
 msgstr "नाही"
@@ -5781,7 +5781,7 @@ msgid "लिया।"
 msgstr "घेतले"
 
 msgid ")"
-msgstr ""
+msgstr ")"
 
 msgid "रखा"
 msgstr "ठेवले"
@@ -5796,7 +5796,7 @@ msgid "कुछ"
 msgstr "कांही"
 
 msgid "कल्‍लै"
-msgstr ""
+msgstr "कल्‍लै"
 
 msgid "जैसा"
 msgstr "जसे"
@@ -5805,7 +5805,7 @@ msgid "कसदियों"
 msgstr "खास्दी"
 
 msgid "जाया"
-msgstr ""
+msgstr "जाया"
 
 msgid "याने"
 msgstr "म्हणजे"
@@ -5886,13 +5886,13 @@ msgid "साठ"
 msgstr "साठ"
 
 msgid "शीलोई"
-msgstr ""
+msgstr "शीलोई"
 
 msgid "मरायोत"
 msgstr "मरायोथ"
 
 msgid "माऐ"
-msgstr ""
+msgstr "माऐ"
 
 msgid "पहिने"
 msgstr "घाला"
@@ -5964,7 +5964,7 @@ msgid "ढूँढ़े"
 msgstr "शोधू"
 
 msgid "?"
-msgstr ""
+msgstr "?"
 
 msgid "निकलने"
 msgstr "निघून"
@@ -5979,7 +5979,7 @@ msgid "हियाव"
 msgstr "धाडस/धैर्य"
 
 msgid "करती"
-msgstr ""
+msgstr "करती"
 
 msgid "जक्‍कूर"
 msgstr "जक्कूर"
@@ -6030,7 +6030,7 @@ msgid "दृष्‍टि"
 msgstr "दृष्टि"
 
 msgid "नकोदा"
-msgstr ""
+msgstr "नकोदा"
 
 msgid "अनादिकाल"
 msgstr "अनादिकाल"
@@ -6132,7 +6132,7 @@ msgid "हजार"
 msgstr "हजार"
 
 msgid "”"
-msgstr ""
+msgstr "”"
 
 msgid "हूँ।"
 msgstr "आहे"
@@ -6168,7 +6168,7 @@ msgid "छोड़"
 msgstr "सोड"
 
 msgid "45"
-msgstr ""
+msgstr "45"
 
 msgid "42"
 msgstr "४२"
@@ -6192,7 +6192,7 @@ msgid "क्‍या"
 msgstr "काय"
 
 msgid "रहोब"
-msgstr ""
+msgstr "रहोब"
 
 msgid "वस्‍तु"
 msgstr "वस्तू"
@@ -6213,7 +6213,7 @@ msgid "अठारह।"
 msgstr "अठरा"
 
 msgid "शम्‍मू"
-msgstr ""
+msgstr "शम्‍मू"
 
 msgid "हम्‍मेआ"
 msgstr "हम्मेआ"
@@ -6228,10 +6228,10 @@ msgid "क्रोधित"
 msgstr "रागावला"
 
 msgid "परीदा"
-msgstr ""
+msgstr "परीदा"
 
 msgid "’"
-msgstr ""
+msgstr "’"
 
 msgid "यरीहो"
 msgstr "यरीहो"
@@ -6252,7 +6252,7 @@ msgid "ऊँट"
 msgstr "उंट"
 
 msgid "समयों"
-msgstr ""
+msgstr "समयों"
 
 msgid "जिन"
 msgstr "ज्या"
