@@ -1,0 +1,828 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: tfbfgroup@googlegroups.com\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2016-08-19 16:15+0530\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ml_IN\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "ಪ್ರಯೋಜನವಾಗುವ"
+msgstr "ഉപകാരപ്രദമായ"
+
+msgid "ಹೃದಯವನ್ನು"
+msgstr "ഹൃദയത്തെ"
+
+msgid "ಎಲ್ಲಾ"
+msgstr "എല്ലാ"
+
+msgid "ಹಾಗೆ"
+msgstr "അങ്ങനെ"
+
+msgid "ಇಷ್ಟವಿರಲಿಲ್ಲ"
+msgstr "താത്പര്യമുണ്ടായിരുന്നില്ല"
+
+msgid "ಆಗುರುವ"
+msgstr "ആയിരിക്കുന്ന"
+
+msgid "ಲೋಕಸಂಬಂಧದಲ್ಲಿಯೂ"
+msgstr "ജഡസംബന്ധമായി"
+
+msgid "ದಾಸನಾಗದೆ"
+msgstr "ദാസനായിരിക്കാതെ"
+
+msgid "ಸಂಬಂಧದಲ್ಲಿಯೂ"
+msgstr "സംബന്ധമായി"
+
+msgid "ಕುರಿತು"
+msgstr "കുറിച്ച്"
+
+msgid "ಸಹಭಟನಾದ"
+msgstr "സഹഭടനായ"
+
+msgid "ನನಗೋಸ್ಕರ"
+msgstr "എനിക്കുവേണ്ടി"
+
+msgid "ಜೊತೆಗೆಲಸದವನೂ"
+msgstr "കൂട്ടുവേലക്കാരൻ"
+
+msgid "ಸಹೋದರಿಯಾದ"
+msgstr "സഹോദരിയായ"
+
+msgid "ಸಭೆಯವರಿಗೂ"
+msgstr "സഭയിലുള്ളവർക്ക്"
+
+msgid "ಎಣಿಸಿದರೆ"
+msgstr "എണ്ണിയാൽ"
+
+msgid "ಸೇರಿಸಿಕೊಳ್ಳುವ"
+msgstr "ചേർത്ത്കൊള്ളുക"
+
+msgid "ಓಡಿಹೋದ"
+msgstr "ഓടിപ്പോയ"
+
+msgid "ಸೇರಿಸಿಕೊಳ್ಳಬೇಕೆಂದು"
+msgstr "ചേർത്ത്കൊള്ളേണമെന്ന്"
+
+msgid "ನಿಮಿತ್ತವಾಗಿ"
+msgstr "മുഖാന്തരമായി"
+
+msgid "ಉಪಚಾರಮಾಡುವಂತೆ"
+msgstr "ഉപകാരം ചെയ്യേണ്ടതിന്നു്"
+
+msgid "ಮಾಡುವದಕ್ಕೂ"
+msgstr "ചെയ്യേണ്ടതിന്നു്"
+
+msgid "ನಿಮ್ಮ"
+msgstr "നിങ്ങളുടെ"
+
+msgid "13"
+msgstr "13"
+
+msgid "ಸ್ವಲ್ಪ"
+msgstr "അല്പ"
+
+msgid "ಲೂಕರೂ"
+msgstr "ലൂക്കോസും"
+
+msgid "ಬದಲಾಗಿ"
+msgstr "പകരമായി"
+
+msgid "ಸದ್ಗುಣಗಳ"
+msgstr "നല്ലഗുണങ്ങൾ"
+
+msgid "22"
+msgstr "22"
+
+msgid "ಉಪಕಾರವು"
+msgstr "ഉപകാരം"
+
+msgid "ನನಗೂ"
+msgstr "എനിക്ക്"
+
+msgid "ಹೆಚ್ಚಾಗಿ"
+msgstr "അധികമായി"
+
+msgid "ಆತ್ಮದ"
+msgstr "ആത്മാവിന്റെ"
+
+msgid "ಪ್ರಿಯವಾಗಿರುವನು"
+msgstr "പ്രിയപ്പെട്ടവനായ"
+
+msgid "ಫಿಎಮೋನನೆಂಬ"
+msgstr "ഫിലെമോനെന്ന"
+
+msgid "."
+msgstr "."
+
+msgid "ಸ್ತೋತ್ರವನ್ನು"
+msgstr "സ്തോത്രം"
+
+msgid "ಓನೇಸಿಮನೆಂಬ"
+msgstr "ഒനേസിമൊസെന്ന"
+
+msgid "ನಾನೇ"
+msgstr "ഞാൻ തന്നെ"
+
+msgid "ಬರೆದ"
+msgstr "എഴുതിയ"
+
+msgid "ಏನೋ"
+msgstr "എന്തോ"
+
+msgid "ಆತ್ಮದೊಂದಿಗಿರಲಿ"
+msgstr "ആത്മാവോടു കൂടെ ഇരിക്കട്ടെ"
+
+msgid "ಪ್ರಾಣದಂತಿದ್ದರೂ"
+msgstr "പ്രാണനെപ്പോലെയായിരുന്നു"
+
+msgid "ಸೆರೆಯವನಾದ"
+msgstr "തടവുകാരനായ"
+
+msgid "ಸಂತೋಷವೂ"
+msgstr "സന്തോഷം"
+
+msgid "ಮುದುಕನೂ"
+msgstr "വൃദ്ധൻ"
+
+msgid "ನಿನ್ನವನಾಗಬೇಕೆಂಬದಕ್ಕೋಸ್ಕರವೋ"
+msgstr "നിന്റേതാകേണ്ടതിന്നു്"
+
+msgid "ನೀನೇ"
+msgstr "നീ തന്നെ"
+
+msgid "ಫಲೆಮೋನನ"
+msgstr "ഫിലെമോന്റെ"
+
+msgid "ಪ್ರಯೋಜಕನಾಗಿದ್ದಾನೆ"
+msgstr "പ്രയോജനമുള്ളവനായിരിക്കുന്നു"
+
+msgid "ಮಾಡುವ"
+msgstr "ചെയ്യുന്ന"
+
+msgid "ನಂಬಿಕೆಯಲ್ಲಿರುವ"
+msgstr "വിശ്വാസത്തിലിരിക്കുന്ന"
+
+msgid "5"
+msgstr "5"
+
+msgid "ಮೊದಲು"
+msgstr "ആദ്യമായി"
+
+msgid "17"
+msgstr "17"
+
+msgid "ಸ್ಥಳವನ್ನು"
+msgstr "ഇടം"
+
+msgid "Free"
+msgstr "Free"
+
+msgid "ಕ್ರಿಸ್ತಯೇಸುವಿನ"
+msgstr "ക്രിസ്തുയേശുവിന്റെ/ക്രിസ്തുയേശുവിനായി"
+
+msgid "ಮಾತುಗಳು"
+msgstr "വാക്കുകൾ"
+
+msgid "ಕೃಪೆಯೂ"
+msgstr "കൃപയും"
+
+msgid "ತೀರಿಸಬೇಕಾಗಿದ್ದರೆ"
+msgstr "തീർക്കണമെങ്കിൽ"
+
+msgid "ಎಪಫ್ರನೂ"
+msgstr "എപ്പഫ്രാസും"
+
+msgid "ಹೆಚ್ಚಾದ"
+msgstr "അധികമായ"
+
+msgid "ಕರ್ತನಾದ"
+msgstr "കർത്താവായ"
+
+msgid "Kannada"
+msgstr "Malayalam"
+
+msgid "ಇರಬೇಕೆಂದು"
+msgstr "ഇരിക്കണമെന്ന്"
+
+msgid "\\p"
+msgstr "\\p"
+
+msgid "ಲೆಕ್ಕಕ್ಕೆ"
+msgstr "കണക്കിൽ"
+
+msgid "ಸಾಲದಲ್ಲಿದ್ದೀ"
+msgstr "കടപ്പെട്ടിരിക്കുന്നു"
+
+msgid "21"
+msgstr "21"
+
+msgid "ಮೂಲಕ"
+msgstr "മുഖാന്തരമായി"
+
+msgid "ಎಂಬ"
+msgstr "എന്ന്"
+
+msgid "ಉಂಟು"
+msgstr "ഉണ്ട്"
+
+msgid "ಬಳಿಯಲ್ಲೇ"
+msgstr "അടുത്ത്"
+
+msgid "ಯಾವಾಗಲೂ"
+msgstr "എപ്പോഴും"
+
+msgid "ಬಹಳ"
+msgstr "വളരെ"
+
+msgid "ಸಹೋದರರೇ"
+msgstr "സഹോദരന്മാരെ"
+
+msgid "ಕೈಯಿಂದ"
+msgstr "കൈയ്യാൽ"
+
+msgid "ಸೆರೆಯವನಾಗಿರುವ"
+msgstr "തടവിലായിരിക്കുന്ന"
+
+msgid "ಸಮ್ಮತಿಯಿಲ್ಲದೆ"
+msgstr "അനുവാദമില്ലാതെ"
+
+msgid "ದೊರಕಿರುವ"
+msgstr "കിട്ടിയിട്ടുള്ള/ലഭിച്ചിരിക്കുന്ന"
+
+msgid "ಸಂತೋಷಪಡಿಸು"
+msgstr "സന്തോഷപ്പെടുത്തുവീൻ"
+
+msgid "ಸೇರೆಕೋ"
+msgstr "ചേർത്ത്കൊള്ളുക"
+
+msgid "10"
+msgstr "10"
+
+msgid "ನಷ್ಟಪಟ್ಟಿದ್ದರೆ"
+msgstr "നഷ്ടമായെങ്കിൽ"
+
+msgid "ಪ್ರೋತ್ಸಾಹ"
+msgstr "പ്രോത്സാഹനം"
+
+msgid "ಏನು"
+msgstr "എന്ത്"
+
+msgid "ಪೈಲನೂ"
+msgstr "പൗലോസും"
+
+msgid "ನಾನು"
+msgstr "ഞാൻ"
+
+msgid "23"
+msgstr "23"
+
+msgid "ಬಳಿಗೆ"
+msgstr "അടുത്ത്"
+
+msgid "\\v"
+msgstr "\\v"
+
+msgid "ಹೊಂದುತ್ತಿರುವಲ್ಲಿ"
+msgstr "പ്രാപിക്കേണ്ടതിന്നു്"
+
+msgid "ಫಿಲಮೋನನಿಗೆ"
+msgstr "ഫിലേമോനു്"
+
+msgid "ನಿಮಿತ್ತ"
+msgstr "മുഖാന്തരമായി"
+
+msgid "7"
+msgstr "7"
+
+msgid "ಉಂಟಾದದರಿಂದ"
+msgstr "ഉണ്ടായതുകൊണ്ട്"
+
+msgid "ಆದಕಾರಣ"
+msgstr "അതുകൊണ്ട്"
+
+msgid "Bible"
+msgstr "Bible"
+
+msgid "ನಿನಗೆ"
+msgstr "നിനക്ക്"
+
+msgid "ಪೌಲನೆಂಬ"
+msgstr "പൗലോസെന്ന"
+
+msgid "ಮಗನಾದ"
+msgstr "മകനായ"
+
+msgid "ಬೇರೆ"
+msgstr "വേറെ"
+
+msgid "ಉಂಟುಮಾಡಬೇಕೆಂದು"
+msgstr "ഉണ്ടാകേണമെന്ന്"
+
+msgid "ಗೊತ್ತುಂಟು"
+msgstr "അറിയാം"
+
+msgid "ಅಥವಾ"
+msgstr "അഥവാ/അല്ലെങ്കിൽ"
+
+msgid "ಕೂಡುವ"
+msgstr "കൂടിവരുന്ന"
+
+msgid "3"
+msgstr "3"
+
+msgid "ಸಾಲವೇನಾದರೂ"
+msgstr "കടമെന്തെങ്കിലും"
+
+msgid "ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ"
+msgstr "പ്രാർത്ഥിക്കുന്നു"
+
+msgid "ಉಂಟಾದವು"
+msgstr "ഉണ്ടായി"
+
+msgid "ಅಗಲಿಸಲ್ಪಟ್ಟದ್ದು"
+msgstr "വേർപെട്ടത്"
+
+msgid "ಸೆರೆಮನೆಯಲ್ಲಿರಲಾಗಿ"
+msgstr "കാരാഗൃത്തിലിരിക്കുന്ന"
+
+msgid "ವಿಷಯದಲ್ಲಿ"
+msgstr "വിഷയത്തിൽ"
+
+msgid "ಮಾಡುತ್ತೇನೆ"
+msgstr "ചെയ്യാം"
+
+msgid "ಪತ್ರಿಕೆಯನ್ನು"
+msgstr "എഴുത്ത്"
+
+msgid "ಬೇಡಿಕೊಳ್ಳುತ್ತೇನೆ"
+msgstr "യാചിക്കുന്നു"
+
+msgid "ಶಾಂತಿಯೂ"
+msgstr "ശാന്തിയും"
+
+msgid "ಪ್ರಿತಿಯ"
+msgstr "പ്രിയ"
+
+msgid "ಪ್ರಕಾರವೇ"
+msgstr "അപ്രകാരം തന്നെ"
+
+msgid "ಏನಾದರೂ"
+msgstr "എന്തെങ്കിലും"
+
+msgid "ಉತ್ತಮವಾಗಿ"
+msgstr "ഉത്തമമായി"
+
+msgid "4"
+msgstr "4"
+
+msgid "ಹೃದಯಗಳಿಗೆ"
+msgstr "ഹൃദയങ്ങൾക്ക്"
+
+msgid "19"
+msgstr "19"
+
+msgid "11"
+msgstr "11"
+
+msgid "15"
+msgstr "15"
+
+msgid "9"
+msgstr "9"
+
+msgid "ಕರ್ತನಲ್ಲಿ"
+msgstr "കർത്താവിൽ"
+
+msgid "ನಿರೀಕ್ಷೆ"
+msgstr "പ്രത്യാശ"
+
+msgid "ಕ್ರಿಸ್ತನಿಂದಲೂ"
+msgstr "ക്രിസ്തുവിൽനിന്നും"
+
+msgid "ಸುವರಗಳನ್ನು"
+msgstr "നല്ലവരങ്ങൾ"
+
+msgid "ಪೂರಾ"
+msgstr "മുഴുവനും"
+
+msgid "ಅಪ್ಪಿಯಳಿಗೂ"
+msgstr "അപ്പിയയ്ക്കും"
+
+msgid "ಪೌಲನು"
+msgstr "പൗലോസ്"
+
+msgid "ದೇವರಿಂದಲೂ"
+msgstr "ദൈവത്തിൽ നിന്നും"
+
+msgid "ಸಲ್ಲಿಸಿ"
+msgstr "അർപ്പിക്കുക"
+
+msgid "ಹೌದು"
+msgstr "(അതേ)"
+
+msgid "ಕ್ರಿಸ್ತನ"
+msgstr "ക്രിസ്തുവിന്റെ"
+
+msgid "ಕೇಳುವಿ"
+msgstr "കേൾക്കും"
+
+msgid "ಆಗಲಿ"
+msgstr "ഉണ്ടാകട്ടെ"
+
+msgid "ನಿನ್ನಿಂದ"
+msgstr "നിന്നിൽ നിന്ന്"
+
+msgid "ಸ್ತೋತ್ರ"
+msgstr "സ്തോത്രം"
+
+msgid ","
+msgstr ","
+
+msgid "ಅಧಿಕಾರವಿದ್ದರೂ"
+msgstr "അധികാരമുണ്ടെങ്കിലും"
+
+msgid "ಕ್ಷಮಿಸಿ"
+msgstr "ക്ഷമിച്ച്"
+
+msgid "2"
+msgstr "2"
+
+msgid "PHM"
+msgstr "PHM"
+
+msgid "ಅನ್ಯೋನ್ಯತೆಯೂ"
+msgstr "കൂട്ടായ്മയും"
+
+msgid "-"
+msgstr "-"
+
+msgid "ಕ್ರಿಸ್ತ"
+msgstr "ക്രിസ്തു"
+
+msgid "ಪ್ರಾರ್ಥನೆಗಳನ್ನು"
+msgstr "പ്രാർത്ഥനകൾ"
+
+msgid "ದಸನಿಗಿಂತ"
+msgstr "ദാസനേക്കാൾ"
+
+msgid "ನನಗೆ"
+msgstr "എനിക്ക്"
+
+msgid "ಇನ್ನು"
+msgstr "ഇനിയും"
+
+msgid "ಪ್ರಾರ್ಥನೆ"
+msgstr "പ്രാർത്ഥന"
+
+msgid "ಬರುವದಕ್ಕೆ"
+msgstr "വരുന്നതിന്"
+
+msgid "ದೇವಜನರೆಲ್ಲರ"
+msgstr "ദൈവജനങ്ങളെല്ലാവരുടെയും"
+
+msgid "ಸಹಕಾರಿಗಳಾದ"
+msgstr "സഹകാരികളായ"
+
+msgid "ಅವನು"
+msgstr "അവൻ"
+
+msgid "ಇಟ್ಟುಕೊಳ್ಳಬೇಕೆಂದು"
+msgstr "വെച്ചുകൊള്ളേണമെന്ന്"
+
+msgid "ದಾಸನನ್ನು"
+msgstr "ദാസനെ"
+
+msgid "ಎಷ್ಟೋ"
+msgstr "എത്രയോ"
+
+msgid "ತೀರಿಸುತ್ತೇನೆಂದು"
+msgstr "തീർക്കുമെന്ന്"
+
+msgid "ಕ್ರಿಸ್ತನಲ್ಲಿ"
+msgstr "ക്രിസ്തുവിൽ"
+
+msgid "24"
+msgstr "24"
+
+msgid "ಕೇಳಿ"
+msgstr "കേട്ടു"
+
+msgid "ಆಗಿರುವ"
+msgstr "ആയിട്ടുള്ള"
+
+msgid "ಕ್ರಿಸ್ತನಿಗೆ"
+msgstr "ക്രിസ്തുവിന്"
+
+msgid "ಭರವಸವುಳ್ಳವನಾಗಿ"
+msgstr "ഉറപ്പുള്ളവനായി"
+
+msgid "ನಿನಗೂ"
+msgstr "നിനക്ക്"
+
+msgid "ಆಜ್ಞಾಪಿಸದೇ"
+msgstr "ആജ്ഞാപിക്കാതെ"
+
+msgid "ನನ್ನ"
+msgstr "എന്റെ"
+
+msgid "20"
+msgstr "20"
+
+msgid "ನಿನ್ನನ್ನು"
+msgstr "നിന്റെ"
+
+msgid "\\id"
+msgstr "\\id"
+
+msgid "ಪ್ರೀತಿಯನ್ನು"
+msgstr "സ്നേഹത്തെ"
+
+msgid "ಆಧರಣೆಯೂ"
+msgstr "ആശ്വാസവും"
+
+msgid "ಸುವಾರ್ತೆಯ"
+msgstr "സുവിശേഷത്തിന്റെ"
+
+msgid "ಪ್ರಿಯನಾಗಿರುವಲ್ಲಿ"
+msgstr "പ്രിയനായവനാകയാൽ"
+
+msgid "ಸಹೋದರನೇ"
+msgstr "സഹോദരാ"
+
+msgid "ಹೇಳುವದಕ್ಕಿಂತಲೂ"
+msgstr "പറയുന്നതിനെക്കാളും"
+
+msgid "ಇದಲ್ಲದೆ"
+msgstr "ഇതല്ലാതെ"
+
+msgid "ಇನ್ನೂ"
+msgstr "ഇനിയും"
+
+msgid "ಮಾಡುವಿ"
+msgstr "ചെയ്യും"
+
+msgid "ಯೇಸುವಿನ"
+msgstr "യേശുവിന്റെ/യേശുവിനായി"
+
+msgid "ಅರ್ಖಿಪ್ಪನಿಗೂ"
+msgstr "അർക്കിപ്പാവിന്നും"
+
+msgid "8"
+msgstr "8"
+
+msgid "ಯೇಸು"
+msgstr "യേശു"
+
+msgid "ದೇವರಿಗೆ"
+msgstr "ദൈവത്തിന്"
+
+msgid "ಈಗ"
+msgstr "ഇപ്പോൾ"
+
+msgid "ಆದರೆ"
+msgstr "പക്ഷേ"
+
+msgid "ಮಾಡುವಾಗೆಲ್ಲಾ"
+msgstr "ചെയ്യുമ്പോഴെല്ലാം"
+
+msgid "ಪ್ರೀತಿಯ"
+msgstr "പ്രിയ"
+
+msgid "ಎಂದು"
+msgstr "ആ"
+
+msgid "ಸಿದ್ದಮಾಡು"
+msgstr "തയ്യാറാക്കുക"
+
+msgid "6"
+msgstr "6"
+
+msgid "12"
+msgstr "12"
+
+msgid "ಕಳುಹಿಸಿಕೊಟ್ಟಿದ್ದೇನೆ"
+msgstr "അയച്ചിരിക്കുന്നു"
+
+msgid "ಪಡೆದಿರುವ"
+msgstr "ലഭിച്ചിട്ടുള്ള"
+
+msgid "ಹಾಗಾದರೆ"
+msgstr "അങ്ങനെയെങ്കിൽ"
+
+msgid "ಓನೇಸಿಮನ"
+msgstr "ഒനേസിമൊസിന്റെ"
+
+msgid "ನಿನಗೋಸ್ಕರ"
+msgstr "നിനക്കുവേണ്ടി"
+
+msgid "ವಂದನೆಗಳು"
+msgstr "വന്ദനം"
+
+msgid "ಮಾತನ್ನು"
+msgstr "വാക്കിന്"
+
+msgid "ನಮಗೆ"
+msgstr "നമ്മുക്ക്"
+
+msgid "ಮನೆಯಲ್ಲಿ"
+msgstr "വീട്ടിൽ"
+
+msgid "ಆಜ್ಞಾಪಿಸುವದಕ್ಕೆ"
+msgstr "കൽപ്പിക്കുവാനായി"
+
+msgid "ಕಡೇ"
+msgstr "അവസാന"
+
+msgid "ಮೇಲಿರುವ"
+msgstr "ഉയരത്തിലുള്ള"
+
+msgid "ಈ"
+msgstr "ഈ"
+
+msgid "ನಿರಂತರವೂ"
+msgstr "നിരന്തരം"
+
+msgid "14"
+msgstr "14"
+
+msgid "ಸಹೋದರನಂತಾಗಬೇಕು"
+msgstr "സഹോദരനെപ്പോലെയായിരിക്കണം"
+
+msgid "ತಿಳುವಳಿಕೆಯನ್ನು"
+msgstr "അറിവ്വ്"
+
+msgid "ಯೋಚಿಸಿದ್ದೇನೆ"
+msgstr "ചിന്തിച്ചു"
+
+msgid "ದೇಮ"
+msgstr "ദേമസ്"
+
+msgid "ಮಾಡು"
+msgstr "ചെയ്യുക"
+
+msgid "ಪ್ರಿಯ"
+msgstr "പ്രിയ"
+
+msgid "ಇಟ್ಟಿರುವ"
+msgstr "വെച്ചിട്ടുള്ള"
+
+msgid "ಯುಕ್ತವಾದದ್ದನ್ನು"
+msgstr "യുക്തമായതു"
+
+msgid "ಅನುಗ್ರಹಿಸುವನೆಂದು"
+msgstr "അനുഗ്രഹിക്കുന്നവനെന്ന്"
+
+msgid "ಮಾರ್ಕ"
+msgstr "മാർക്കോസ്സ്"
+
+msgid "ಹಾಕು"
+msgstr "ഇടുക"
+
+msgid "ಅಪ್ರಯೋಜಕನಾಗಿದ್ದನು"
+msgstr "പ്രയോജനമില്ലാത്തവനായിരുന്നു"
+
+msgid "ಸಹೋದರನಾದ"
+msgstr "സഹോദരനായ"
+
+msgid "1"
+msgstr "1"
+
+msgid "\\s"
+msgstr "\\s"
+
+msgid "18"
+msgstr "18"
+
+msgid "ತಿಮೋಥೆಯನೂ"
+msgstr "തിമൊഥെയൊസും"
+
+msgid "16"
+msgstr "16"
+
+msgid "ವಂದಿಸುತ್ತಾರೆ"
+msgstr "വന്ദനംചെയ്യുന്നു"
+
+msgid "ಕೃಪೆಯು"
+msgstr "കൃപയും"
+
+msgid "ಬರೆದಿದ್ದೇನೆ"
+msgstr "എഴുതിയിരിക്കുന്നു"
+
+msgid "ಜೊತೆ"
+msgstr "കൂടെ"
+
+msgid "ಬರೆಯುವದೇನಂದರೆ"
+msgstr "എഴുതുന്നതെന്തെന്നാൽ"
+
+msgid "ಮಹಿಮೆಯನ್ನು"
+msgstr "മഹത്ത്വം"
+
+msgid "ಜೊತೆಗಾರನೆಂದು"
+msgstr "കൂട്ടാളിയെന്ന്"
+
+msgid "ಸೆರೆಯವನೂ"
+msgstr "തടവുകാരൻ"
+
+msgid "ಸೆರೆಯಲ್ಲಿ"
+msgstr "തടവിൽ"
+
+msgid "ಸ್ವಂತ"
+msgstr "സ്വന്തം"
+
+msgid "ಅದನ್ನು"
+msgstr "അത്"
+
+msgid "ಮನಃಪೂರ್ವಕವಾಗಿಯೇ"
+msgstr "മനപൂർവ്വമായിട്ട്"
+
+msgid "ನಿನ್ನ"
+msgstr "നിന്റെ"
+
+msgid "ಪತ್ರಿಕೆ"
+msgstr "എഴുത്ത്"
+
+msgid "ತಂದೆಯಾದ"
+msgstr "പിതാവായ"
+
+msgid "ಕಾಲ"
+msgstr "കാലം"
+
+msgid "ದೇವಜನರ"
+msgstr "ദൈവജനത്തിന്റെ"
+
+msgid "ದೇವರು"
+msgstr "ദൈവം"
+
+msgid "ಹಿಂದಕ್ಕೆ"
+msgstr "തിരിച്ച്"
+
+msgid "ಹೇಳಬೇಕೇ"
+msgstr "പറയണമോ"
+
+msgid "ನಮ್ಮ"
+msgstr "നമ്മുടെ"
+
+msgid "ಅರಿಸ್ತಾರ್ಕ"
+msgstr "അരിസ്താർക്കൊസ്"
+
+msgid "25"
+msgstr "25"
+
+msgid "ಕರ್ತನ"
+msgstr "കർത്താവിന്റെ"
+
+msgid "ಯೋಚಿಸಿ"
+msgstr "ചിന്തിച്ച്"
+
+msgid "\\mt1"
+msgstr "\\mt1"
+
+msgid "ವಿಜ್ಞಾಪನೆ"
+msgstr "അപേക്ഷ"
+
+msgid "ನಂಬಿಕೆಯನ್ನು"
+msgstr "വിശ്വാസത്തെ"
+
+msgid "ಪ್ರಿಯನೂ"
+msgstr "പ്രിയ"
+
+msgid "ನೀನು"
+msgstr "നീ"
+
+msgid "ಅವನನ್ನು"
+msgstr "അവനെ"
+
+msgid "ಮೇಲೆ"
+msgstr "മേലെ"
+
+msgid "ಅವನಿಂದ"
+msgstr "അവനിൽനിന്ന്"
+
+msgid "ನಿಮಗೆ"
+msgstr "നിങ്ങൾക്ക്"
+
+msgid "ಬಲತ್ಕಾರದಿಂದಾಗದೆ"
+msgstr "നിർബന്ധത്താലല്ലാതെ"
+
+msgid "ನನ್ನನ್ನು"
+msgstr "എന്നെ"
+
+msgid "ಇಳುಕೊಳ್ಳುವ"
+msgstr "താമസിക്കാനുള്ള"
+
+msgid "ಕೊಟ್ಟು"
+msgstr "കൊടുത്തു"
+
+msgid "ಕೇಳಿದ್ದರಿಂದ"
+msgstr "കേട്ടതുകൊണ്ട്"
+
+msgid "\\c"
+msgstr "\\c"
