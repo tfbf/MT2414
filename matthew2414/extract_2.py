@@ -1,7 +1,7 @@
-import os
+# import os
 import sys
 import polib
-import nltk
+# import nltk
 import argparse
 import codecs
 
