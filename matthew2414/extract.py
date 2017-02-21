@@ -4,6 +4,7 @@ import sys
 import nltk
 import polib
 
+from nltk.tokenize import moses # Moses handles the punctuations better than the word_tokenize
 
 PO_METADATA = {
     'Project-Id-Version': '1.0',
@@ -19,7 +20,9 @@ PO_METADATA = {
 
 def tokenize(file_path):
     input_text = open(file_path).read()
-    tokens = nltk.word_tokenize(input_text.decode('utf8'))
+    tokenizer = moses.MosesTokenizer()
+    tokens = tokenizer.tokenize(input_text.decode('utf8'))
+#    tokens = nltk.word_tokenize(input_text.decode('utf8'))
     return set([x.encode('utf-8') for x in tokens])
 
 def main():
