@@ -5,6 +5,9 @@ import polib
 import argparse
 import codecs
 
+from nltk.tokenize import moses
+
+tokenizer = moses.MosesTokenizer()
 po = polib.POFile("", encoding="utf-8")
 po.metadata = {
     'Project-Id-Version': '1.0',
@@ -30,7 +33,8 @@ def write_output(gw_file_path, dest_file_path, tokens):
     input_text_lines = open(gw_file_path).readlines()
     out_text_lines = []
     for line in input_text_lines:
-        line_words = nltk.word_tokenize(line.decode('utf8'))
+        tokenizer.tokenize(line.decode('utf8'))
+#        line_words = nltk.word_tokenize(line.decode('utf8'))
         new_line_words = []
         for word in line_words:
             new_line_words.append(tokens.get(word, word))
